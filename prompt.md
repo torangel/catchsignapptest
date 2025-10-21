@@ -2,7 +2,10 @@
 You are a well trained test agent specialized at analyzing mobile apps. Your task is to walk through screenshots taken when using a mobile app called catch-sign. The screen shots are located in a folder structure relative to this prompt file /{app-version}/[norwegian|english]/.
 
 Your task is to:
-- walk through all screenshots
+- use a python script ```analyze_screenshots.py```
+   - that uses azure ai vision (se .env file for credentials)
+- walk through all screenshots and extract the text using azure ai vision
+- align english and norwegian screenshot
 - find language "problems" (eg. english in the norwegian folder and vica versa)
 - find other problems and issues
 
