@@ -1,0 +1,411 @@
+{
+  "filename": "Screenshot_20251021-150059.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\norwegian\\Screenshot_20251021-150059.png",
+  "relative_path": "2.0.0.b297\\norwegian\\Screenshot_20251021-150059.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:43:38.606286",
+  "ocr_result": {
+    "text": "15:00 in ₸\n.Il ~ 84\nSigner dette dokumentet?\nEr du klar til å signere? emptydok135?\nAvbryt\nSignèr",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:43:36Z",
+      "lastUpdatedDateTime": "2025-10-21T13:43:37Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  85,
+                  58,
+                  274,
+                  58,
+                  274,
+                  95,
+                  85,
+                  95
+                ],
+                "text": "15:00 in ₸",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      86,
+                      61,
+                      167,
+                      60,
+                      166,
+                      96,
+                      85,
+                      93
+                    ],
+                    "text": "15:00",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      191,
+                      59,
+                      221,
+                      59,
+                      220,
+                      96,
+                      190,
+                      96
+                    ],
+                    "text": "in",
+                    "confidence": 0.892
+                  },
+                  {
+                    "boundingBox": [
+                      243,
+                      59,
+                      263,
+                      59,
+                      263,
+                      96,
+                      242,
+                      96
+                    ],
+                    "text": "₸",
+                    "confidence": 0.077
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  707,
+                  63,
+                  857,
+                  59,
+                  859,
+                  91,
+                  708,
+                  99
+                ],
+                "text": ".Il ~ 84",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      707,
+                      67,
+                      744,
+                      63,
+                      745,
+                      97,
+                      709,
+                      100
+                    ],
+                    "text": ".Il",
+                    "confidence": 0.054
+                  },
+                  {
+                    "boundingBox": [
+                      765,
+                      61,
+                      783,
+                      60,
+                      784,
+                      94,
+                      766,
+                      95
+                    ],
+                    "text": "~",
+                    "confidence": 0.003
+                  },
+                  {
+                    "boundingBox": [
+                      819,
+                      60,
+                      856,
+                      62,
+                      857,
+                      89,
+                      820,
+                      92
+                    ],
+                    "text": "84",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  154,
+                  1067,
+                  805,
+                  1067,
+                  806,
+                  1121,
+                  154,
+                  1128
+                ],
+                "text": "Signer dette dokumentet?",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      156,
+                      1068,
+                      314,
+                      1069,
+                      312,
+                      1126,
+                      155,
+                      1129
+                    ],
+                    "text": "Signer",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      325,
+                      1069,
+                      458,
+                      1070,
+                      456,
+                      1122,
+                      323,
+                      1125
+                    ],
+                    "text": "dette",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      469,
+                      1070,
+                      805,
+                      1067,
+                      804,
+                      1117,
+                      468,
+                      1122
+                    ],
+                    "text": "dokumentet?",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  211,
+                  1152,
+                  750,
+                  1152,
+                  750,
+                  1190,
+                  211,
+                  1190
+                ],
+                "text": "Er du klar til å signere? emptydok135?",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      213,
+                      1153,
+                      239,
+                      1153,
+                      238,
+                      1190,
+                      212,
+                      1189
+                    ],
+                    "text": "Er",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      247,
+                      1153,
+                      280,
+                      1154,
+                      279,
+                      1190,
+                      245,
+                      1190
+                    ],
+                    "text": "du",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      288,
+                      1154,
+                      341,
+                      1154,
+                      340,
+                      1190,
+                      286,
+                      1190
+                    ],
+                    "text": "klar",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      348,
+                      1154,
+                      377,
+                      1155,
+                      376,
+                      1191,
+                      347,
+                      1190
+                    ],
+                    "text": "til",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      384,
+                      1155,
+                      399,
+                      1155,
+                      398,
+                      1191,
+                      384,
+                      1191
+                    ],
+                    "text": "å",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      406,
+                      1155,
+                      530,
+                      1155,
+                      529,
+                      1191,
+                      405,
+                      1191
+                    ],
+                    "text": "signere?",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      537,
+                      1155,
+                      751,
+                      1152,
+                      751,
+                      1191,
+                      536,
+                      1191
+                    ],
+                    "text": "emptydok135?",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  205,
+                  1982,
+                  296,
+                  1984,
+                  297,
+                  2016,
+                  203,
+                  2013
+                ],
+                "text": "Avbryt",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      203,
+                      1982,
+                      297,
+                      1984,
+                      296,
+                      2016,
+                      203,
+                      2013
+                    ],
+                    "text": "Avbryt",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  665,
+                  1981,
+                  756,
+                  1982,
+                  756,
+                  2016,
+                  664,
+                  2014
+                ],
+                "text": "Signèr",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      664,
+                      1981,
+                      755,
+                      1982,
+                      754,
+                      2016,
+                      664,
+                      2014
+                    ],
+                    "text": "Signèr",
+                    "confidence": 0.955
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

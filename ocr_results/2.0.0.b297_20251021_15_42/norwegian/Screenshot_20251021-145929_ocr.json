@@ -1,0 +1,943 @@
+{
+  "filename": "Screenshot_20251021-145929.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\norwegian\\Screenshot_20251021-145929.png",
+  "relative_path": "2.0.0.b297\\norwegian\\Screenshot_20251021-145929.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:43:20.960855",
+  "ocr_result": {
+    "text": "14:59 in ₸\nGod ettermiddag, Tor Christian1!\nTirsdag 21 Oktober 2025\nemptydok135\nTil signering\nthe description for 135\nTest 135 sign\n2025-10-21\n16\nTil signering\n1\nSigneringskø\n9\nAvvist\n134\nSignert\n=\nHjem\nDokumenter\nProfil",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:43:19Z",
+      "lastUpdatedDateTime": "2025-10-21T13:43:19Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  85,
+                  58,
+                  272,
+                  58,
+                  272,
+                  96,
+                  85,
+                  95
+                ],
+                "text": "14:59 in ₸",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      86,
+                      60,
+                      166,
+                      60,
+                      166,
+                      96,
+                      85,
+                      94
+                    ],
+                    "text": "14:59",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      186,
+                      59,
+                      216,
+                      59,
+                      216,
+                      97,
+                      186,
+                      97
+                    ],
+                    "text": "in",
+                    "confidence": 0.885
+                  },
+                  {
+                    "boundingBox": [
+                      236,
+                      59,
+                      257,
+                      59,
+                      257,
+                      97,
+                      236,
+                      97
+                    ],
+                    "text": "₸",
+                    "confidence": 0.166
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  130,
+                  190,
+                  830,
+                  190,
+                  830,
+                  242,
+                  130,
+                  242
+                ],
+                "text": "God ettermiddag, Tor Christian1!",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      132,
+                      191,
+                      216,
+                      191,
+                      215,
+                      242,
+                      130,
+                      241
+                    ],
+                    "text": "God",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      227,
+                      191,
+                      500,
+                      192,
+                      499,
+                      243,
+                      225,
+                      242
+                    ],
+                    "text": "ettermiddag,",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      509,
+                      192,
+                      579,
+                      192,
+                      578,
+                      243,
+                      509,
+                      243
+                    ],
+                    "text": "Tor",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      588,
+                      192,
+                      829,
+                      192,
+                      830,
+                      239,
+                      588,
+                      243
+                    ],
+                    "text": "Christian1!",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  288,
+                  263,
+                  670,
+                  262,
+                  670,
+                  300,
+                  288,
+                  301
+                ],
+                "text": "Tirsdag 21 Oktober 2025",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      292,
+                      264,
+                      404,
+                      265,
+                      403,
+                      301,
+                      291,
+                      302
+                    ],
+                    "text": "Tirsdag",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      411,
+                      265,
+                      450,
+                      265,
+                      450,
+                      301,
+                      411,
+                      301
+                    ],
+                    "text": "21",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      457,
+                      265,
+                      579,
+                      264,
+                      580,
+                      301,
+                      457,
+                      301
+                    ],
+                    "text": "Oktober",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      587,
+                      264,
+                      664,
+                      263,
+                      665,
+                      301,
+                      587,
+                      301
+                    ],
+                    "text": "2025",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  186,
+                  412,
+                  421,
+                  407,
+                  422,
+                  446,
+                  186,
+                  449
+                ],
+                "text": "emptydok135",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      187,
+                      414,
+                      416,
+                      408,
+                      417,
+                      447,
+                      187,
+                      449
+                    ],
+                    "text": "emptydok135",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  704,
+                  411,
+                  872,
+                  413,
+                  871,
+                  446,
+                  704,
+                  442
+                ],
+                "text": "Til signering",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      704,
+                      412,
+                      737,
+                      412,
+                      737,
+                      443,
+                      704,
+                      442
+                    ],
+                    "text": "Til",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      744,
+                      412,
+                      869,
+                      413,
+                      870,
+                      447,
+                      744,
+                      443
+                    ],
+                    "text": "signering",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  188,
+                  457,
+                  513,
+                  457,
+                  513,
+                  495,
+                  188,
+                  495
+                ],
+                "text": "the description for 135",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      188,
+                      460,
+                      229,
+                      461,
+                      229,
+                      494,
+                      188,
+                      492
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      236,
+                      461,
+                      398,
+                      460,
+                      398,
+                      496,
+                      236,
+                      494
+                    ],
+                    "text": "description",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      406,
+                      460,
+                      452,
+                      459,
+                      451,
+                      496,
+                      406,
+                      496
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      459,
+                      459,
+                      511,
+                      457,
+                      510,
+                      495,
+                      458,
+                      496
+                    ],
+                    "text": "135",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  186,
+                  510,
+                  383,
+                  512,
+                  383,
+                  546,
+                  186,
+                  543
+                ],
+                "text": "Test 135 sign",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      188,
+                      510,
+                      251,
+                      511,
+                      252,
+                      544,
+                      188,
+                      544
+                    ],
+                    "text": "Test",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      258,
+                      511,
+                      308,
+                      512,
+                      308,
+                      545,
+                      258,
+                      544
+                    ],
+                    "text": "135",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      315,
+                      512,
+                      377,
+                      513,
+                      378,
+                      546,
+                      315,
+                      545
+                    ],
+                    "text": "sign",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  740,
+                  512,
+                  884,
+                  512,
+                  884,
+                  539,
+                  740,
+                  539
+                ],
+                "text": "2025-10-21",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      741,
+                      513,
+                      885,
+                      513,
+                      884,
+                      540,
+                      741,
+                      539
+                    ],
+                    "text": "2025-10-21",
+                    "confidence": 0.967
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  305,
+                  879,
+                  369,
+                  878,
+                  370,
+                  925,
+                  305,
+                  925
+                ],
+                "text": "16",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      305,
+                      878,
+                      359,
+                      878,
+                      360,
+                      925,
+                      305,
+                      925
+                    ],
+                    "text": "16",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  241,
+                  951,
+                  424,
+                  955,
+                  424,
+                  988,
+                  241,
+                  985
+                ],
+                "text": "Til signering",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      245,
+                      952,
+                      280,
+                      953,
+                      278,
+                      987,
+                      243,
+                      986
+                    ],
+                    "text": "Til",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      287,
+                      953,
+                      423,
+                      956,
+                      423,
+                      988,
+                      285,
+                      987
+                    ],
+                    "text": "signering",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  654,
+                  1125,
+                  684,
+                  1124,
+                  688,
+                  1162,
+                  658,
+                  1162
+                ],
+                "text": "1",
+                "appearance": {
+                  "style": {
+                    "name": "handwriting",
+                    "confidence": 0.428
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      659,
+                      1124,
+                      684,
+                      1124,
+                      684,
+                      1161,
+                      660,
+                      1162
+                    ],
+                    "text": "1",
+                    "confidence": 0.613
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  576,
+                  1191,
+                  765,
+                  1191,
+                  765,
+                  1227,
+                  576,
+                  1227
+                ],
+                "text": "Signeringskø",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      577,
+                      1192,
+                      765,
+                      1192,
+                      764,
+                      1228,
+                      576,
+                      1228
+                    ],
+                    "text": "Signeringskø",
+                    "confidence": 0.981
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  346,
+                  1260,
+                  378,
+                  1259,
+                  377,
+                  1306,
+                  346,
+                  1306
+                ],
+                "text": "9",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      346,
+                      1259,
+                      372,
+                      1259,
+                      373,
+                      1306,
+                      346,
+                      1306
+                    ],
+                    "text": "9",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  313,
+                  1335,
+                  404,
+                  1335,
+                  404,
+                  1363,
+                  312,
+                  1362
+                ],
+                "text": "Avvist",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      316,
+                      1335,
+                      405,
+                      1335,
+                      405,
+                      1364,
+                      314,
+                      1362
+                    ],
+                    "text": "Avvist",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  562,
+                  1474,
+                  665,
+                  1473,
+                  665,
+                  1523,
+                  561,
+                  1523
+                ],
+                "text": "134",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      563,
+                      1473,
+                      656,
+                      1473,
+                      656,
+                      1523,
+                      563,
+                      1523
+                    ],
+                    "text": "134",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  560,
+                  1546,
+                  668,
+                  1547,
+                  667,
+                  1582,
+                  559,
+                  1581
+                ],
+                "text": "Signert",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      561,
+                      1547,
+                      668,
+                      1549,
+                      667,
+                      1583,
+                      560,
+                      1582
+                    ],
+                    "text": "Signert",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  464,
+                  1958,
+                  491,
+                  1957,
+                  493,
+                  1989,
+                  466,
+                  1990
+                ],
+                "text": "=",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      464,
+                      1958,
+                      482,
+                      1957,
+                      483,
+                      1989,
+                      465,
+                      1990
+                    ],
+                    "text": "=",
+                    "confidence": 0.682
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  118,
+                  2020,
+                  184,
+                  2021,
+                  184,
+                  2048,
+                  117,
+                  2048
+                ],
+                "text": "Hjem",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      117,
+                      2020,
+                      174,
+                      2020,
+                      174,
+                      2048,
+                      117,
+                      2047
+                    ],
+                    "text": "Hjem",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  397,
+                  2020,
+                  558,
+                  2020,
+                  558,
+                  2047,
+                  397,
+                  2046
+                ],
+                "text": "Dokumenter",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      399,
+                      2021,
+                      557,
+                      2022,
+                      556,
+                      2047,
+                      398,
+                      2047
+                    ],
+                    "text": "Dokumenter",
+                    "confidence": 0.992
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  767,
+                  2019,
+                  839,
+                  2019,
+                  838,
+                  2048,
+                  767,
+                  2046
+                ],
+                "text": "Profil",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      767,
+                      2019,
+                      837,
+                      2019,
+                      836,
+                      2048,
+                      767,
+                      2047
+                    ],
+                    "text": "Profil",
+                    "confidence": 0.991
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

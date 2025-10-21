@@ -1,0 +1,698 @@
+{
+  "filename": "Screenshot_20251021-150750.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\english\\Screenshot_20251021-150750.png",
+  "relative_path": "2.0.0.b297\\english\\Screenshot_20251021-150750.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:44:05.583010",
+  "ocr_result": {
+    "text": "15:07\nPin T\n.1 . 83\n< Back\nAccess Pincode\nPlease register a 4-digit pin code to use for access and\nsigning.\nO\nShow PIN\nLog out / Close session\nNext",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:44:03Z",
+      "lastUpdatedDateTime": "2025-10-21T13:44:04Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  88,
+                  62,
+                  171,
+                  59,
+                  170,
+                  92,
+                  87,
+                  91
+                ],
+                "text": "15:07",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      87,
+                      60,
+                      169,
+                      59,
+                      169,
+                      92,
+                      87,
+                      93
+                    ],
+                    "text": "15:07",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  180,
+                  58,
+                  327,
+                  57,
+                  327,
+                  96,
+                  180,
+                  96
+                ],
+                "text": "Pin T",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      185,
+                      60,
+                      265,
+                      59,
+                      267,
+                      97,
+                      186,
+                      97
+                    ],
+                    "text": "Pin",
+                    "confidence": 0.606
+                  },
+                  {
+                    "boundingBox": [
+                      286,
+                      59,
+                      307,
+                      58,
+                      309,
+                      97,
+                      288,
+                      97
+                    ],
+                    "text": "T",
+                    "confidence": 0.637
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  705,
+                  62,
+                  862,
+                  59,
+                  864,
+                  93,
+                  705,
+                  99
+                ],
+                "text": ".1 . 83",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      68,
+                      740,
+                      63,
+                      741,
+                      98,
+                      706,
+                      100
+                    ],
+                    "text": ".1",
+                    "confidence": 0.072
+                  },
+                  {
+                    "boundingBox": [
+                      771,
+                      60,
+                      793,
+                      60,
+                      794,
+                      95,
+                      772,
+                      96
+                    ],
+                    "text": ".",
+                    "confidence": 0.1
+                  },
+                  {
+                    "boundingBox": [
+                      824,
+                      60,
+                      858,
+                      62,
+                      859,
+                      93,
+                      825,
+                      94
+                    ],
+                    "text": "83",
+                    "confidence": 0.987
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  42,
+                  180,
+                  167,
+                  180,
+                  167,
+                  213,
+                  42,
+                  213
+                ],
+                "text": "< Back",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      44,
+                      183,
+                      62,
+                      182,
+                      62,
+                      213,
+                      44,
+                      214
+                    ],
+                    "text": "<",
+                    "confidence": 0.677
+                  },
+                  {
+                    "boundingBox": [
+                      90,
+                      181,
+                      164,
+                      183,
+                      164,
+                      214,
+                      90,
+                      213
+                    ],
+                    "text": "Back",
+                    "confidence": 1
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  274,
+                  424,
+                  272,
+                  424,
+                  321,
+                  35,
+                  323
+                ],
+                "text": "Access Pincode",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      37,
+                      276,
+                      208,
+                      275,
+                      208,
+                      323,
+                      36,
+                      321
+                    ],
+                    "text": "Access",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      218,
+                      275,
+                      418,
+                      273,
+                      419,
+                      321,
+                      218,
+                      323
+                    ],
+                    "text": "Pincode",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  36,
+                  392,
+                  819,
+                  392,
+                  819,
+                  429,
+                  36,
+                  429
+                ],
+                "text": "Please register a 4-digit pin code to use for access and",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      37,
+                      393,
+                      126,
+                      392,
+                      126,
+                      430,
+                      37,
+                      429
+                    ],
+                    "text": "Please",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      133,
+                      392,
+                      247,
+                      392,
+                      246,
+                      430,
+                      133,
+                      430
+                    ],
+                    "text": "register",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      254,
+                      392,
+                      273,
+                      392,
+                      272,
+                      430,
+                      253,
+                      430
+                    ],
+                    "text": "a",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      280,
+                      392,
+                      367,
+                      392,
+                      367,
+                      430,
+                      279,
+                      430
+                    ],
+                    "text": "4-digit",
+                    "confidence": 0.982
+                  },
+                  {
+                    "boundingBox": [
+                      374,
+                      392,
+                      421,
+                      392,
+                      421,
+                      430,
+                      374,
+                      430
+                    ],
+                    "text": "pin",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      428,
+                      392,
+                      497,
+                      393,
+                      496,
+                      429,
+                      428,
+                      430
+                    ],
+                    "text": "code",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      504,
+                      393,
+                      534,
+                      393,
+                      534,
+                      429,
+                      503,
+                      429
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      541,
+                      393,
+                      593,
+                      393,
+                      593,
+                      429,
+                      541,
+                      429
+                    ],
+                    "text": "use",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      600,
+                      393,
+                      645,
+                      393,
+                      645,
+                      428,
+                      600,
+                      429
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      652,
+                      393,
+                      751,
+                      394,
+                      751,
+                      427,
+                      652,
+                      428
+                    ],
+                    "text": "access",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      758,
+                      394,
+                      814,
+                      395,
+                      814,
+                      426,
+                      758,
+                      427
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  36,
+                  440,
+                  146,
+                  440,
+                  146,
+                  476,
+                  36,
+                  475
+                ],
+                "text": "signing.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      442,
+                      146,
+                      441,
+                      145,
+                      477,
+                      36,
+                      475
+                    ],
+                    "text": "signing.",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  377,
+                  834,
+                  410,
+                  835,
+                  409,
+                  863,
+                  376,
+                  862
+                ],
+                "text": "O",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      377,
+                      834,
+                      394,
+                      834,
+                      393,
+                      862,
+                      377,
+                      862
+                    ],
+                    "text": "O",
+                    "confidence": 0.779
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  430,
+                  832,
+                  592,
+                  832,
+                  592,
+                  867,
+                  430,
+                  867
+                ],
+                "text": "Show PIN",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      430,
+                      833,
+                      510,
+                      833,
+                      510,
+                      867,
+                      430,
+                      867
+                    ],
+                    "text": "Show",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      527,
+                      833,
+                      583,
+                      832,
+                      583,
+                      868,
+                      527,
+                      867
+                    ],
+                    "text": "PIN",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  286,
+                  973,
+                  672,
+                  973,
+                  673,
+                  1010,
+                  286,
+                  1011
+                ],
+                "text": "Log out / Close session",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      287,
+                      974,
+                      344,
+                      974,
+                      344,
+                      1011,
+                      286,
+                      1010
+                    ],
+                    "text": "Log",
+                    "confidence": 0.992
+                  },
+                  {
+                    "boundingBox": [
+                      352,
+                      974,
+                      408,
+                      973,
+                      407,
+                      1012,
+                      352,
+                      1011
+                    ],
+                    "text": "out",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      415,
+                      973,
+                      432,
+                      973,
+                      432,
+                      1012,
+                      415,
+                      1012
+                    ],
+                    "text": "/",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      439,
+                      973,
+                      533,
+                      973,
+                      533,
+                      1011,
+                      439,
+                      1012
+                    ],
+                    "text": "Close",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      541,
+                      973,
+                      669,
+                      974,
+                      670,
+                      1008,
+                      541,
+                      1011
+                    ],
+                    "text": "session",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  446,
+                  1964,
+                  515,
+                  1965,
+                  516,
+                  1993,
+                  446,
+                  1992
+                ],
+                "text": "Next",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      446,
+                      1964,
+                      515,
+                      1965,
+                      515,
+                      1993,
+                      446,
+                      1992
+                    ],
+                    "text": "Next",
+                    "confidence": 0.994
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

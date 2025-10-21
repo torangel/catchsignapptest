@@ -1,0 +1,495 @@
+{
+  "filename": "Screenshot_20251021-150200.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\norwegian\\Screenshot_20251021-150200.png",
+  "relative_path": "2.0.0.b297\\norwegian\\Screenshot_20251021-150200.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:43:47.881219",
+  "ocr_result": {
+    "text": "15:01 in ₸\n.Il ~ 84\n< Tilbake\nNåværende PIN-kode\nVennligst skriv inn din nåværende PIN-kode først.\nO\nVis PIN\nNeste",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:43:45Z",
+      "lastUpdatedDateTime": "2025-10-21T13:43:46Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  84,
+                  57,
+                  269,
+                  57,
+                  269,
+                  96,
+                  84,
+                  96
+                ],
+                "text": "15:01 in ₸",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      87,
+                      61,
+                      168,
+                      60,
+                      168,
+                      95,
+                      86,
+                      93
+                    ],
+                    "text": "15:01",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      185,
+                      60,
+                      214,
+                      59,
+                      215,
+                      96,
+                      185,
+                      96
+                    ],
+                    "text": "in",
+                    "confidence": 0.948
+                  },
+                  {
+                    "boundingBox": [
+                      236,
+                      59,
+                      259,
+                      58,
+                      259,
+                      97,
+                      236,
+                      97
+                    ],
+                    "text": "₸",
+                    "confidence": 0.048
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  704,
+                  64,
+                  858,
+                  59,
+                  860,
+                  91,
+                  706,
+                  99
+                ],
+                "text": ".Il ~ 84",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      68,
+                      755,
+                      61,
+                      756,
+                      96,
+                      706,
+                      100
+                    ],
+                    "text": ".Il",
+                    "confidence": 0.089
+                  },
+                  {
+                    "boundingBox": [
+                      764,
+                      61,
+                      782,
+                      60,
+                      783,
+                      94,
+                      765,
+                      95
+                    ],
+                    "text": "~",
+                    "confidence": 0.006
+                  },
+                  {
+                    "boundingBox": [
+                      817,
+                      60,
+                      854,
+                      62,
+                      855,
+                      89,
+                      819,
+                      92
+                    ],
+                    "text": "84",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  43,
+                  180,
+                  201,
+                  181,
+                  201,
+                  213,
+                  43,
+                  213
+                ],
+                "text": "< Tilbake",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      45,
+                      183,
+                      63,
+                      182,
+                      61,
+                      213,
+                      44,
+                      213
+                    ],
+                    "text": "<",
+                    "confidence": 0.566
+                  },
+                  {
+                    "boundingBox": [
+                      92,
+                      181,
+                      197,
+                      183,
+                      198,
+                      214,
+                      91,
+                      213
+                    ],
+                    "text": "Tilbake",
+                    "confidence": 1
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  269,
+                  556,
+                  270,
+                  556,
+                  322,
+                  33,
+                  322
+                ],
+                "text": "Nåværende PIN-kode",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      270,
+                      308,
+                      273,
+                      308,
+                      323,
+                      34,
+                      323
+                    ],
+                    "text": "Nåværende",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      318,
+                      273,
+                      549,
+                      272,
+                      550,
+                      322,
+                      318,
+                      323
+                    ],
+                    "text": "PIN-kode",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  392,
+                  734,
+                  392,
+                  734,
+                  427,
+                  34,
+                  429
+                ],
+                "text": "Vennligst skriv inn din nåværende PIN-kode først.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      393,
+                      164,
+                      393,
+                      163,
+                      430,
+                      34,
+                      430
+                    ],
+                    "text": "Vennligst",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      171,
+                      393,
+                      241,
+                      392,
+                      240,
+                      430,
+                      171,
+                      430
+                    ],
+                    "text": "skriv",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      248,
+                      392,
+                      294,
+                      392,
+                      293,
+                      429,
+                      247,
+                      430
+                    ],
+                    "text": "inn",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      301,
+                      392,
+                      344,
+                      392,
+                      343,
+                      429,
+                      300,
+                      429
+                    ],
+                    "text": "din",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      351,
+                      392,
+                      509,
+                      392,
+                      509,
+                      429,
+                      351,
+                      429
+                    ],
+                    "text": "nåværende",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      516,
+                      392,
+                      648,
+                      392,
+                      648,
+                      428,
+                      516,
+                      428
+                    ],
+                    "text": "PIN-kode",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      655,
+                      392,
+                      735,
+                      392,
+                      735,
+                      427,
+                      655,
+                      428
+                    ],
+                    "text": "først.",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  394,
+                  789,
+                  430,
+                  791,
+                  429,
+                  817,
+                  393,
+                  814
+                ],
+                "text": "O",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      397,
+                      789,
+                      412,
+                      790,
+                      410,
+                      816,
+                      395,
+                      815
+                    ],
+                    "text": "O",
+                    "confidence": 0.775
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  445,
+                  788,
+                  572,
+                  788,
+                  572,
+                  821,
+                  445,
+                  821
+                ],
+                "text": "Vis PIN",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      447,
+                      788,
+                      499,
+                      789,
+                      499,
+                      822,
+                      447,
+                      822
+                    ],
+                    "text": "Vis",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      506,
+                      789,
+                      562,
+                      789,
+                      562,
+                      822,
+                      506,
+                      822
+                    ],
+                    "text": "PIN",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  431,
+                  1965,
+                  518,
+                  1965,
+                  518,
+                  1993,
+                  431,
+                  1993
+                ],
+                "text": "Neste",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      433,
+                      1966,
+                      515,
+                      1966,
+                      515,
+                      1994,
+                      432,
+                      1993
+                    ],
+                    "text": "Neste",
+                    "confidence": 0.994
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

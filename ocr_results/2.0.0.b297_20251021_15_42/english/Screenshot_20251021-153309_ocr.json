@@ -1,0 +1,383 @@
+{
+  "filename": "Screenshot_20251021-153309.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\english\\Screenshot_20251021-153309.png",
+  "relative_path": "2.0.0.b297\\english\\Screenshot_20251021-153309.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:44:35.320943",
+  "ocr_result": {
+    "text": "15:33 @ T\n.Ill 82\nSign this document?\nAre you ready to sign? emptydok135?\nCancel\nSign",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:44:33Z",
+      "lastUpdatedDateTime": "2025-10-21T13:44:33Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": -0.2809,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  86,
+                  58,
+                  272,
+                  57,
+                  273,
+                  93,
+                  86,
+                  94
+                ],
+                "text": "15:33 @ T",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      87,
+                      62,
+                      169,
+                      58,
+                      169,
+                      94,
+                      87,
+                      93
+                    ],
+                    "text": "15:33",
+                    "confidence": 0.99
+                  },
+                  {
+                    "boundingBox": [
+                      192,
+                      58,
+                      215,
+                      58,
+                      215,
+                      94,
+                      192,
+                      94
+                    ],
+                    "text": "@",
+                    "confidence": 0.069
+                  },
+                  {
+                    "boundingBox": [
+                      242,
+                      58,
+                      265,
+                      58,
+                      265,
+                      94,
+                      243,
+                      94
+                    ],
+                    "text": "T",
+                    "confidence": 0.599
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  704,
+                  62,
+                  861,
+                  59,
+                  862,
+                  93,
+                  705,
+                  98
+                ],
+                "text": ".Ill 82",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      66,
+                      755,
+                      61,
+                      756,
+                      96,
+                      706,
+                      99
+                    ],
+                    "text": ".Ill",
+                    "confidence": 0.07
+                  },
+                  {
+                    "boundingBox": [
+                      820,
+                      60,
+                      856,
+                      62,
+                      857,
+                      93,
+                      821,
+                      93
+                    ],
+                    "text": "82",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  221,
+                  1068,
+                  736,
+                  1067,
+                  737,
+                  1123,
+                  222,
+                  1130
+                ],
+                "text": "Sign this document?",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      222,
+                      1069,
+                      326,
+                      1069,
+                      327,
+                      1128,
+                      223,
+                      1131
+                    ],
+                    "text": "Sign",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      338,
+                      1069,
+                      437,
+                      1068,
+                      437,
+                      1125,
+                      339,
+                      1128
+                    ],
+                    "text": "this",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      448,
+                      1068,
+                      734,
+                      1068,
+                      734,
+                      1117,
+                      448,
+                      1125
+                    ],
+                    "text": "document?",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  215,
+                  1153,
+                  745,
+                  1151,
+                  745,
+                  1191,
+                  215,
+                  1193
+                ],
+                "text": "Are you ready to sign? emptydok135?",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      217,
+                      1155,
+                      262,
+                      1155,
+                      261,
+                      1192,
+                      216,
+                      1192
+                    ],
+                    "text": "Are",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      269,
+                      1155,
+                      320,
+                      1155,
+                      319,
+                      1192,
+                      268,
+                      1192
+                    ],
+                    "text": "you",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      327,
+                      1155,
+                      405,
+                      1155,
+                      404,
+                      1193,
+                      326,
+                      1192
+                    ],
+                    "text": "ready",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      413,
+                      1155,
+                      440,
+                      1155,
+                      440,
+                      1193,
+                      412,
+                      1193
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      448,
+                      1155,
+                      523,
+                      1154,
+                      523,
+                      1193,
+                      447,
+                      1193
+                    ],
+                    "text": "sign?",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      531,
+                      1154,
+                      745,
+                      1151,
+                      745,
+                      1192,
+                      530,
+                      1193
+                    ],
+                    "text": "emptydok135?",
+                    "confidence": 0.97
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  199,
+                  1983,
+                  301,
+                  1982,
+                  301,
+                  2012,
+                  199,
+                  2012
+                ],
+                "text": "Cancel",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      200,
+                      1985,
+                      299,
+                      1983,
+                      300,
+                      2013,
+                      200,
+                      2012
+                    ],
+                    "text": "Cancel",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  680,
+                  1983,
+                  744,
+                  1986,
+                  743,
+                  2016,
+                  677,
+                  2013
+                ],
+                "text": "Sign",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      678,
+                      1983,
+                      741,
+                      1986,
+                      740,
+                      2016,
+                      677,
+                      2013
+                    ],
+                    "text": "Sign",
+                    "confidence": 0.989
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

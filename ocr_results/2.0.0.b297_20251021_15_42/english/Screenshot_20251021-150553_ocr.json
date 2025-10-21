@@ -1,0 +1,824 @@
+{
+  "filename": "Screenshot_20251021-150553.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\english\\Screenshot_20251021-150553.png",
+  "relative_path": "2.0.0.b297\\english\\Screenshot_20251021-150553.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:43:53.720941",
+  "ocr_result": {
+    "text": "15:05 in ₸\n.Il ~ 84\n< Back\nReset your password\nPlease input your username to reset your password. If you are\nnot sure about your username, please see information on the\nlink below.\nUsername\nDDMMYYLLLFFF\n?\nReset my password",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:43:51Z",
+      "lastUpdatedDateTime": "2025-10-21T13:43:52Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  86,
+                  58,
+                  272,
+                  58,
+                  272,
+                  96,
+                  86,
+                  96
+                ],
+                "text": "15:05 in ₸",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      87,
+                      60,
+                      169,
+                      59,
+                      168,
+                      96,
+                      87,
+                      95
+                    ],
+                    "text": "15:05",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      189,
+                      59,
+                      220,
+                      59,
+                      219,
+                      97,
+                      188,
+                      97
+                    ],
+                    "text": "in",
+                    "confidence": 0.883
+                  },
+                  {
+                    "boundingBox": [
+                      240,
+                      59,
+                      261,
+                      59,
+                      260,
+                      97,
+                      239,
+                      97
+                    ],
+                    "text": "₸",
+                    "confidence": 0.125
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  706,
+                  63,
+                  858,
+                  59,
+                  859,
+                  90,
+                  706,
+                  97
+                ],
+                "text": ".Il ~ 84",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      706,
+                      67,
+                      754,
+                      61,
+                      754,
+                      95,
+                      707,
+                      98
+                    ],
+                    "text": ".Il",
+                    "confidence": 0.056
+                  },
+                  {
+                    "boundingBox": [
+                      766,
+                      61,
+                      784,
+                      60,
+                      785,
+                      93,
+                      767,
+                      94
+                    ],
+                    "text": "~",
+                    "confidence": 0.02
+                  },
+                  {
+                    "boundingBox": [
+                      819,
+                      60,
+                      855,
+                      62,
+                      856,
+                      89,
+                      820,
+                      91
+                    ],
+                    "text": "84",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  44,
+                  180,
+                  167,
+                  180,
+                  167,
+                  212,
+                  44,
+                  212
+                ],
+                "text": "< Back",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      45,
+                      181,
+                      63,
+                      181,
+                      62,
+                      213,
+                      44,
+                      213
+                    ],
+                    "text": "<",
+                    "confidence": 0.772
+                  },
+                  {
+                    "boundingBox": [
+                      89,
+                      181,
+                      162,
+                      181,
+                      162,
+                      213,
+                      88,
+                      213
+                    ],
+                    "text": "Back",
+                    "confidence": 1
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  36,
+                  291,
+                  542,
+                  289,
+                  542,
+                  345,
+                  36,
+                  347
+                ],
+                "text": "Reset your password",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      39,
+                      292,
+                      168,
+                      292,
+                      167,
+                      347,
+                      37,
+                      346
+                    ],
+                    "text": "Reset",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      179,
+                      292,
+                      291,
+                      292,
+                      290,
+                      347,
+                      177,
+                      347
+                    ],
+                    "text": "your",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      302,
+                      292,
+                      541,
+                      290,
+                      541,
+                      345,
+                      301,
+                      347
+                    ],
+                    "text": "password",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  411,
+                  917,
+                  412,
+                  917,
+                  447,
+                  35,
+                  447
+                ],
+                "text": "Please input your username to reset your password. If you are",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      412,
+                      127,
+                      412,
+                      128,
+                      448,
+                      36,
+                      447
+                    ],
+                    "text": "Please",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      134,
+                      412,
+                      206,
+                      412,
+                      207,
+                      448,
+                      135,
+                      448
+                    ],
+                    "text": "input",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      213,
+                      412,
+                      278,
+                      412,
+                      278,
+                      448,
+                      213,
+                      448
+                    ],
+                    "text": "your",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      285,
+                      412,
+                      429,
+                      412,
+                      429,
+                      448,
+                      285,
+                      448
+                    ],
+                    "text": "username",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      435,
+                      412,
+                      463,
+                      412,
+                      464,
+                      448,
+                      436,
+                      448
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      470,
+                      412,
+                      544,
+                      413,
+                      545,
+                      448,
+                      471,
+                      448
+                    ],
+                    "text": "reset",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      551,
+                      413,
+                      614,
+                      413,
+                      614,
+                      448,
+                      552,
+                      448
+                    ],
+                    "text": "your",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      621,
+                      413,
+                      769,
+                      413,
+                      770,
+                      448,
+                      621,
+                      448
+                    ],
+                    "text": "password.",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      776,
+                      413,
+                      799,
+                      413,
+                      800,
+                      448,
+                      777,
+                      448
+                    ],
+                    "text": "If",
+                    "confidence": 0.936
+                  },
+                  {
+                    "boundingBox": [
+                      806,
+                      413,
+                      859,
+                      413,
+                      859,
+                      447,
+                      807,
+                      448
+                    ],
+                    "text": "you",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      867,
+                      413,
+                      916,
+                      413,
+                      916,
+                      447,
+                      867,
+                      447
+                    ],
+                    "text": "are",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  36,
+                  457,
+                  902,
+                  456,
+                  902,
+                  491,
+                  36,
+                  492
+                ],
+                "text": "not sure about your username, please see information on the",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      37,
+                      459,
+                      80,
+                      459,
+                      79,
+                      490,
+                      36,
+                      490
+                    ],
+                    "text": "not",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      87,
+                      459,
+                      150,
+                      459,
+                      149,
+                      491,
+                      86,
+                      490
+                    ],
+                    "text": "sure",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      157,
+                      459,
+                      239,
+                      459,
+                      238,
+                      491,
+                      155,
+                      491
+                    ],
+                    "text": "about",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      246,
+                      459,
+                      309,
+                      459,
+                      308,
+                      492,
+                      245,
+                      491
+                    ],
+                    "text": "your",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      316,
+                      459,
+                      466,
+                      458,
+                      465,
+                      492,
+                      315,
+                      492
+                    ],
+                    "text": "username,",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      472,
+                      458,
+                      568,
+                      458,
+                      568,
+                      492,
+                      472,
+                      492
+                    ],
+                    "text": "please",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      575,
+                      458,
+                      625,
+                      458,
+                      625,
+                      492,
+                      574,
+                      492
+                    ],
+                    "text": "see",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      631,
+                      458,
+                      801,
+                      457,
+                      801,
+                      491,
+                      631,
+                      492
+                    ],
+                    "text": "information",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      808,
+                      457,
+                      844,
+                      457,
+                      845,
+                      491,
+                      808,
+                      491
+                    ],
+                    "text": "on",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      851,
+                      457,
+                      899,
+                      456,
+                      899,
+                      490,
+                      852,
+                      491
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  500,
+                  185,
+                  502,
+                  185,
+                  534,
+                  35,
+                  533
+                ],
+                "text": "link below.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      501,
+                      84,
+                      501,
+                      83,
+                      534,
+                      35,
+                      534
+                    ],
+                    "text": "link",
+                    "confidence": 0.987
+                  },
+                  {
+                    "boundingBox": [
+                      91,
+                      501,
+                      186,
+                      503,
+                      186,
+                      534,
+                      90,
+                      534
+                    ],
+                    "text": "below.",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  602,
+                  185,
+                  603,
+                  185,
+                  633,
+                  33,
+                  631
+                ],
+                "text": "Username",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      602,
+                      178,
+                      603,
+                      178,
+                      634,
+                      34,
+                      632
+                    ],
+                    "text": "Username",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  70,
+                  699,
+                  355,
+                  698,
+                  355,
+                  732,
+                  70,
+                  733
+                ],
+                "text": "DDMMYYLLLFFF",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      70,
+                      699,
+                      350,
+                      699,
+                      350,
+                      733,
+                      70,
+                      734
+                    ],
+                    "text": "DDMMYYLLLFFF",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  843,
+                  701,
+                  881,
+                  699,
+                  883,
+                  735,
+                  849,
+                  740
+                ],
+                "text": "?",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      858,
+                      699,
+                      879,
+                      699,
+                      883,
+                      736,
+                      862,
+                      738
+                    ],
+                    "text": "?",
+                    "confidence": 0.784
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  337,
+                  872,
+                  619,
+                  872,
+                  619,
+                  906,
+                  337,
+                  905
+                ],
+                "text": "Reset my password",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      339,
+                      873,
+                      420,
+                      873,
+                      419,
+                      906,
+                      337,
+                      904
+                    ],
+                    "text": "Reset",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      427,
+                      873,
+                      470,
+                      873,
+                      470,
+                      907,
+                      425,
+                      906
+                    ],
+                    "text": "my",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      477,
+                      873,
+                      617,
+                      873,
+                      617,
+                      907,
+                      476,
+                      907
+                    ],
+                    "text": "password",
+                    "confidence": 0.996
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

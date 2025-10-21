@@ -1,0 +1,453 @@
+{
+  "filename": "Screenshot_20251021-150109.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\norwegian\\Screenshot_20251021-150109.png",
+  "relative_path": "2.0.0.b297\\norwegian\\Screenshot_20251021-150109.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:43:41.686650",
+  "ocr_result": {
+    "text": "15:01 in ₸\n.Il ~ 84\nDokumentet er signert\nSignaturen din er bekreftet, og dokumentene er flyttet til\nkøen \"Avventer\"\nFortsett",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:43:39Z",
+      "lastUpdatedDateTime": "2025-10-21T13:43:40Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  84,
+                  58,
+                  270,
+                  58,
+                  270,
+                  96,
+                  84,
+                  96
+                ],
+                "text": "15:01 in ₸",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      87,
+                      60,
+                      169,
+                      60,
+                      169,
+                      95,
+                      86,
+                      94
+                    ],
+                    "text": "15:01",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      184,
+                      60,
+                      214,
+                      59,
+                      214,
+                      96,
+                      183,
+                      95
+                    ],
+                    "text": "in",
+                    "confidence": 0.941
+                  },
+                  {
+                    "boundingBox": [
+                      235,
+                      59,
+                      256,
+                      59,
+                      256,
+                      97,
+                      236,
+                      97
+                    ],
+                    "text": "₸",
+                    "confidence": 0.386
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  707,
+                  63,
+                  857,
+                  59,
+                  859,
+                  91,
+                  708,
+                  99
+                ],
+                "text": ".Il ~ 84",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      707,
+                      67,
+                      744,
+                      63,
+                      745,
+                      97,
+                      709,
+                      100
+                    ],
+                    "text": ".Il",
+                    "confidence": 0.054
+                  },
+                  {
+                    "boundingBox": [
+                      765,
+                      61,
+                      783,
+                      60,
+                      784,
+                      94,
+                      766,
+                      95
+                    ],
+                    "text": "~",
+                    "confidence": 0.003
+                  },
+                  {
+                    "boundingBox": [
+                      819,
+                      60,
+                      856,
+                      62,
+                      857,
+                      89,
+                      820,
+                      92
+                    ],
+                    "text": "84",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  197,
+                  1045,
+                  765,
+                  1047,
+                  765,
+                  1103,
+                  196,
+                  1098
+                ],
+                "text": "Dokumentet er signert",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      198,
+                      1046,
+                      502,
+                      1047,
+                      502,
+                      1102,
+                      197,
+                      1094
+                    ],
+                    "text": "Dokumentet",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      512,
+                      1047,
+                      566,
+                      1047,
+                      566,
+                      1103,
+                      513,
+                      1102
+                    ],
+                    "text": "er",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      576,
+                      1047,
+                      761,
+                      1047,
+                      763,
+                      1103,
+                      577,
+                      1103
+                    ],
+                    "text": "signert",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  90,
+                  1132,
+                  872,
+                  1130,
+                  873,
+                  1167,
+                  90,
+                  1168
+                ],
+                "text": "Signaturen din er bekreftet, og dokumentene er flyttet til",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      91,
+                      1133,
+                      239,
+                      1133,
+                      238,
+                      1168,
+                      90,
+                      1168
+                    ],
+                    "text": "Signaturen",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      246,
+                      1133,
+                      288,
+                      1133,
+                      288,
+                      1168,
+                      245,
+                      1168
+                    ],
+                    "text": "din",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      296,
+                      1133,
+                      324,
+                      1133,
+                      323,
+                      1169,
+                      295,
+                      1168
+                    ],
+                    "text": "er",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      331,
+                      1133,
+                      465,
+                      1133,
+                      465,
+                      1169,
+                      330,
+                      1169
+                    ],
+                    "text": "bekreftet,",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      472,
+                      1132,
+                      510,
+                      1132,
+                      510,
+                      1169,
+                      472,
+                      1169
+                    ],
+                    "text": "og",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      517,
+                      1132,
+                      708,
+                      1132,
+                      708,
+                      1168,
+                      517,
+                      1169
+                    ],
+                    "text": "dokumentene",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      715,
+                      1132,
+                      743,
+                      1132,
+                      744,
+                      1168,
+                      715,
+                      1168
+                    ],
+                    "text": "er",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      751,
+                      1132,
+                      831,
+                      1131,
+                      831,
+                      1168,
+                      751,
+                      1168
+                    ],
+                    "text": "flyttet",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      838,
+                      1131,
+                      871,
+                      1131,
+                      872,
+                      1168,
+                      838,
+                      1168
+                    ],
+                    "text": "til",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  367,
+                  1177,
+                  592,
+                  1174,
+                  592,
+                  1209,
+                  367,
+                  1211
+                ],
+                "text": "køen \"Avventer\"",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      369,
+                      1178,
+                      435,
+                      1178,
+                      434,
+                      1211,
+                      368,
+                      1211
+                    ],
+                    "text": "køen",
+                    "confidence": 0.98
+                  },
+                  {
+                    "boundingBox": [
+                      441,
+                      1178,
+                      592,
+                      1174,
+                      591,
+                      1210,
+                      440,
+                      1211
+                    ],
+                    "text": "\"Avventer\"",
+                    "confidence": 0.908
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  424,
+                  1983,
+                  537,
+                  1984,
+                  537,
+                  2013,
+                  423,
+                  2011
+                ],
+                "text": "Fortsett",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      425,
+                      1983,
+                      537,
+                      1984,
+                      538,
+                      2014,
+                      424,
+                      2012
+                    ],
+                    "text": "Fortsett",
+                    "confidence": 0.996
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

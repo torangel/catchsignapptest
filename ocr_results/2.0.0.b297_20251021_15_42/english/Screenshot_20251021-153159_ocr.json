@@ -1,0 +1,341 @@
+{
+  "filename": "Screenshot_20251021-153159.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\english\\Screenshot_20251021-153159.png",
+  "relative_path": "2.0.0.b297\\english\\Screenshot_20251021-153159.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:44:23.695257",
+  "ocr_result": {
+    "text": "15:31\n· T\n.Ill 82\nBack\nLanguage\nNorwegian\nO\nEnglish",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:44:21Z",
+      "lastUpdatedDateTime": "2025-10-21T13:44:22Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0.4637,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  86,
+                  60,
+                  166,
+                  59,
+                  165,
+                  92,
+                  86,
+                  91
+                ],
+                "text": "15:31",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      86,
+                      59,
+                      164,
+                      59,
+                      164,
+                      92,
+                      86,
+                      92
+                    ],
+                    "text": "15:31",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  178,
+                  58,
+                  267,
+                  55,
+                  267,
+                  92,
+                  179,
+                  93
+                ],
+                "text": "· T",
+                "appearance": {
+                  "style": {
+                    "name": "handwriting",
+                    "confidence": 0.723
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      193,
+                      57,
+                      217,
+                      56,
+                      217,
+                      93,
+                      193,
+                      94
+                    ],
+                    "text": "·",
+                    "confidence": 0.319
+                  },
+                  {
+                    "boundingBox": [
+                      242,
+                      56,
+                      266,
+                      55,
+                      267,
+                      92,
+                      243,
+                      93
+                    ],
+                    "text": "T",
+                    "confidence": 0.598
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  704,
+                  62,
+                  861,
+                  59,
+                  862,
+                  93,
+                  705,
+                  98
+                ],
+                "text": ".Ill 82",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      66,
+                      755,
+                      61,
+                      756,
+                      96,
+                      706,
+                      99
+                    ],
+                    "text": ".Ill",
+                    "confidence": 0.07
+                  },
+                  {
+                    "boundingBox": [
+                      820,
+                      60,
+                      856,
+                      62,
+                      857,
+                      93,
+                      821,
+                      93
+                    ],
+                    "text": "82",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  85,
+                  169,
+                  167,
+                  172,
+                  166,
+                  221,
+                  84,
+                  218
+                ],
+                "text": "Back",
+                "appearance": {
+                  "style": {
+                    "name": "handwriting",
+                    "confidence": 0.474
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      86,
+                      169,
+                      163,
+                      172,
+                      162,
+                      221,
+                      84,
+                      218
+                    ],
+                    "text": "Back",
+                    "confidence": 0.99
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  289,
+                  284,
+                  292,
+                  283,
+                  345,
+                  32,
+                  342
+                ],
+                "text": "Language",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      290,
+                      280,
+                      293,
+                      278,
+                      346,
+                      32,
+                      343
+                    ],
+                    "text": "Language",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  129,
+                  460,
+                  314,
+                  462,
+                  314,
+                  499,
+                  128,
+                  498
+                ],
+                "text": "Norwegian",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      129,
+                      461,
+                      310,
+                      462,
+                      310,
+                      500,
+                      129,
+                      499
+                    ],
+                    "text": "Norwegian",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  64,
+                  622,
+                  110,
+                  622,
+                  109,
+                  660,
+                  64,
+                  659
+                ],
+                "text": "O",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      64,
+                      622,
+                      86,
+                      622,
+                      85,
+                      660,
+                      64,
+                      659
+                    ],
+                    "text": "O",
+                    "confidence": 0.894
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  124,
+                  621,
+                  255,
+                  619,
+                  255,
+                  659,
+                  124,
+                  661
+                ],
+                "text": "English",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      126,
+                      622,
+                      252,
+                      619,
+                      253,
+                      659,
+                      125,
+                      660
+                    ],
+                    "text": "English",
+                    "confidence": 0.994
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

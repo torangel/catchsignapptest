@@ -1,0 +1,621 @@
+{
+  "filename": "Screenshot_20251021-153255.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\english\\Screenshot_20251021-153255.png",
+  "relative_path": "2.0.0.b297\\english\\Screenshot_20251021-153255.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:44:32.431338",
+  "ocr_result": {
+    "text": "15:32\nF\nBack\nemptydok135\nO\nemptydok135\nAvsender Norges Sildesalgslag\nSertifikat the description for 134\nDescription Test 135 sign\nOpprettet 21-10-2025\nDecline\nApprove & Sign",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:44:30Z",
+      "lastUpdatedDateTime": "2025-10-21T13:44:30Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  87,
+                  61,
+                  179,
+                  58,
+                  179,
+                  91,
+                  87,
+                  92
+                ],
+                "text": "15:32",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      88,
+                      62,
+                      166,
+                      59,
+                      166,
+                      92,
+                      88,
+                      92
+                    ],
+                    "text": "15:32",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  42,
+                  212,
+                  74,
+                  209,
+                  76,
+                  237,
+                  44,
+                  240
+                ],
+                "text": "F",
+                "appearance": {
+                  "style": {
+                    "name": "handwriting",
+                    "confidence": 0.725
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      49,
+                      211,
+                      67,
+                      210,
+                      70,
+                      237,
+                      52,
+                      239
+                    ],
+                    "text": "F",
+                    "confidence": 0.944
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  88,
+                  201,
+                  166,
+                  202,
+                  166,
+                  249,
+                  87,
+                  249
+                ],
+                "text": "Back",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      87,
+                      201,
+                      164,
+                      201,
+                      163,
+                      249,
+                      87,
+                      248
+                    ],
+                    "text": "Back",
+                    "confidence": 0.98
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  365,
+                  209,
+                  590,
+                  204,
+                  591,
+                  243,
+                  365,
+                  248
+                ],
+                "text": "emptydok135",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      366,
+                      210,
+                      589,
+                      205,
+                      589,
+                      244,
+                      366,
+                      248
+                    ],
+                    "text": "emptydok135",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  347,
+                  335,
+                  370,
+                  337,
+                  371,
+                  358,
+                  348,
+                  356
+                ],
+                "text": "O",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      351,
+                      335,
+                      363,
+                      336,
+                      361,
+                      357,
+                      349,
+                      356
+                    ],
+                    "text": "O",
+                    "confidence": 0.817
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  448,
+                  296,
+                  444,
+                  297,
+                  492,
+                  34,
+                  493
+                ],
+                "text": "emptydok135",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      451,
+                      294,
+                      445,
+                      295,
+                      493,
+                      35,
+                      493
+                    ],
+                    "text": "emptydok135",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  548,
+                  510,
+                  548,
+                  510,
+                  587,
+                  33,
+                  586
+                ],
+                "text": "Avsender Norges Sildesalgslag",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      550,
+                      175,
+                      549,
+                      175,
+                      585,
+                      33,
+                      584
+                    ],
+                    "text": "Avsender",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      183,
+                      549,
+                      293,
+                      549,
+                      293,
+                      586,
+                      182,
+                      585
+                    ],
+                    "text": "Norges",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      300,
+                      549,
+                      507,
+                      549,
+                      508,
+                      588,
+                      300,
+                      586
+                    ],
+                    "text": "Sildesalgslag",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  36,
+                  619,
+                  534,
+                  619,
+                  534,
+                  657,
+                  36,
+                  656
+                ],
+                "text": "Sertifikat the description for 134",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      620,
+                      177,
+                      620,
+                      177,
+                      657,
+                      36,
+                      654
+                    ],
+                    "text": "Sertifikat",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      185,
+                      620,
+                      235,
+                      620,
+                      235,
+                      657,
+                      185,
+                      657
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      242,
+                      620,
+                      412,
+                      620,
+                      412,
+                      657,
+                      242,
+                      657
+                    ],
+                    "text": "description",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      420,
+                      620,
+                      468,
+                      620,
+                      468,
+                      657,
+                      420,
+                      657
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      475,
+                      620,
+                      532,
+                      620,
+                      532,
+                      656,
+                      475,
+                      657
+                    ],
+                    "text": "134",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  692,
+                  431,
+                  692,
+                  431,
+                  729,
+                  34,
+                  729
+                ],
+                "text": "Description Test 135 sign",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      695,
+                      203,
+                      692,
+                      203,
+                      730,
+                      34,
+                      730
+                    ],
+                    "text": "Description",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      220,
+                      692,
+                      290,
+                      692,
+                      290,
+                      730,
+                      220,
+                      730
+                    ],
+                    "text": "Test",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      297,
+                      692,
+                      351,
+                      693,
+                      351,
+                      730,
+                      297,
+                      730
+                    ],
+                    "text": "135",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      359,
+                      693,
+                      428,
+                      694,
+                      428,
+                      730,
+                      359,
+                      730
+                    ],
+                    "text": "sign",
+                    "confidence": 0.99
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  767,
+                  369,
+                  763,
+                  370,
+                  797,
+                  33,
+                  802
+                ],
+                "text": "Opprettet 21-10-2025",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      767,
+                      177,
+                      766,
+                      176,
+                      801,
+                      34,
+                      803
+                    ],
+                    "text": "Opprettet",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      189,
+                      765,
+                      366,
+                      764,
+                      365,
+                      798,
+                      188,
+                      800
+                    ],
+                    "text": "21-10-2025",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  246,
+                  1981,
+                  352,
+                  1981,
+                  352,
+                  2012,
+                  246,
+                  2012
+                ],
+                "text": "Decline",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      248,
+                      1983,
+                      349,
+                      1982,
+                      350,
+                      2013,
+                      246,
+                      2011
+                    ],
+                    "text": "Decline",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  494,
+                  1982,
+                  713,
+                  1982,
+                  713,
+                  2017,
+                  494,
+                  2019
+                ],
+                "text": "Approve & Sign",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      496,
+                      1982,
+                      611,
+                      1982,
+                      610,
+                      2018,
+                      494,
+                      2020
+                    ],
+                    "text": "Approve",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      618,
+                      1982,
+                      639,
+                      1982,
+                      639,
+                      2018,
+                      617,
+                      2018
+                    ],
+                    "text": "&",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      646,
+                      1982,
+                      713,
+                      1982,
+                      713,
+                      2018,
+                      646,
+                      2018
+                    ],
+                    "text": "Sign",
+                    "confidence": 0.99
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

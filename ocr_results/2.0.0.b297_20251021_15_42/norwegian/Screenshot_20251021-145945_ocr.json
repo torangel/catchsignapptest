@@ -1,0 +1,999 @@
+{
+  "filename": "Screenshot_20251021-145945.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\norwegian\\Screenshot_20251021-145945.png",
+  "relative_path": "2.0.0.b297\\norwegian\\Screenshot_20251021-145945.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:43:26.719513",
+  "ocr_result": {
+    "text": "14:59 in ₸\n.Il ~ 84\nX\nFilter\nNullstill\nOrganisasjon\nCatch Certificate\nNorges Sildesalgslag\nVest-Norges Fiskesalslag\nFiskehav\nDokumentstatus\nVelg alle\nTil signering\nSigneringskø\nAvvist\nSignert\nDato\nDato fra\nDato til\nVelg dato\nVelg dato\nBruk filtre",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:43:24Z",
+      "lastUpdatedDateTime": "2025-10-21T13:43:25Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0.093,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  85,
+                  58,
+                  270,
+                  58,
+                  270,
+                  95,
+                  85,
+                  95
+                ],
+                "text": "14:59 in ₸",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      86,
+                      60,
+                      166,
+                      60,
+                      165,
+                      96,
+                      86,
+                      93
+                    ],
+                    "text": "14:59",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      187,
+                      60,
+                      217,
+                      60,
+                      215,
+                      96,
+                      186,
+                      96
+                    ],
+                    "text": "in",
+                    "confidence": 0.907
+                  },
+                  {
+                    "boundingBox": [
+                      241,
+                      59,
+                      261,
+                      59,
+                      259,
+                      96,
+                      239,
+                      96
+                    ],
+                    "text": "₸",
+                    "confidence": 0.379
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  705,
+                  63,
+                  857,
+                  59,
+                  859,
+                  91,
+                  706,
+                  99
+                ],
+                "text": ".Il ~ 84",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      66,
+                      755,
+                      61,
+                      756,
+                      96,
+                      706,
+                      100
+                    ],
+                    "text": ".Il",
+                    "confidence": 0.071
+                  },
+                  {
+                    "boundingBox": [
+                      764,
+                      61,
+                      785,
+                      60,
+                      785,
+                      94,
+                      765,
+                      95
+                    ],
+                    "text": "~",
+                    "confidence": 0.061
+                  },
+                  {
+                    "boundingBox": [
+                      819,
+                      60,
+                      855,
+                      61,
+                      855,
+                      90,
+                      820,
+                      92
+                    ],
+                    "text": "84",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  58,
+                  207,
+                  124,
+                  206,
+                  123,
+                  258,
+                  56,
+                  259
+                ],
+                "text": "X",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.859
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      58,
+                      207,
+                      88,
+                      207,
+                      89,
+                      259,
+                      59,
+                      259
+                    ],
+                    "text": "X",
+                    "confidence": 0.686
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  166,
+                  214,
+                  268,
+                  217,
+                  267,
+                  253,
+                  164,
+                  251
+                ],
+                "text": "Filter",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      166,
+                      214,
+                      268,
+                      216,
+                      267,
+                      253,
+                      165,
+                      250
+                    ],
+                    "text": "Filter",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  796,
+                  214,
+                  926,
+                  213,
+                  926,
+                  250,
+                  796,
+                  251
+                ],
+                "text": "Nullstill",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      798,
+                      216,
+                      926,
+                      213,
+                      926,
+                      251,
+                      797,
+                      250
+                    ],
+                    "text": "Nullstill",
+                    "confidence": 0.992
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  324,
+                  255,
+                  325,
+                  254,
+                  364,
+                  33,
+                  363
+                ],
+                "text": "Organisasjon",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      325,
+                      251,
+                      326,
+                      250,
+                      364,
+                      33,
+                      364
+                    ],
+                    "text": "Organisasjon",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  93,
+                  401,
+                  332,
+                  401,
+                  332,
+                  433,
+                  93,
+                  433
+                ],
+                "text": "Catch Certificate",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      94,
+                      402,
+                      173,
+                      402,
+                      172,
+                      434,
+                      93,
+                      434
+                    ],
+                    "text": "Catch",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      180,
+                      402,
+                      330,
+                      402,
+                      331,
+                      434,
+                      179,
+                      434
+                    ],
+                    "text": "Certificate",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  89,
+                  500,
+                  397,
+                  500,
+                  397,
+                  538,
+                  89,
+                  537
+                ],
+                "text": "Norges Sildesalgslag",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      92,
+                      500,
+                      195,
+                      500,
+                      193,
+                      537,
+                      90,
+                      537
+                    ],
+                    "text": "Norges",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      202,
+                      500,
+                      395,
+                      500,
+                      396,
+                      539,
+                      201,
+                      537
+                    ],
+                    "text": "Sildesalgslag",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  89,
+                  598,
+                  461,
+                  598,
+                  461,
+                  637,
+                  89,
+                  635
+                ],
+                "text": "Vest-Norges Fiskesalslag",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      92,
+                      599,
+                      268,
+                      600,
+                      268,
+                      636,
+                      91,
+                      633
+                    ],
+                    "text": "Vest-Norges",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      275,
+                      599,
+                      455,
+                      598,
+                      457,
+                      638,
+                      275,
+                      636
+                    ],
+                    "text": "Fiskesalslag",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  92,
+                  697,
+                  223,
+                  698,
+                  223,
+                  731,
+                  92,
+                  730
+                ],
+                "text": "Fiskehav",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      93,
+                      699,
+                      221,
+                      699,
+                      220,
+                      732,
+                      93,
+                      731
+                    ],
+                    "text": "Fiskehav",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  827,
+                  308,
+                  829,
+                  308,
+                  864,
+                  32,
+                  862
+                ],
+                "text": "Dokumentstatus",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      828,
+                      304,
+                      829,
+                      305,
+                      864,
+                      32,
+                      862
+                    ],
+                    "text": "Dokumentstatus",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  90,
+                  903,
+                  218,
+                  903,
+                  218,
+                  939,
+                  90,
+                  939
+                ],
+                "text": "Velg alle",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      92,
+                      904,
+                      155,
+                      905,
+                      154,
+                      940,
+                      91,
+                      940
+                    ],
+                    "text": "Velg",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      162,
+                      905,
+                      217,
+                      905,
+                      217,
+                      939,
+                      161,
+                      940
+                    ],
+                    "text": "alle",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  91,
+                  1002,
+                  272,
+                  1004,
+                  271,
+                  1041,
+                  91,
+                  1040
+                ],
+                "text": "Til signering",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      96,
+                      1003,
+                      127,
+                      1003,
+                      125,
+                      1041,
+                      93,
+                      1041
+                    ],
+                    "text": "Til",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      134,
+                      1004,
+                      271,
+                      1007,
+                      272,
+                      1041,
+                      132,
+                      1041
+                    ],
+                    "text": "signering",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  90,
+                  1102,
+                  282,
+                  1102,
+                  282,
+                  1141,
+                  90,
+                  1140
+                ],
+                "text": "Signeringskø",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      92,
+                      1102,
+                      281,
+                      1103,
+                      281,
+                      1141,
+                      90,
+                      1141
+                    ],
+                    "text": "Signeringskø",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  93,
+                  1204,
+                  183,
+                  1204,
+                  182,
+                  1235,
+                  92,
+                  1234
+                ],
+                "text": "Avvist",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      94,
+                      1204,
+                      183,
+                      1204,
+                      183,
+                      1235,
+                      93,
+                      1234
+                    ],
+                    "text": "Avvist",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  91,
+                  1302,
+                  200,
+                  1300,
+                  200,
+                  1337,
+                  91,
+                  1339
+                ],
+                "text": "Signert",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      92,
+                      1302,
+                      200,
+                      1301,
+                      200,
+                      1338,
+                      91,
+                      1339
+                    ],
+                    "text": "Signert",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  1430,
+                  112,
+                  1432,
+                  112,
+                  1464,
+                  33,
+                  1464
+                ],
+                "text": "Dato",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      1430,
+                      107,
+                      1431,
+                      106,
+                      1465,
+                      33,
+                      1464
+                    ],
+                    "text": "Dato",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  1521,
+                  173,
+                  1521,
+                  173,
+                  1555,
+                  32,
+                  1555
+                ],
+                "text": "Dato fra",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      1521,
+                      110,
+                      1521,
+                      110,
+                      1556,
+                      33,
+                      1556
+                    ],
+                    "text": "Dato",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      122,
+                      1521,
+                      172,
+                      1521,
+                      172,
+                      1556,
+                      122,
+                      1556
+                    ],
+                    "text": "fra",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  495,
+                  1521,
+                  623,
+                  1521,
+                  623,
+                  1555,
+                  495,
+                  1555
+                ],
+                "text": "Dato til",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      497,
+                      1523,
+                      572,
+                      1522,
+                      572,
+                      1555,
+                      496,
+                      1555
+                    ],
+                    "text": "Dato",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      586,
+                      1521,
+                      623,
+                      1521,
+                      624,
+                      1556,
+                      586,
+                      1555
+                    ],
+                    "text": "til",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  69,
+                  1610,
+                  233,
+                  1610,
+                  233,
+                  1648,
+                  69,
+                  1648
+                ],
+                "text": "Velg dato",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      70,
+                      1610,
+                      144,
+                      1611,
+                      144,
+                      1649,
+                      69,
+                      1648
+                    ],
+                    "text": "Velg",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      152,
+                      1611,
+                      231,
+                      1610,
+                      232,
+                      1648,
+                      152,
+                      1649
+                    ],
+                    "text": "dato",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  528,
+                  1608,
+                  697,
+                  1609,
+                  697,
+                  1649,
+                  528,
+                  1648
+                ],
+                "text": "Velg dato",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      532,
+                      1609,
+                      606,
+                      1611,
+                      606,
+                      1649,
+                      530,
+                      1647
+                    ],
+                    "text": "Velg",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      615,
+                      1611,
+                      692,
+                      1609,
+                      694,
+                      1649,
+                      615,
+                      1649
+                    ],
+                    "text": "dato",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  408,
+                  1982,
+                  549,
+                  1982,
+                  549,
+                  2012,
+                  408,
+                  2012
+                ],
+                "text": "Bruk filtre",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      410,
+                      1983,
+                      473,
+                      1983,
+                      472,
+                      2013,
+                      409,
+                      2012
+                    ],
+                    "text": "Bruk",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      481,
+                      1983,
+                      546,
+                      1983,
+                      546,
+                      2012,
+                      481,
+                      2013
+                    ],
+                    "text": "filtre",
+                    "confidence": 0.995
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

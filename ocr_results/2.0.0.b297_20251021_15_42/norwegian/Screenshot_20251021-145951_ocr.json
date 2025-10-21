@@ -1,0 +1,1006 @@
+{
+  "filename": "Screenshot_20251021-145951.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\norwegian\\Screenshot_20251021-145951.png",
+  "relative_path": "2.0.0.b297\\norwegian\\Screenshot_20251021-145951.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:43:29.464603",
+  "ocr_result": {
+    "text": "14:59 in ₸\nProfil\nMin informasjon\nO\nEndre informasjon om deg selv.\nSikkerhet\nEndre sikkerhetsinnstillinger for appen\nSpråk\nA\nVelg ønsket språk\nLogg ut\n>\nLogg ut av appen\nSlett bruker\nSlett konto og tilgang til appen\nv2.0.0\nHjem\nDokumenter\nProfil",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:43:27Z",
+      "lastUpdatedDateTime": "2025-10-21T13:43:28Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0.1524,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  85,
+                  58,
+                  273,
+                  58,
+                  273,
+                  96,
+                  85,
+                  95
+                ],
+                "text": "14:59 in ₸",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      87,
+                      59,
+                      167,
+                      60,
+                      167,
+                      96,
+                      86,
+                      95
+                    ],
+                    "text": "14:59",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      187,
+                      60,
+                      217,
+                      60,
+                      217,
+                      96,
+                      186,
+                      96
+                    ],
+                    "text": "in",
+                    "confidence": 0.955
+                  },
+                  {
+                    "boundingBox": [
+                      237,
+                      59,
+                      258,
+                      59,
+                      258,
+                      97,
+                      237,
+                      97
+                    ],
+                    "text": "₸",
+                    "confidence": 0.199
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  195,
+                  171,
+                  194,
+                  172,
+                  243,
+                  32,
+                  245
+                ],
+                "text": "Profil",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      32,
+                      195,
+                      171,
+                      194,
+                      172,
+                      243,
+                      32,
+                      245
+                    ],
+                    "text": "Profil",
+                    "confidence": 0.961
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  142,
+                  367,
+                  424,
+                  369,
+                  424,
+                  409,
+                  141,
+                  407
+                ],
+                "text": "Min informasjon",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      144,
+                      367,
+                      205,
+                      368,
+                      204,
+                      409,
+                      142,
+                      408
+                    ],
+                    "text": "Min",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      214,
+                      368,
+                      419,
+                      372,
+                      420,
+                      409,
+                      212,
+                      409
+                    ],
+                    "text": "informasjon",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  105,
+                  398,
+                  105,
+                  429,
+                  73,
+                  426,
+                  74,
+                  395
+                ],
+                "text": "O",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      106,
+                      395,
+                      105,
+                      413,
+                      73,
+                      413,
+                      74,
+                      395
+                    ],
+                    "text": "O",
+                    "confidence": 0.693
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  143,
+                  431,
+                  609,
+                  433,
+                  609,
+                  470,
+                  143,
+                  467
+                ],
+                "text": "Endre informasjon om deg selv.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      144,
+                      431,
+                      222,
+                      431,
+                      222,
+                      469,
+                      143,
+                      468
+                    ],
+                    "text": "Endre",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      229,
+                      431,
+                      413,
+                      432,
+                      414,
+                      470,
+                      229,
+                      469
+                    ],
+                    "text": "informasjon",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      421,
+                      432,
+                      460,
+                      432,
+                      461,
+                      470,
+                      422,
+                      470
+                    ],
+                    "text": "om",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      475,
+                      433,
+                      530,
+                      433,
+                      530,
+                      471,
+                      476,
+                      470
+                    ],
+                    "text": "deg",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      537,
+                      433,
+                      607,
+                      434,
+                      607,
+                      471,
+                      538,
+                      471
+                    ],
+                    "text": "selv.",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  143,
+                  594,
+                  307,
+                  593,
+                  307,
+                  628,
+                  143,
+                  629
+                ],
+                "text": "Sikkerhet",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      144,
+                      597,
+                      307,
+                      594,
+                      307,
+                      629,
+                      144,
+                      628
+                    ],
+                    "text": "Sikkerhet",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  143,
+                  657,
+                  715,
+                  659,
+                  715,
+                  696,
+                  143,
+                  693
+                ],
+                "text": "Endre sikkerhetsinnstillinger for appen",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      145,
+                      661,
+                      224,
+                      659,
+                      223,
+                      691,
+                      144,
+                      690
+                    ],
+                    "text": "Endre",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      231,
+                      659,
+                      563,
+                      659,
+                      563,
+                      696,
+                      230,
+                      691
+                    ],
+                    "text": "sikkerhetsinnstillinger",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      570,
+                      659,
+                      616,
+                      659,
+                      615,
+                      696,
+                      570,
+                      696
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      623,
+                      659,
+                      713,
+                      661,
+                      713,
+                      697,
+                      622,
+                      696
+                    ],
+                    "text": "appen",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  139,
+                  815,
+                  244,
+                  813,
+                  245,
+                  858,
+                  138,
+                  859
+                ],
+                "text": "Språk",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      138,
+                      814,
+                      241,
+                      813,
+                      241,
+                      858,
+                      138,
+                      859
+                    ],
+                    "text": "Språk",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  881,
+                  853,
+                  878,
+                  887,
+                  862,
+                  885,
+                  865,
+                  849
+                ],
+                "text": "A",
+                "appearance": {
+                  "style": {
+                    "name": "handwriting",
+                    "confidence": 0.68
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      879,
+                      874,
+                      878,
+                      884,
+                      862,
+                      883,
+                      863,
+                      872
+                    ],
+                    "text": "A",
+                    "confidence": 0.602
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  144,
+                  882,
+                  408,
+                  882,
+                  408,
+                  918,
+                  144,
+                  918
+                ],
+                "text": "Velg ønsket språk",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      145,
+                      882,
+                      206,
+                      882,
+                      206,
+                      919,
+                      144,
+                      919
+                    ],
+                    "text": "Velg",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      214,
+                      882,
+                      314,
+                      883,
+                      314,
+                      919,
+                      213,
+                      919
+                    ],
+                    "text": "ønsket",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      322,
+                      883,
+                      409,
+                      883,
+                      409,
+                      919,
+                      321,
+                      919
+                    ],
+                    "text": "språk",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  142,
+                  1046,
+                  274,
+                  1044,
+                  275,
+                  1082,
+                  142,
+                  1084
+                ],
+                "text": "Logg ut",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      143,
+                      1048,
+                      223,
+                      1047,
+                      225,
+                      1084,
+                      143,
+                      1083
+                    ],
+                    "text": "Logg",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      231,
+                      1046,
+                      273,
+                      1045,
+                      275,
+                      1083,
+                      232,
+                      1084
+                    ],
+                    "text": "ut",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  860,
+                  1081,
+                  883,
+                  1082,
+                  882,
+                  1109,
+                  859,
+                  1108
+                ],
+                "text": ">",
+                "appearance": {
+                  "style": {
+                    "name": "handwriting",
+                    "confidence": 0.68
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      868,
+                      1081,
+                      882,
+                      1082,
+                      880,
+                      1109,
+                      866,
+                      1108
+                    ],
+                    "text": ">",
+                    "confidence": 0.711
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  142,
+                  1110,
+                  398,
+                  1110,
+                  398,
+                  1144,
+                  142,
+                  1144
+                ],
+                "text": "Logg ut av appen",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      145,
+                      1111,
+                      214,
+                      1112,
+                      213,
+                      1143,
+                      143,
+                      1143
+                    ],
+                    "text": "Logg",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      223,
+                      1112,
+                      255,
+                      1112,
+                      254,
+                      1144,
+                      222,
+                      1143
+                    ],
+                    "text": "ut",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      262,
+                      1112,
+                      297,
+                      1112,
+                      297,
+                      1144,
+                      260,
+                      1144
+                    ],
+                    "text": "av",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      304,
+                      1112,
+                      395,
+                      1111,
+                      395,
+                      1145,
+                      304,
+                      1144
+                    ],
+                    "text": "appen",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  142,
+                  1269,
+                  344,
+                  1269,
+                  344,
+                  1304,
+                  142,
+                  1303
+                ],
+                "text": "Slett bruker",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      143,
+                      1270,
+                      223,
+                      1270,
+                      223,
+                      1304,
+                      143,
+                      1303
+                    ],
+                    "text": "Slett",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      229,
+                      1270,
+                      343,
+                      1270,
+                      344,
+                      1303,
+                      229,
+                      1304
+                    ],
+                    "text": "bruker",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  140,
+                  1333,
+                  598,
+                  1334,
+                  598,
+                  1370,
+                  140,
+                  1367
+                ],
+                "text": "Slett konto og tilgang til appen",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      141,
+                      1334,
+                      208,
+                      1334,
+                      208,
+                      1367,
+                      141,
+                      1365
+                    ],
+                    "text": "Slett",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      215,
+                      1334,
+                      302,
+                      1334,
+                      302,
+                      1368,
+                      215,
+                      1367
+                    ],
+                    "text": "konto",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      309,
+                      1334,
+                      347,
+                      1334,
+                      347,
+                      1369,
+                      308,
+                      1368
+                    ],
+                    "text": "og",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      354,
+                      1334,
+                      459,
+                      1334,
+                      458,
+                      1370,
+                      354,
+                      1369
+                    ],
+                    "text": "tilgang",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      465,
+                      1334,
+                      500,
+                      1334,
+                      499,
+                      1371,
+                      465,
+                      1370
+                    ],
+                    "text": "til",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      506,
+                      1335,
+                      597,
+                      1335,
+                      596,
+                      1371,
+                      506,
+                      1371
+                    ],
+                    "text": "appen",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  435,
+                  1462,
+                  525,
+                  1459,
+                  526,
+                  1490,
+                  435,
+                  1492
+                ],
+                "text": "v2.0.0",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      435,
+                      1463,
+                      523,
+                      1460,
+                      523,
+                      1491,
+                      436,
+                      1492
+                    ],
+                    "text": "v2.0.0",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  118,
+                  2021,
+                  185,
+                  2021,
+                  184,
+                  2049,
+                  118,
+                  2048
+                ],
+                "text": "Hjem",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      118,
+                      2021,
+                      175,
+                      2021,
+                      175,
+                      2049,
+                      118,
+                      2048
+                    ],
+                    "text": "Hjem",
+                    "confidence": 0.988
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  397,
+                  2019,
+                  558,
+                  2021,
+                  557,
+                  2047,
+                  397,
+                  2046
+                ],
+                "text": "Dokumenter",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      398,
+                      2020,
+                      557,
+                      2022,
+                      556,
+                      2047,
+                      397,
+                      2046
+                    ],
+                    "text": "Dokumenter",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  767,
+                  2019,
+                  839,
+                  2018,
+                  838,
+                  2047,
+                  766,
+                  2045
+                ],
+                "text": "Profil",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      766,
+                      2018,
+                      838,
+                      2018,
+                      837,
+                      2047,
+                      766,
+                      2046
+                    ],
+                    "text": "Profil",
+                    "confidence": 0.995
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

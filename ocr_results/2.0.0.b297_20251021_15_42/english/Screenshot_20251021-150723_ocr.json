@@ -1,0 +1,936 @@
+{
+  "filename": "Screenshot_20251021-150723.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\english\\Screenshot_20251021-150723.png",
+  "relative_path": "2.0.0.b297\\english\\Screenshot_20251021-150723.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:44:02.700194",
+  "ocr_result": {
+    "text": "15:07\nPin ₸\n.Il . 83\n« Back\nSMS code verification\nAn SMS is sent to 479 82 18810. Enter the code\nDidn't receive a code?\nLog out / Close session\nResend SMS code verification\nSend me a new code.\nSend new SMS\nCancel\nCadacopied",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:44:00Z",
+      "lastUpdatedDateTime": "2025-10-21T13:44:01Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": -0.1613,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  87,
+                  61,
+                  179,
+                  59,
+                  179,
+                  92,
+                  87,
+                  93
+                ],
+                "text": "15:07",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      88,
+                      60,
+                      167,
+                      59,
+                      167,
+                      92,
+                      89,
+                      93
+                    ],
+                    "text": "15:07",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  181,
+                  59,
+                  320,
+                  58,
+                  320,
+                  95,
+                  181,
+                  96
+                ],
+                "text": "Pin ₸",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      183,
+                      61,
+                      266,
+                      60,
+                      266,
+                      96,
+                      183,
+                      95
+                    ],
+                    "text": "Pin",
+                    "confidence": 0.637
+                  },
+                  {
+                    "boundingBox": [
+                      288,
+                      60,
+                      309,
+                      59,
+                      308,
+                      96,
+                      287,
+                      96
+                    ],
+                    "text": "₸",
+                    "confidence": 0.004
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  704,
+                  63,
+                  856,
+                  60,
+                  858,
+                  91,
+                  704,
+                  98
+                ],
+                "text": ".Il . 83",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.815
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      704,
+                      66,
+                      757,
+                      62,
+                      757,
+                      95,
+                      704,
+                      99
+                    ],
+                    "text": ".Il",
+                    "confidence": 0.087
+                  },
+                  {
+                    "boundingBox": [
+                      773,
+                      61,
+                      793,
+                      61,
+                      794,
+                      93,
+                      774,
+                      94
+                    ],
+                    "text": ".",
+                    "confidence": 0.059
+                  },
+                  {
+                    "boundingBox": [
+                      822,
+                      61,
+                      854,
+                      63,
+                      855,
+                      90,
+                      823,
+                      91
+                    ],
+                    "text": "83",
+                    "confidence": 0.969
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  43,
+                  172,
+                  155,
+                  169,
+                  156,
+                  220,
+                  44,
+                  221
+                ],
+                "text": "« Back",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.859
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      43,
+                      184,
+                      66,
+                      178,
+                      67,
+                      215,
+                      44,
+                      215
+                    ],
+                    "text": "«",
+                    "confidence": 0.001
+                  },
+                  {
+                    "boundingBox": [
+                      86,
+                      174,
+                      154,
+                      169,
+                      154,
+                      221,
+                      86,
+                      216
+                    ],
+                    "text": "Back",
+                    "confidence": 0.608
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  280,
+                  565,
+                  279,
+                  565,
+                  331,
+                  32,
+                  333
+                ],
+                "text": "SMS code verification",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      32,
+                      281,
+                      142,
+                      280,
+                      142,
+                      333,
+                      32,
+                      333
+                    ],
+                    "text": "SMS",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      153,
+                      280,
+                      275,
+                      280,
+                      275,
+                      333,
+                      153,
+                      333
+                    ],
+                    "text": "code",
+                    "confidence": 0.99
+                  },
+                  {
+                    "boundingBox": [
+                      285,
+                      280,
+                      559,
+                      280,
+                      559,
+                      332,
+                      285,
+                      333
+                    ],
+                    "text": "verification",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  420,
+                  730,
+                  420,
+                  730,
+                  452,
+                  34,
+                  453
+                ],
+                "text": "An SMS is sent to 479 82 18810. Enter the code",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      421,
+                      71,
+                      421,
+                      70,
+                      453,
+                      35,
+                      453
+                    ],
+                    "text": "An",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      78,
+                      421,
+                      144,
+                      421,
+                      142,
+                      453,
+                      77,
+                      453
+                    ],
+                    "text": "SMS",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      150,
+                      421,
+                      176,
+                      421,
+                      174,
+                      453,
+                      149,
+                      453
+                    ],
+                    "text": "is",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      182,
+                      420,
+                      248,
+                      420,
+                      247,
+                      453,
+                      181,
+                      453
+                    ],
+                    "text": "sent",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      255,
+                      420,
+                      284,
+                      420,
+                      282,
+                      453,
+                      253,
+                      453
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      299,
+                      420,
+                      356,
+                      420,
+                      355,
+                      453,
+                      298,
+                      453
+                    ],
+                    "text": "479",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      363,
+                      420,
+                      401,
+                      420,
+                      399,
+                      453,
+                      362,
+                      453
+                    ],
+                    "text": "82",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      410,
+                      420,
+                      510,
+                      421,
+                      509,
+                      453,
+                      409,
+                      453
+                    ],
+                    "text": "18810.",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      517,
+                      421,
+                      593,
+                      421,
+                      591,
+                      453,
+                      515,
+                      453
+                    ],
+                    "text": "Enter",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      600,
+                      421,
+                      648,
+                      421,
+                      646,
+                      453,
+                      598,
+                      453
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      655,
+                      421,
+                      727,
+                      422,
+                      725,
+                      452,
+                      653,
+                      453
+                    ],
+                    "text": "code",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  294,
+                  710,
+                  665,
+                  710,
+                  665,
+                  747,
+                  294,
+                  748
+                ],
+                "text": "Didn't receive a code?",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      294,
+                      710,
+                      388,
+                      711,
+                      388,
+                      747,
+                      294,
+                      749
+                    ],
+                    "text": "Didn't",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      395,
+                      711,
+                      522,
+                      712,
+                      522,
+                      746,
+                      395,
+                      747
+                    ],
+                    "text": "receive",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      532,
+                      712,
+                      552,
+                      712,
+                      552,
+                      746,
+                      532,
+                      746
+                    ],
+                    "text": "a",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      562,
+                      712,
+                      666,
+                      711,
+                      666,
+                      747,
+                      562,
+                      746
+                    ],
+                    "text": "code?",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  286,
+                  847,
+                  671,
+                  846,
+                  672,
+                  883,
+                  286,
+                  886
+                ],
+                "text": "Log out / Close session",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      288,
+                      849,
+                      345,
+                      848,
+                      343,
+                      886,
+                      286,
+                      886
+                    ],
+                    "text": "Log",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      352,
+                      848,
+                      407,
+                      847,
+                      406,
+                      886,
+                      351,
+                      886
+                    ],
+                    "text": "out",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      414,
+                      847,
+                      432,
+                      847,
+                      431,
+                      886,
+                      413,
+                      886
+                    ],
+                    "text": "/",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      439,
+                      847,
+                      531,
+                      846,
+                      531,
+                      885,
+                      438,
+                      886
+                    ],
+                    "text": "Close",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      539,
+                      846,
+                      670,
+                      847,
+                      670,
+                      883,
+                      538,
+                      885
+                    ],
+                    "text": "session",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  156,
+                  953,
+                  653,
+                  953,
+                  653,
+                  990,
+                  156,
+                  990
+                ],
+                "text": "Resend SMS code verification",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      157,
+                      954,
+                      275,
+                      954,
+                      274,
+                      989,
+                      156,
+                      990
+                    ],
+                    "text": "Resend",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      283,
+                      954,
+                      361,
+                      954,
+                      360,
+                      990,
+                      282,
+                      989
+                    ],
+                    "text": "SMS",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      371,
+                      953,
+                      452,
+                      953,
+                      452,
+                      990,
+                      371,
+                      990
+                    ],
+                    "text": "code",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      459,
+                      953,
+                      647,
+                      954,
+                      647,
+                      991,
+                      459,
+                      990
+                    ],
+                    "text": "verification",
+                    "confidence": 0.992
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  153,
+                  1012,
+                  454,
+                  1013,
+                  454,
+                  1047,
+                  153,
+                  1046
+                ],
+                "text": "Send me a new code.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      154,
+                      1013,
+                      223,
+                      1014,
+                      223,
+                      1047,
+                      153,
+                      1047
+                    ],
+                    "text": "Send",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      230,
+                      1014,
+                      276,
+                      1015,
+                      276,
+                      1046,
+                      229,
+                      1047
+                    ],
+                    "text": "me",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      283,
+                      1015,
+                      300,
+                      1015,
+                      300,
+                      1046,
+                      283,
+                      1046
+                    ],
+                    "text": "a",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      306,
+                      1015,
+                      361,
+                      1015,
+                      361,
+                      1046,
+                      306,
+                      1046
+                    ],
+                    "text": "new",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      375,
+                      1015,
+                      454,
+                      1015,
+                      453,
+                      1047,
+                      374,
+                      1047
+                    ],
+                    "text": "code.",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  370,
+                  1145,
+                  585,
+                  1143,
+                  585,
+                  1175,
+                  370,
+                  1177
+                ],
+                "text": "Send new SMS",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      372,
+                      1147,
+                      443,
+                      1146,
+                      442,
+                      1177,
+                      371,
+                      1176
+                    ],
+                    "text": "Send",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      449,
+                      1146,
+                      502,
+                      1145,
+                      501,
+                      1177,
+                      448,
+                      1177
+                    ],
+                    "text": "new",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      515,
+                      1145,
+                      582,
+                      1144,
+                      582,
+                      1176,
+                      514,
+                      1177
+                    ],
+                    "text": "SMS",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  429,
+                  1253,
+                  529,
+                  1253,
+                  529,
+                  1284,
+                  429,
+                  1283
+                ],
+                "text": "Cancel",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      430,
+                      1254,
+                      530,
+                      1254,
+                      530,
+                      1285,
+                      430,
+                      1284
+                    ],
+                    "text": "Cancel",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  380,
+                  1912,
+                  579,
+                  1916,
+                  578,
+                  1950,
+                  378,
+                  1942
+                ],
+                "text": "Cadacopied",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      389,
+                      1913,
+                      578,
+                      1916,
+                      578,
+                      1950,
+                      387,
+                      1938
+                    ],
+                    "text": "Cadacopied",
+                    "confidence": 0.608
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

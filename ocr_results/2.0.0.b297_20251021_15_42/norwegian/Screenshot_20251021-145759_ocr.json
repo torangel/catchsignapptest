@@ -1,0 +1,2588 @@
+{
+  "filename": "Screenshot_20251021-145759.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\norwegian\\Screenshot_20251021-145759.png",
+  "relative_path": "2.0.0.b297\\norwegian\\Screenshot_20251021-145759.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:43:05.799853",
+  "ocr_result": {
+    "text": "14:57 ₸\n.Il ~ 85\nTilbake\nBrukervilkår\nVed å bruke CatchSign aksepterer du følgende:\nVi håndterer personopplysninger på en trygg måte. Du må\noppgi nødvendige personalia for å kunne signere dokumenter.\nVi oppbevarer fødselsdato , navn, adresse, mobilnummer og\nepostadresse på deg i vår interne database. Dette er\npersonopplysninger du har oppgitt til oss, og som er\nnødvendige for at vi skal kunne gjennomføre våre forpliktelser\novenfor deg som signatar. Vi deler ingen av dine opplysninger\nmed tredjepart.\nVi ser også når du bruker CatchSign, hvilket operativsystem\ndin håndholdte enhet benytter, IP-adresse og hvilket geografisk\nområde du oppholder deg ved signeringstidspunkt.\nAlle dokumenter som signeres blir lagret i vår interne\ndatabase. De er kun tilgjengelig for kjernesystemet du\nopprettet dokumentene gjennom og via din tilgang på din\nenhet.\nEt dokument som er signert vil inneholde ditt navn, dato/\nklokkeslett for når du signerte og din geografiske posisjon.\nFortsett",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:43:03Z",
+      "lastUpdatedDateTime": "2025-10-21T13:43:04Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  84,
+                  59,
+                  219,
+                  58,
+                  219,
+                  93,
+                  84,
+                  94
+                ],
+                "text": "14:57 ₸",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      86,
+                      60,
+                      167,
+                      59,
+                      166,
+                      94,
+                      84,
+                      94
+                    ],
+                    "text": "14:57",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      185,
+                      59,
+                      205,
+                      58,
+                      204,
+                      94,
+                      184,
+                      94
+                    ],
+                    "text": "₸",
+                    "confidence": 0.203
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  705,
+                  63,
+                  857,
+                  59,
+                  859,
+                  90,
+                  706,
+                  97
+                ],
+                "text": ".Il ~ 85",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      69,
+                      754,
+                      62,
+                      755,
+                      96,
+                      706,
+                      98
+                    ],
+                    "text": ".Il",
+                    "confidence": 0.006
+                  },
+                  {
+                    "boundingBox": [
+                      765,
+                      61,
+                      783,
+                      60,
+                      784,
+                      95,
+                      766,
+                      96
+                    ],
+                    "text": "~",
+                    "confidence": 0.005
+                  },
+                  {
+                    "boundingBox": [
+                      819,
+                      60,
+                      856,
+                      62,
+                      858,
+                      91,
+                      821,
+                      93
+                    ],
+                    "text": "85",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  43,
+                  180,
+                  201,
+                  180,
+                  201,
+                  214,
+                  43,
+                  213
+                ],
+                "text": "Tilbake",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      93,
+                      181,
+                      198,
+                      182,
+                      198,
+                      215,
+                      92,
+                      213
+                    ],
+                    "text": "Tilbake",
+                    "confidence": 0.97
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  274,
+                  329,
+                  272,
+                  329,
+                  320,
+                  33,
+                  322
+                ],
+                "text": "Brukervilkår",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      275,
+                      330,
+                      273,
+                      330,
+                      321,
+                      33,
+                      322
+                    ],
+                    "text": "Brukervilkår",
+                    "confidence": 0.992
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  387,
+                  697,
+                  388,
+                  697,
+                  425,
+                  32,
+                  424
+                ],
+                "text": "Ved å bruke CatchSign aksepterer du følgende:",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      388,
+                      87,
+                      388,
+                      86,
+                      424,
+                      33,
+                      423
+                    ],
+                    "text": "Ved",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      94,
+                      388,
+                      111,
+                      388,
+                      110,
+                      424,
+                      93,
+                      424
+                    ],
+                    "text": "å",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      118,
+                      388,
+                      199,
+                      388,
+                      198,
+                      425,
+                      118,
+                      424
+                    ],
+                    "text": "bruke",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      206,
+                      388,
+                      352,
+                      388,
+                      352,
+                      426,
+                      205,
+                      425
+                    ],
+                    "text": "CatchSign",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      359,
+                      388,
+                      511,
+                      388,
+                      511,
+                      426,
+                      359,
+                      426
+                    ],
+                    "text": "aksepterer",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      518,
+                      388,
+                      554,
+                      388,
+                      555,
+                      426,
+                      518,
+                      426
+                    ],
+                    "text": "du",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      562,
+                      388,
+                      696,
+                      389,
+                      697,
+                      425,
+                      562,
+                      426
+                    ],
+                    "text": "følgende:",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  478,
+                  854,
+                  478,
+                  854,
+                  517,
+                  33,
+                  517
+                ],
+                "text": "Vi håndterer personopplysninger på en trygg måte. Du må",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      479,
+                      61,
+                      479,
+                      59,
+                      513,
+                      33,
+                      512
+                    ],
+                    "text": "Vi",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      68,
+                      479,
+                      205,
+                      480,
+                      204,
+                      516,
+                      66,
+                      513
+                    ],
+                    "text": "håndterer",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      212,
+                      480,
+                      493,
+                      480,
+                      493,
+                      518,
+                      211,
+                      516
+                    ],
+                    "text": "personopplysninger",
+                    "confidence": 0.992
+                  },
+                  {
+                    "boundingBox": [
+                      500,
+                      480,
+                      536,
+                      480,
+                      536,
+                      518,
+                      500,
+                      518
+                    ],
+                    "text": "på",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      543,
+                      480,
+                      579,
+                      480,
+                      579,
+                      518,
+                      543,
+                      518
+                    ],
+                    "text": "en",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      586,
+                      480,
+                      658,
+                      479,
+                      659,
+                      517,
+                      587,
+                      518
+                    ],
+                    "text": "trygg",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      666,
+                      479,
+                      747,
+                      479,
+                      748,
+                      516,
+                      666,
+                      517
+                    ],
+                    "text": "måte.",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      754,
+                      479,
+                      793,
+                      479,
+                      794,
+                      515,
+                      755,
+                      516
+                    ],
+                    "text": "Du",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      800,
+                      478,
+                      851,
+                      478,
+                      852,
+                      514,
+                      801,
+                      515
+                    ],
+                    "text": "må",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  525,
+                  907,
+                  524,
+                  907,
+                  560,
+                  33,
+                  562
+                ],
+                "text": "oppgi nødvendige personalia for å kunne signere dokumenter.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      526,
+                      111,
+                      525,
+                      111,
+                      562,
+                      34,
+                      563
+                    ],
+                    "text": "oppgi",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      118,
+                      525,
+                      280,
+                      525,
+                      280,
+                      561,
+                      118,
+                      562
+                    ],
+                    "text": "nødvendige",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      287,
+                      525,
+                      440,
+                      525,
+                      440,
+                      560,
+                      287,
+                      561
+                    ],
+                    "text": "personalia",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      447,
+                      525,
+                      491,
+                      525,
+                      492,
+                      560,
+                      447,
+                      560
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      498,
+                      524,
+                      515,
+                      524,
+                      515,
+                      560,
+                      499,
+                      560
+                    ],
+                    "text": "å",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      522,
+                      524,
+                      609,
+                      525,
+                      609,
+                      560,
+                      522,
+                      560
+                    ],
+                    "text": "kunne",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      616,
+                      525,
+                      721,
+                      525,
+                      722,
+                      560,
+                      616,
+                      560
+                    ],
+                    "text": "signere",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      728,
+                      525,
+                      905,
+                      525,
+                      906,
+                      560,
+                      729,
+                      560
+                    ],
+                    "text": "dokumenter.",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  569,
+                  887,
+                  570,
+                  887,
+                  606,
+                  33,
+                  605
+                ],
+                "text": "Vi oppbevarer fødselsdato , navn, adresse, mobilnummer og",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      570,
+                      62,
+                      570,
+                      60,
+                      606,
+                      34,
+                      606
+                    ],
+                    "text": "Vi",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      69,
+                      570,
+                      229,
+                      570,
+                      228,
+                      605,
+                      67,
+                      606
+                    ],
+                    "text": "oppbevarer",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      236,
+                      570,
+                      405,
+                      570,
+                      404,
+                      604,
+                      235,
+                      605
+                    ],
+                    "text": "fødselsdato",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      412,
+                      570,
+                      421,
+                      570,
+                      420,
+                      604,
+                      411,
+                      604
+                    ],
+                    "text": ",",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      428,
+                      570,
+                      506,
+                      570,
+                      505,
+                      604,
+                      427,
+                      604
+                    ],
+                    "text": "navn,",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      512,
+                      570,
+                      631,
+                      570,
+                      631,
+                      604,
+                      512,
+                      604
+                    ],
+                    "text": "adresse,",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      638,
+                      570,
+                      837,
+                      571,
+                      837,
+                      606,
+                      638,
+                      605
+                    ],
+                    "text": "mobilnummer",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      844,
+                      571,
+                      882,
+                      572,
+                      882,
+                      606,
+                      844,
+                      606
+                    ],
+                    "text": "og",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  613,
+                  772,
+                  612,
+                  772,
+                  649,
+                  33,
+                  651
+                ],
+                "text": "epostadresse på deg i vår interne database. Dette er",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      616,
+                      223,
+                      614,
+                      221,
+                      651,
+                      34,
+                      652
+                    ],
+                    "text": "epostadresse",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      230,
+                      614,
+                      267,
+                      613,
+                      266,
+                      651,
+                      229,
+                      651
+                    ],
+                    "text": "på",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      274,
+                      613,
+                      326,
+                      613,
+                      325,
+                      651,
+                      273,
+                      651
+                    ],
+                    "text": "deg",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      333,
+                      613,
+                      343,
+                      613,
+                      342,
+                      651,
+                      332,
+                      651
+                    ],
+                    "text": "i",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      350,
+                      613,
+                      397,
+                      613,
+                      396,
+                      650,
+                      349,
+                      651
+                    ],
+                    "text": "vår",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      404,
+                      613,
+                      503,
+                      613,
+                      502,
+                      650,
+                      403,
+                      650
+                    ],
+                    "text": "interne",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      510,
+                      613,
+                      651,
+                      614,
+                      650,
+                      649,
+                      509,
+                      650
+                    ],
+                    "text": "database.",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      658,
+                      614,
+                      733,
+                      616,
+                      733,
+                      648,
+                      657,
+                      649
+                    ],
+                    "text": "Dette",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      740,
+                      616,
+                      772,
+                      616,
+                      771,
+                      648,
+                      740,
+                      648
+                    ],
+                    "text": "er",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  660,
+                  779,
+                  659,
+                  779,
+                  695,
+                  33,
+                  698
+                ],
+                "text": "personopplysninger du har oppgitt til oss, og som er",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      663,
+                      312,
+                      659,
+                      312,
+                      698,
+                      34,
+                      698
+                    ],
+                    "text": "personopplysninger",
+                    "confidence": 0.985
+                  },
+                  {
+                    "boundingBox": [
+                      319,
+                      659,
+                      355,
+                      659,
+                      355,
+                      698,
+                      319,
+                      698
+                    ],
+                    "text": "du",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      362,
+                      659,
+                      412,
+                      659,
+                      412,
+                      698,
+                      362,
+                      698
+                    ],
+                    "text": "har",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      419,
+                      659,
+                      519,
+                      659,
+                      519,
+                      697,
+                      419,
+                      698
+                    ],
+                    "text": "oppgitt",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      526,
+                      659,
+                      557,
+                      659,
+                      557,
+                      697,
+                      526,
+                      697
+                    ],
+                    "text": "til",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      564,
+                      659,
+                      624,
+                      660,
+                      624,
+                      696,
+                      564,
+                      697
+                    ],
+                    "text": "oss,",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      631,
+                      660,
+                      667,
+                      660,
+                      666,
+                      696,
+                      631,
+                      696
+                    ],
+                    "text": "og",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      674,
+                      661,
+                      731,
+                      661,
+                      730,
+                      695,
+                      674,
+                      696
+                    ],
+                    "text": "som",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      745,
+                      662,
+                      779,
+                      662,
+                      779,
+                      694,
+                      745,
+                      695
+                    ],
+                    "text": "er",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  703,
+                  915,
+                  703,
+                  915,
+                  740,
+                  35,
+                  740
+                ],
+                "text": "nødvendige for at vi skal kunne gjennomføre våre forpliktelser",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      704,
+                      195,
+                      704,
+                      194,
+                      740,
+                      36,
+                      739
+                    ],
+                    "text": "nødvendige",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      202,
+                      704,
+                      245,
+                      704,
+                      245,
+                      741,
+                      202,
+                      740
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      252,
+                      704,
+                      281,
+                      704,
+                      281,
+                      741,
+                      252,
+                      741
+                    ],
+                    "text": "at",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      289,
+                      704,
+                      313,
+                      704,
+                      313,
+                      741,
+                      288,
+                      741
+                    ],
+                    "text": "vi",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      320,
+                      704,
+                      378,
+                      704,
+                      378,
+                      741,
+                      320,
+                      741
+                    ],
+                    "text": "skal",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      385,
+                      704,
+                      474,
+                      704,
+                      474,
+                      741,
+                      385,
+                      741
+                    ],
+                    "text": "kunne",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      482,
+                      704,
+                      663,
+                      703,
+                      662,
+                      741,
+                      481,
+                      741
+                    ],
+                    "text": "gjennomføre",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      670,
+                      703,
+                      730,
+                      703,
+                      730,
+                      741,
+                      669,
+                      741
+                    ],
+                    "text": "våre",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      737,
+                      703,
+                      914,
+                      703,
+                      914,
+                      740,
+                      737,
+                      741
+                    ],
+                    "text": "forpliktelser",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  36,
+                  749,
+                  908,
+                  749,
+                  908,
+                  786,
+                  36,
+                  785
+                ],
+                "text": "ovenfor deg som signatar. Vi deler ingen av dine opplysninger",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      37,
+                      751,
+                      142,
+                      750,
+                      141,
+                      786,
+                      36,
+                      785
+                    ],
+                    "text": "ovenfor",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      149,
+                      750,
+                      201,
+                      750,
+                      201,
+                      786,
+                      148,
+                      786
+                    ],
+                    "text": "deg",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      209,
+                      750,
+                      263,
+                      750,
+                      262,
+                      786,
+                      208,
+                      786
+                    ],
+                    "text": "som",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      278,
+                      750,
+                      404,
+                      749,
+                      404,
+                      786,
+                      277,
+                      786
+                    ],
+                    "text": "signatar.",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      411,
+                      749,
+                      440,
+                      749,
+                      440,
+                      786,
+                      411,
+                      786
+                    ],
+                    "text": "Vi",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      447,
+                      749,
+                      519,
+                      749,
+                      519,
+                      786,
+                      447,
+                      786
+                    ],
+                    "text": "deler",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      526,
+                      749,
+                      607,
+                      749,
+                      607,
+                      787,
+                      526,
+                      787
+                    ],
+                    "text": "ingen",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      614,
+                      749,
+                      648,
+                      749,
+                      648,
+                      787,
+                      614,
+                      787
+                    ],
+                    "text": "av",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      655,
+                      749,
+                      714,
+                      750,
+                      714,
+                      787,
+                      655,
+                      787
+                    ],
+                    "text": "dine",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      721,
+                      750,
+                      908,
+                      751,
+                      909,
+                      787,
+                      722,
+                      787
+                    ],
+                    "text": "opplysninger",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  794,
+                  251,
+                  794,
+                  251,
+                  830,
+                  35,
+                  831
+                ],
+                "text": "med tredjepart.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      797,
+                      93,
+                      795,
+                      93,
+                      830,
+                      35,
+                      831
+                    ],
+                    "text": "med",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      100,
+                      795,
+                      251,
+                      795,
+                      251,
+                      831,
+                      100,
+                      830
+                    ],
+                    "text": "tredjepart.",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  882,
+                  879,
+                  883,
+                  879,
+                  922,
+                  33,
+                  920
+                ],
+                "text": "Vi ser også når du bruker CatchSign, hvilket operativsystem",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      884,
+                      60,
+                      884,
+                      60,
+                      919,
+                      33,
+                      919
+                    ],
+                    "text": "Vi",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      68,
+                      884,
+                      114,
+                      883,
+                      114,
+                      920,
+                      67,
+                      920
+                    ],
+                    "text": "ser",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      122,
+                      883,
+                      191,
+                      883,
+                      190,
+                      921,
+                      121,
+                      920
+                    ],
+                    "text": "også",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      198,
+                      883,
+                      247,
+                      883,
+                      246,
+                      921,
+                      197,
+                      921
+                    ],
+                    "text": "når",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      254,
+                      883,
+                      289,
+                      883,
+                      288,
+                      922,
+                      254,
+                      921
+                    ],
+                    "text": "du",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      296,
+                      883,
+                      389,
+                      883,
+                      389,
+                      922,
+                      296,
+                      922
+                    ],
+                    "text": "bruker",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      397,
+                      883,
+                      549,
+                      883,
+                      549,
+                      922,
+                      396,
+                      922
+                    ],
+                    "text": "CatchSign,",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      556,
+                      883,
+                      650,
+                      884,
+                      650,
+                      922,
+                      556,
+                      922
+                    ],
+                    "text": "hvilket",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      657,
+                      884,
+                      870,
+                      886,
+                      871,
+                      921,
+                      657,
+                      922
+                    ],
+                    "text": "operativsystem",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  926,
+                  921,
+                  928,
+                  921,
+                  966,
+                  34,
+                  963
+                ],
+                "text": "din håndholdte enhet benytter, IP-adresse og hvilket geografisk",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      927,
+                      74,
+                      927,
+                      73,
+                      963,
+                      34,
+                      963
+                    ],
+                    "text": "din",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      81,
+                      927,
+                      243,
+                      928,
+                      242,
+                      964,
+                      80,
+                      963
+                    ],
+                    "text": "håndholdte",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      250,
+                      928,
+                      328,
+                      928,
+                      327,
+                      965,
+                      250,
+                      964
+                    ],
+                    "text": "enhet",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      335,
+                      928,
+                      459,
+                      929,
+                      458,
+                      966,
+                      334,
+                      965
+                    ],
+                    "text": "benytter,",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      466,
+                      929,
+                      616,
+                      929,
+                      616,
+                      966,
+                      465,
+                      966
+                    ],
+                    "text": "IP-adresse",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      623,
+                      929,
+                      660,
+                      929,
+                      659,
+                      966,
+                      623,
+                      966
+                    ],
+                    "text": "og",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      667,
+                      929,
+                      761,
+                      929,
+                      761,
+                      966,
+                      666,
+                      966
+                    ],
+                    "text": "hvilket",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      769,
+                      929,
+                      920,
+                      928,
+                      919,
+                      966,
+                      768,
+                      966
+                    ],
+                    "text": "geografisk",
+                    "confidence": 0.963
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  973,
+                  751,
+                  973,
+                  751,
+                  1011,
+                  35,
+                  1010
+                ],
+                "text": "område du oppholder deg ved signeringstidspunkt.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      974,
+                      139,
+                      974,
+                      138,
+                      1010,
+                      35,
+                      1009
+                    ],
+                    "text": "område",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      147,
+                      974,
+                      184,
+                      974,
+                      183,
+                      1011,
+                      146,
+                      1010
+                    ],
+                    "text": "du",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      191,
+                      973,
+                      336,
+                      973,
+                      336,
+                      1011,
+                      190,
+                      1011
+                    ],
+                    "text": "oppholder",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      344,
+                      973,
+                      395,
+                      973,
+                      395,
+                      1012,
+                      343,
+                      1012
+                    ],
+                    "text": "deg",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      403,
+                      973,
+                      452,
+                      973,
+                      452,
+                      1012,
+                      403,
+                      1012
+                    ],
+                    "text": "ved",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      460,
+                      973,
+                      751,
+                      974,
+                      752,
+                      1012,
+                      459,
+                      1012
+                    ],
+                    "text": "signeringstidspunkt.",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  1018,
+                  791,
+                  1018,
+                  791,
+                  1055,
+                  34,
+                  1055
+                ],
+                "text": "Alle dokumenter som signeres blir lagret i vår interne",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      1020,
+                      86,
+                      1020,
+                      85,
+                      1053,
+                      34,
+                      1052
+                    ],
+                    "text": "Alle",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      93,
+                      1020,
+                      265,
+                      1019,
+                      264,
+                      1055,
+                      92,
+                      1053
+                    ],
+                    "text": "dokumenter",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      272,
+                      1019,
+                      327,
+                      1019,
+                      326,
+                      1055,
+                      271,
+                      1055
+                    ],
+                    "text": "som",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      342,
+                      1019,
+                      465,
+                      1019,
+                      464,
+                      1056,
+                      341,
+                      1055
+                    ],
+                    "text": "signeres",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      472,
+                      1019,
+                      518,
+                      1019,
+                      518,
+                      1056,
+                      471,
+                      1056
+                    ],
+                    "text": "blir",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      525,
+                      1019,
+                      609,
+                      1019,
+                      608,
+                      1055,
+                      525,
+                      1056
+                    ],
+                    "text": "lagret",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      616,
+                      1019,
+                      625,
+                      1019,
+                      625,
+                      1055,
+                      615,
+                      1055
+                    ],
+                    "text": "i",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      632,
+                      1019,
+                      678,
+                      1019,
+                      678,
+                      1055,
+                      632,
+                      1055
+                    ],
+                    "text": "vår",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      685,
+                      1019,
+                      787,
+                      1018,
+                      787,
+                      1054,
+                      685,
+                      1055
+                    ],
+                    "text": "interne",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  1063,
+                  796,
+                  1063,
+                  796,
+                  1101,
+                  34,
+                  1100
+                ],
+                "text": "database. De er kun tilgjengelig for kjernesystemet du",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      1065,
+                      171,
+                      1064,
+                      170,
+                      1099,
+                      34,
+                      1098
+                    ],
+                    "text": "database.",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      178,
+                      1064,
+                      217,
+                      1064,
+                      215,
+                      1100,
+                      177,
+                      1100
+                    ],
+                    "text": "De",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      224,
+                      1064,
+                      252,
+                      1064,
+                      251,
+                      1100,
+                      222,
+                      1100
+                    ],
+                    "text": "er",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      259,
+                      1063,
+                      312,
+                      1063,
+                      310,
+                      1101,
+                      258,
+                      1100
+                    ],
+                    "text": "kun",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      319,
+                      1063,
+                      476,
+                      1063,
+                      475,
+                      1101,
+                      318,
+                      1101
+                    ],
+                    "text": "tilgjengelig",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      483,
+                      1063,
+                      526,
+                      1063,
+                      525,
+                      1101,
+                      482,
+                      1101
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      534,
+                      1063,
+                      750,
+                      1064,
+                      749,
+                      1100,
+                      532,
+                      1101
+                    ],
+                    "text": "kjernesystemet",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      758,
+                      1064,
+                      796,
+                      1065,
+                      795,
+                      1100,
+                      757,
+                      1100
+                    ],
+                    "text": "du",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  1109,
+                  842,
+                  1108,
+                  842,
+                  1145,
+                  34,
+                  1147
+                ],
+                "text": "opprettet dokumentene gjennom og via din tilgang på din",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      1112,
+                      161,
+                      1111,
+                      160,
+                      1146,
+                      34,
+                      1145
+                    ],
+                    "text": "opprettet",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      168,
+                      1111,
+                      362,
+                      1110,
+                      362,
+                      1147,
+                      168,
+                      1146
+                    ],
+                    "text": "dokumentene",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      369,
+                      1110,
+                      483,
+                      1109,
+                      484,
+                      1147,
+                      369,
+                      1147
+                    ],
+                    "text": "gjennom",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      500,
+                      1109,
+                      536,
+                      1109,
+                      537,
+                      1147,
+                      501,
+                      1147
+                    ],
+                    "text": "og",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      544,
+                      1109,
+                      587,
+                      1109,
+                      587,
+                      1147,
+                      544,
+                      1147
+                    ],
+                    "text": "via",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      594,
+                      1109,
+                      639,
+                      1109,
+                      640,
+                      1147,
+                      594,
+                      1147
+                    ],
+                    "text": "din",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      646,
+                      1109,
+                      742,
+                      1108,
+                      743,
+                      1146,
+                      647,
+                      1147
+                    ],
+                    "text": "tilgang",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      749,
+                      1108,
+                      787,
+                      1108,
+                      789,
+                      1146,
+                      750,
+                      1146
+                    ],
+                    "text": "på",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      795,
+                      1108,
+                      841,
+                      1108,
+                      842,
+                      1146,
+                      796,
+                      1146
+                    ],
+                    "text": "din",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  1156,
+                  123,
+                  1155,
+                  123,
+                  1185,
+                  33,
+                  1186
+                ],
+                "text": "enhet.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      1157,
+                      122,
+                      1156,
+                      123,
+                      1186,
+                      33,
+                      1186
+                    ],
+                    "text": "enhet.",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  36,
+                  1243,
+                  837,
+                  1243,
+                  837,
+                  1279,
+                  36,
+                  1279
+                ],
+                "text": "Et dokument som er signert vil inneholde ditt navn, dato/",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      38,
+                      1246,
+                      62,
+                      1246,
+                      61,
+                      1277,
+                      37,
+                      1276
+                    ],
+                    "text": "Et",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      68,
+                      1246,
+                      212,
+                      1246,
+                      211,
+                      1278,
+                      67,
+                      1277
+                    ],
+                    "text": "dokument",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      218,
+                      1246,
+                      273,
+                      1246,
+                      272,
+                      1279,
+                      218,
+                      1278
+                    ],
+                    "text": "som",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      289,
+                      1246,
+                      320,
+                      1245,
+                      319,
+                      1279,
+                      288,
+                      1279
+                    ],
+                    "text": "er",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      326,
+                      1245,
+                      428,
+                      1245,
+                      427,
+                      1279,
+                      326,
+                      1279
+                    ],
+                    "text": "signert",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      434,
+                      1245,
+                      467,
+                      1245,
+                      467,
+                      1280,
+                      434,
+                      1280
+                    ],
+                    "text": "vil",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      474,
+                      1245,
+                      615,
+                      1245,
+                      615,
+                      1280,
+                      474,
+                      1280
+                    ],
+                    "text": "inneholde",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      622,
+                      1245,
+                      668,
+                      1244,
+                      668,
+                      1280,
+                      622,
+                      1280
+                    ],
+                    "text": "ditt",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      675,
+                      1244,
+                      754,
+                      1244,
+                      754,
+                      1279,
+                      675,
+                      1280
+                    ],
+                    "text": "navn,",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      761,
+                      1244,
+                      836,
+                      1244,
+                      837,
+                      1279,
+                      761,
+                      1279
+                    ],
+                    "text": "dato/",
+                    "confidence": 0.964
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  36,
+                  1288,
+                  868,
+                  1289,
+                  868,
+                  1327,
+                  36,
+                  1324
+                ],
+                "text": "klokkeslett for når du signerte og din geografiske posisjon.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      38,
+                      1288,
+                      188,
+                      1289,
+                      186,
+                      1324,
+                      36,
+                      1321
+                    ],
+                    "text": "klokkeslett",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      195,
+                      1289,
+                      237,
+                      1289,
+                      236,
+                      1324,
+                      193,
+                      1324
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      244,
+                      1289,
+                      293,
+                      1290,
+                      293,
+                      1325,
+                      243,
+                      1324
+                    ],
+                    "text": "når",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      300,
+                      1290,
+                      336,
+                      1290,
+                      335,
+                      1325,
+                      300,
+                      1325
+                    ],
+                    "text": "du",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      343,
+                      1290,
+                      460,
+                      1290,
+                      460,
+                      1326,
+                      342,
+                      1325
+                    ],
+                    "text": "signerte",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      467,
+                      1290,
+                      505,
+                      1290,
+                      505,
+                      1327,
+                      467,
+                      1326
+                    ],
+                    "text": "og",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      512,
+                      1290,
+                      557,
+                      1290,
+                      557,
+                      1327,
+                      512,
+                      1327
+                    ],
+                    "text": "din",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      564,
+                      1290,
+                      728,
+                      1290,
+                      729,
+                      1327,
+                      564,
+                      1327
+                    ],
+                    "text": "geografiske",
+                    "confidence": 0.987
+                  },
+                  {
+                    "boundingBox": [
+                      735,
+                      1290,
+                      867,
+                      1289,
+                      869,
+                      1327,
+                      736,
+                      1327
+                    ],
+                    "text": "posisjon.",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  412,
+                  1971,
+                  548,
+                  1971,
+                  547,
+                  2004,
+                  412,
+                  2003
+                ],
+                "text": "Fortsett",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      414,
+                      1971,
+                      546,
+                      1972,
+                      546,
+                      2005,
+                      412,
+                      2004
+                    ],
+                    "text": "Fortsett",
+                    "confidence": 0.996
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

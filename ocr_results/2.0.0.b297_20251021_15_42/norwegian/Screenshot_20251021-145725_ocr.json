@@ -1,0 +1,887 @@
+{
+  "filename": "Screenshot_20251021-145725.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\norwegian\\Screenshot_20251021-145725.png",
+  "relative_path": "2.0.0.b297\\norwegian\\Screenshot_20251021-145725.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:43:02.779887",
+  "ocr_result": {
+    "text": "14:57 ₸\n.Il ~ 85\n. Tilbake\nNullstill ditt\npassord\nFor å nullstille ditt passord, vennligst skriv inn ditt brukernavn\ni feltet under. Trykk gjerne på linken nederst på denne siden\nom du er usikker på ditt brukernavn.\nBrukernavn\nDDMMÅÅEEEFFF\n2\nNullstill passord",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:43:00Z",
+      "lastUpdatedDateTime": "2025-10-21T13:43:01Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  84,
+                  59,
+                  218,
+                  58,
+                  219,
+                  94,
+                  84,
+                  94
+                ],
+                "text": "14:57 ₸",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      85,
+                      61,
+                      167,
+                      59,
+                      166,
+                      94,
+                      84,
+                      93
+                    ],
+                    "text": "14:57",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      186,
+                      59,
+                      205,
+                      59,
+                      204,
+                      95,
+                      185,
+                      94
+                    ],
+                    "text": "₸",
+                    "confidence": 0.276
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  705,
+                  63,
+                  856,
+                  59,
+                  858,
+                  91,
+                  705,
+                  98
+                ],
+                "text": ".Il ~ 85",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      706,
+                      66,
+                      756,
+                      61,
+                      756,
+                      96,
+                      706,
+                      99
+                    ],
+                    "text": ".Il",
+                    "confidence": 0.101
+                  },
+                  {
+                    "boundingBox": [
+                      765,
+                      61,
+                      784,
+                      60,
+                      784,
+                      95,
+                      765,
+                      96
+                    ],
+                    "text": "~",
+                    "confidence": 0.008
+                  },
+                  {
+                    "boundingBox": [
+                      820,
+                      60,
+                      856,
+                      62,
+                      857,
+                      90,
+                      821,
+                      92
+                    ],
+                    "text": "85",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  69,
+                  168,
+                  199,
+                  171,
+                  199,
+                  220,
+                  69,
+                  219
+                ],
+                "text": ". Tilbake",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.692
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      69,
+                      168,
+                      76,
+                      168,
+                      75,
+                      219,
+                      69,
+                      219
+                    ],
+                    "text": ".",
+                    "confidence": 0.215
+                  },
+                  {
+                    "boundingBox": [
+                      77,
+                      168,
+                      198,
+                      170,
+                      197,
+                      221,
+                      76,
+                      219
+                    ],
+                    "text": "Tilbake",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  289,
+                  317,
+                  289,
+                  317,
+                  338,
+                  34,
+                  338
+                ],
+                "text": "Nullstill ditt",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      290,
+                      220,
+                      290,
+                      219,
+                      339,
+                      34,
+                      338
+                    ],
+                    "text": "Nullstill",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      230,
+                      290,
+                      317,
+                      291,
+                      316,
+                      338,
+                      229,
+                      339
+                    ],
+                    "text": "ditt",
+                    "confidence": 0.99
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  366,
+                  233,
+                  365,
+                  233,
+                  417,
+                  32,
+                  418
+                ],
+                "text": "passord",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      32,
+                      367,
+                      224,
+                      366,
+                      227,
+                      417,
+                      33,
+                      419
+                    ],
+                    "text": "passord",
+                    "confidence": 0.992
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  481,
+                  908,
+                  482,
+                  908,
+                  520,
+                  33,
+                  519
+                ],
+                "text": "For å nullstille ditt passord, vennligst skriv inn ditt brukernavn",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      482,
+                      80,
+                      482,
+                      79,
+                      518,
+                      33,
+                      517
+                    ],
+                    "text": "For",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      87,
+                      482,
+                      104,
+                      482,
+                      104,
+                      518,
+                      87,
+                      518
+                    ],
+                    "text": "å",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      112,
+                      482,
+                      234,
+                      482,
+                      234,
+                      520,
+                      111,
+                      518
+                    ],
+                    "text": "nullstille",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      241,
+                      482,
+                      288,
+                      482,
+                      288,
+                      520,
+                      241,
+                      520
+                    ],
+                    "text": "ditt",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      295,
+                      482,
+                      420,
+                      482,
+                      420,
+                      521,
+                      295,
+                      520
+                    ],
+                    "text": "passord,",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      427,
+                      482,
+                      554,
+                      482,
+                      555,
+                      521,
+                      427,
+                      521
+                    ],
+                    "text": "vennligst",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      562,
+                      482,
+                      633,
+                      482,
+                      633,
+                      520,
+                      562,
+                      521
+                    ],
+                    "text": "skriv",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      640,
+                      482,
+                      684,
+                      482,
+                      685,
+                      520,
+                      641,
+                      520
+                    ],
+                    "text": "inn",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      691,
+                      482,
+                      738,
+                      482,
+                      739,
+                      520,
+                      692,
+                      520
+                    ],
+                    "text": "ditt",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      745,
+                      482,
+                      907,
+                      483,
+                      908,
+                      518,
+                      746,
+                      520
+                    ],
+                    "text": "brukernavn",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  31,
+                  526,
+                  877,
+                  526,
+                  877,
+                  564,
+                  31,
+                  564
+                ],
+                "text": "i feltet under. Trykk gjerne på linken nederst på denne siden",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      32,
+                      526,
+                      41,
+                      526,
+                      41,
+                      563,
+                      31,
+                      563
+                    ],
+                    "text": "i",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      49,
+                      526,
+                      122,
+                      526,
+                      121,
+                      564,
+                      48,
+                      563
+                    ],
+                    "text": "feltet",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      129,
+                      526,
+                      220,
+                      526,
+                      219,
+                      564,
+                      129,
+                      564
+                    ],
+                    "text": "under.",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      227,
+                      526,
+                      305,
+                      526,
+                      305,
+                      565,
+                      226,
+                      564
+                    ],
+                    "text": "Trykk",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      313,
+                      526,
+                      398,
+                      526,
+                      398,
+                      565,
+                      312,
+                      565
+                    ],
+                    "text": "gjerne",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      405,
+                      526,
+                      442,
+                      527,
+                      442,
+                      565,
+                      405,
+                      565
+                    ],
+                    "text": "på",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      449,
+                      527,
+                      535,
+                      527,
+                      535,
+                      565,
+                      449,
+                      565
+                    ],
+                    "text": "linken",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      542,
+                      527,
+                      650,
+                      527,
+                      650,
+                      564,
+                      542,
+                      565
+                    ],
+                    "text": "nederst",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      657,
+                      527,
+                      694,
+                      527,
+                      694,
+                      564,
+                      657,
+                      564
+                    ],
+                    "text": "på",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      701,
+                      527,
+                      786,
+                      527,
+                      787,
+                      563,
+                      701,
+                      564
+                    ],
+                    "text": "denne",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      794,
+                      527,
+                      874,
+                      528,
+                      874,
+                      563,
+                      794,
+                      563
+                    ],
+                    "text": "siden",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  572,
+                  550,
+                  572,
+                  550,
+                  607,
+                  35,
+                  609
+                ],
+                "text": "om du er usikker på ditt brukernavn.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      576,
+                      69,
+                      575,
+                      69,
+                      608,
+                      35,
+                      608
+                    ],
+                    "text": "om",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      84,
+                      575,
+                      123,
+                      574,
+                      122,
+                      608,
+                      83,
+                      608
+                    ],
+                    "text": "du",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      130,
+                      574,
+                      158,
+                      574,
+                      157,
+                      608,
+                      129,
+                      608
+                    ],
+                    "text": "er",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      165,
+                      573,
+                      271,
+                      572,
+                      270,
+                      609,
+                      164,
+                      608
+                    ],
+                    "text": "usikker",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      278,
+                      572,
+                      315,
+                      572,
+                      314,
+                      609,
+                      277,
+                      609
+                    ],
+                    "text": "på",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      321,
+                      572,
+                      368,
+                      572,
+                      367,
+                      609,
+                      321,
+                      609
+                    ],
+                    "text": "ditt",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      375,
+                      572,
+                      550,
+                      574,
+                      550,
+                      609,
+                      374,
+                      609
+                    ],
+                    "text": "brukernavn.",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  673,
+                  198,
+                  674,
+                  198,
+                  706,
+                  34,
+                  703
+                ],
+                "text": "Brukernavn",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      673,
+                      193,
+                      675,
+                      193,
+                      706,
+                      35,
+                      704
+                    ],
+                    "text": "Brukernavn",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  71,
+                  765,
+                  362,
+                  764,
+                  362,
+                  806,
+                  71,
+                  807
+                ],
+                "text": "DDMMÅÅEEEFFF",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      73,
+                      768,
+                      358,
+                      765,
+                      359,
+                      807,
+                      72,
+                      808
+                    ],
+                    "text": "DDMMÅÅEEEFFF",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  846,
+                  762,
+                  892,
+                  759,
+                  894,
+                  817,
+                  846,
+                  820
+                ],
+                "text": "2",
+                "appearance": {
+                  "style": {
+                    "name": "handwriting",
+                    "confidence": 0.468
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      851,
+                      761,
+                      888,
+                      759,
+                      892,
+                      816,
+                      855,
+                      819
+                    ],
+                    "text": "2",
+                    "confidence": 0.461
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  362,
+                  942,
+                  595,
+                  943,
+                  595,
+                  977,
+                  362,
+                  976
+                ],
+                "text": "Nullstill passord",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      363,
+                      943,
+                      470,
+                      944,
+                      470,
+                      978,
+                      363,
+                      977
+                    ],
+                    "text": "Nullstill",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      477,
+                      944,
+                      594,
+                      945,
+                      595,
+                      977,
+                      477,
+                      978
+                    ],
+                    "text": "passord",
+                    "confidence": 0.997
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1783 @@
+{
+  "filename": "Screenshot_20251021-153227.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\english\\Screenshot_20251021-153227.png",
+  "relative_path": "2.0.0.b297\\english\\Screenshot_20251021-153227.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:44:29.581160",
+  "ocr_result": {
+    "text": "15:32\n· T\n.Ill ~ 82\nBack\nemptydok135\nO\n.-\n2 of 2\n1/2\nNORSK VILLFISK\n30.01.2024 CET\nSamarbeidsorgan for fiskesalgslagene\nSpørsmål\nSvar\nJeg samtykker til at dette egenerklæringskjema lagres hos Catch Certificate med det formål å kartlegge risiko for\nTrue\nnegativ påvirkning på menneskerettigheter og anstendige arbeidsforhold, jf. Lov av 18.06.2021 nr 99\n(Åpenhetsloven). Erklæringene kan deles med mottakere av fangst. I tillegg deles erklæringene med salgslagene\nfor bruk på deres påloggbare nettportaler, f. eks ved auksjon.\nAnnen relevant informasjon\nLitt relevant informasjon\n2/2\nDecline\nApprove & Sign",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:44:27Z",
+      "lastUpdatedDateTime": "2025-10-21T13:44:28Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  86,
+                  60,
+                  178,
+                  59,
+                  179,
+                  91,
+                  87,
+                  92
+                ],
+                "text": "15:32",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      87,
+                      61,
+                      164,
+                      59,
+                      164,
+                      92,
+                      87,
+                      92
+                    ],
+                    "text": "15:32",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  181,
+                  58,
+                  270,
+                  56,
+                  270,
+                  94,
+                  180,
+                  92
+                ],
+                "text": "· T",
+                "appearance": {
+                  "style": {
+                    "name": "handwriting",
+                    "confidence": 0.68
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      191,
+                      56,
+                      215,
+                      56,
+                      215,
+                      94,
+                      191,
+                      94
+                    ],
+                    "text": "·",
+                    "confidence": 0.366
+                  },
+                  {
+                    "boundingBox": [
+                      241,
+                      56,
+                      266,
+                      56,
+                      266,
+                      94,
+                      241,
+                      94
+                    ],
+                    "text": "T",
+                    "confidence": 0.617
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  704,
+                  62,
+                  861,
+                  59,
+                  862,
+                  93,
+                  705,
+                  99
+                ],
+                "text": ".Ill ~ 82",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      67,
+                      756,
+                      61,
+                      758,
+                      96,
+                      706,
+                      100
+                    ],
+                    "text": ".Ill",
+                    "confidence": 0.188
+                  },
+                  {
+                    "boundingBox": [
+                      766,
+                      61,
+                      785,
+                      60,
+                      786,
+                      95,
+                      767,
+                      96
+                    ],
+                    "text": "~",
+                    "confidence": 0
+                  },
+                  {
+                    "boundingBox": [
+                      819,
+                      60,
+                      855,
+                      62,
+                      857,
+                      94,
+                      820,
+                      94
+                    ],
+                    "text": "82",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  90,
+                  209,
+                  165,
+                  210,
+                  165,
+                  239,
+                  89,
+                  239
+                ],
+                "text": "Back",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      91,
+                      209,
+                      164,
+                      209,
+                      164,
+                      239,
+                      90,
+                      238
+                    ],
+                    "text": "Back",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  365,
+                  208,
+                  590,
+                  204,
+                  591,
+                  243,
+                  365,
+                  246
+                ],
+                "text": "emptydok135",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      365,
+                      211,
+                      587,
+                      205,
+                      587,
+                      244,
+                      365,
+                      246
+                    ],
+                    "text": "emptydok135",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  347,
+                  335,
+                  370,
+                  337,
+                  371,
+                  358,
+                  348,
+                  356
+                ],
+                "text": "O",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      351,
+                      335,
+                      363,
+                      336,
+                      361,
+                      357,
+                      349,
+                      356
+                    ],
+                    "text": "O",
+                    "confidence": 0.817
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  849,
+                  338,
+                  847,
+                  363,
+                  832,
+                  361,
+                  834,
+                  336
+                ],
+                "text": ".-",
+                "appearance": {
+                  "style": {
+                    "name": "handwriting",
+                    "confidence": 0.428
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      849,
+                      339,
+                      847,
+                      363,
+                      832,
+                      362,
+                      834,
+                      338
+                    ],
+                    "text": ".-",
+                    "confidence": 0.719
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  59,
+                  458,
+                  149,
+                  457,
+                  149,
+                  490,
+                  60,
+                  491
+                ],
+                "text": "2 of 2",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      60,
+                      458,
+                      78,
+                      458,
+                      78,
+                      491,
+                      61,
+                      491
+                    ],
+                    "text": "2",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      84,
+                      458,
+                      120,
+                      457,
+                      120,
+                      490,
+                      85,
+                      491
+                    ],
+                    "text": "of",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      126,
+                      457,
+                      146,
+                      457,
+                      146,
+                      490,
+                      127,
+                      490
+                    ],
+                    "text": "2",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  465,
+                  521,
+                  492,
+                  522,
+                  491,
+                  537,
+                  465,
+                  537
+                ],
+                "text": "1/2",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      466,
+                      521,
+                      492,
+                      521,
+                      491,
+                      537,
+                      466,
+                      536
+                    ],
+                    "text": "1/2",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  187,
+                  642,
+                  370,
+                  642,
+                  370,
+                  664,
+                  187,
+                  665
+                ],
+                "text": "NORSK VILLFISK",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      187,
+                      644,
+                      261,
+                      644,
+                      261,
+                      665,
+                      187,
+                      664
+                    ],
+                    "text": "NORSK",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      271,
+                      643,
+                      363,
+                      643,
+                      364,
+                      665,
+                      271,
+                      665
+                    ],
+                    "text": "VILLFISK",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  756,
+                  637,
+                  858,
+                  637,
+                  858,
+                  653,
+                  756,
+                  652
+                ],
+                "text": "30.01.2024 CET",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      757,
+                      638,
+                      826,
+                      638,
+                      825,
+                      653,
+                      757,
+                      652
+                    ],
+                    "text": "30.01.2024",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      829,
+                      638,
+                      856,
+                      638,
+                      855,
+                      654,
+                      828,
+                      653
+                    ],
+                    "text": "CET",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  187,
+                  667,
+                  369,
+                  667,
+                  369,
+                  681,
+                  187,
+                  680
+                ],
+                "text": "Samarbeidsorgan for fiskesalgslagene",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      187,
+                      669,
+                      271,
+                      667,
+                      271,
+                      679,
+                      187,
+                      680
+                    ],
+                    "text": "Samarbeidsorgan",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      274,
+                      667,
+                      288,
+                      667,
+                      287,
+                      680,
+                      273,
+                      679
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      290,
+                      667,
+                      370,
+                      668,
+                      368,
+                      682,
+                      289,
+                      680
+                    ],
+                    "text": "fiskesalgslagene",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  101,
+                  700,
+                  162,
+                  700,
+                  162,
+                  716,
+                  101,
+                  716
+                ],
+                "text": "Spørsmål",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      103,
+                      701,
+                      162,
+                      701,
+                      161,
+                      716,
+                      103,
+                      716
+                    ],
+                    "text": "Spørsmål",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  790,
+                  700,
+                  817,
+                  701,
+                  815,
+                  713,
+                  789,
+                  711
+                ],
+                "text": "Svar",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.849
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      789,
+                      700,
+                      817,
+                      701,
+                      816,
+                      713,
+                      789,
+                      711
+                    ],
+                    "text": "Svar",
+                    "confidence": 0.982
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  105,
+                  724,
+                  775,
+                  723,
+                  775,
+                  740,
+                  105,
+                  741
+                ],
+                "text": "Jeg samtykker til at dette egenerklæringskjema lagres hos Catch Certificate med det formål å kartlegge risiko for",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      106,
+                      725,
+                      122,
+                      725,
+                      122,
+                      741,
+                      106,
+                      741
+                    ],
+                    "text": "Jeg",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      125,
+                      725,
+                      189,
+                      725,
+                      188,
+                      741,
+                      125,
+                      741
+                    ],
+                    "text": "samtykker",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      192,
+                      725,
+                      203,
+                      724,
+                      203,
+                      741,
+                      192,
+                      741
+                    ],
+                    "text": "til",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      206,
+                      724,
+                      217,
+                      724,
+                      217,
+                      741,
+                      206,
+                      741
+                    ],
+                    "text": "at",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      221,
+                      724,
+                      253,
+                      724,
+                      253,
+                      741,
+                      220,
+                      741
+                    ],
+                    "text": "dette",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      256,
+                      724,
+                      384,
+                      724,
+                      384,
+                      741,
+                      256,
+                      741
+                    ],
+                    "text": "egenerklæringskjema",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      388,
+                      724,
+                      423,
+                      724,
+                      423,
+                      741,
+                      387,
+                      741
+                    ],
+                    "text": "lagres",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      426,
+                      724,
+                      447,
+                      724,
+                      447,
+                      741,
+                      426,
+                      741
+                    ],
+                    "text": "hos",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      451,
+                      724,
+                      485,
+                      724,
+                      485,
+                      741,
+                      450,
+                      741
+                    ],
+                    "text": "Catch",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      488,
+                      724,
+                      552,
+                      724,
+                      552,
+                      741,
+                      488,
+                      741
+                    ],
+                    "text": "Certificate",
+                    "confidence": 0.955
+                  },
+                  {
+                    "boundingBox": [
+                      556,
+                      724,
+                      581,
+                      724,
+                      581,
+                      741,
+                      555,
+                      741
+                    ],
+                    "text": "med",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      584,
+                      724,
+                      603,
+                      724,
+                      603,
+                      741,
+                      584,
+                      741
+                    ],
+                    "text": "det",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      606,
+                      724,
+                      645,
+                      724,
+                      645,
+                      741,
+                      606,
+                      741
+                    ],
+                    "text": "formål",
+                    "confidence": 0.671
+                  },
+                  {
+                    "boundingBox": [
+                      648,
+                      724,
+                      654,
+                      724,
+                      654,
+                      741,
+                      648,
+                      741
+                    ],
+                    "text": "å",
+                    "confidence": 0.626
+                  },
+                  {
+                    "boundingBox": [
+                      657,
+                      724,
+                      714,
+                      724,
+                      713,
+                      741,
+                      657,
+                      741
+                    ],
+                    "text": "kartlegge",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      717,
+                      724,
+                      749,
+                      724,
+                      749,
+                      741,
+                      717,
+                      741
+                    ],
+                    "text": "risiko",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      752,
+                      724,
+                      775,
+                      724,
+                      774,
+                      741,
+                      752,
+                      741
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  809,
+                  722,
+                  841,
+                  724,
+                  840,
+                  738,
+                  809,
+                  737
+                ],
+                "text": "True",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      809,
+                      722,
+                      836,
+                      723,
+                      836,
+                      738,
+                      809,
+                      736
+                    ],
+                    "text": "True",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  102,
+                  744,
+                  699,
+                  743,
+                  699,
+                  760,
+                  102,
+                  761
+                ],
+                "text": "negativ påvirkning på menneskerettigheter og anstendige arbeidsforhold, jf. Lov av 18.06.2021 nr 99",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      103,
+                      745,
+                      146,
+                      745,
+                      147,
+                      761,
+                      104,
+                      761
+                    ],
+                    "text": "negativ",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      150,
+                      745,
+                      212,
+                      744,
+                      212,
+                      761,
+                      150,
+                      761
+                    ],
+                    "text": "påvirkning",
+                    "confidence": 0.675
+                  },
+                  {
+                    "boundingBox": [
+                      215,
+                      744,
+                      230,
+                      744,
+                      230,
+                      761,
+                      215,
+                      761
+                    ],
+                    "text": "på",
+                    "confidence": 0.681
+                  },
+                  {
+                    "boundingBox": [
+                      233,
+                      744,
+                      359,
+                      744,
+                      359,
+                      761,
+                      233,
+                      761
+                    ],
+                    "text": "menneskerettigheter",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      362,
+                      744,
+                      377,
+                      744,
+                      377,
+                      761,
+                      362,
+                      761
+                    ],
+                    "text": "og",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      381,
+                      744,
+                      446,
+                      744,
+                      446,
+                      761,
+                      380,
+                      761
+                    ],
+                    "text": "anstendige",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      450,
+                      744,
+                      539,
+                      744,
+                      538,
+                      761,
+                      449,
+                      761
+                    ],
+                    "text": "arbeidsforhold,",
+                    "confidence": 0.992
+                  },
+                  {
+                    "boundingBox": [
+                      542,
+                      744,
+                      553,
+                      744,
+                      552,
+                      761,
+                      541,
+                      761
+                    ],
+                    "text": "jf.",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      556,
+                      744,
+                      576,
+                      744,
+                      575,
+                      761,
+                      555,
+                      761
+                    ],
+                    "text": "Lov",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      580,
+                      744,
+                      593,
+                      744,
+                      592,
+                      761,
+                      579,
+                      761
+                    ],
+                    "text": "av",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      597,
+                      744,
+                      665,
+                      743,
+                      663,
+                      761,
+                      596,
+                      761
+                    ],
+                    "text": "18.06.2021",
+                    "confidence": 0.992
+                  },
+                  {
+                    "boundingBox": [
+                      668,
+                      743,
+                      681,
+                      743,
+                      680,
+                      761,
+                      667,
+                      761
+                    ],
+                    "text": "nr",
+                    "confidence": 0.981
+                  },
+                  {
+                    "boundingBox": [
+                      685,
+                      743,
+                      699,
+                      743,
+                      697,
+                      761,
+                      684,
+                      761
+                    ],
+                    "text": "99",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  104,
+                  764,
+                  767,
+                  764,
+                  767,
+                  781,
+                  104,
+                  780
+                ],
+                "text": "(Åpenhetsloven). Erklæringene kan deles med mottakere av fangst. I tillegg deles erklæringene med salgslagene",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      104,
+                      764,
+                      204,
+                      764,
+                      204,
+                      781,
+                      104,
+                      780
+                    ],
+                    "text": "(Åpenhetsloven).",
+                    "confidence": 0.881
+                  },
+                  {
+                    "boundingBox": [
+                      207,
+                      764,
+                      287,
+                      764,
+                      287,
+                      781,
+                      207,
+                      781
+                    ],
+                    "text": "Erklæringene",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      290,
+                      764,
+                      313,
+                      764,
+                      312,
+                      781,
+                      290,
+                      781
+                    ],
+                    "text": "kan",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      316,
+                      764,
+                      347,
+                      764,
+                      347,
+                      781,
+                      316,
+                      781
+                    ],
+                    "text": "deles",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      350,
+                      764,
+                      375,
+                      764,
+                      374,
+                      781,
+                      350,
+                      781
+                    ],
+                    "text": "med",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      378,
+                      764,
+                      441,
+                      764,
+                      440,
+                      781,
+                      377,
+                      781
+                    ],
+                    "text": "mottakere",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      444,
+                      764,
+                      457,
+                      764,
+                      456,
+                      781,
+                      443,
+                      781
+                    ],
+                    "text": "av",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      460,
+                      764,
+                      500,
+                      765,
+                      500,
+                      781,
+                      459,
+                      781
+                    ],
+                    "text": "fangst.",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      503,
+                      765,
+                      507,
+                      765,
+                      506,
+                      781,
+                      503,
+                      781
+                    ],
+                    "text": "I",
+                    "confidence": 0.888
+                  },
+                  {
+                    "boundingBox": [
+                      510,
+                      765,
+                      546,
+                      765,
+                      545,
+                      781,
+                      509,
+                      781
+                    ],
+                    "text": "tillegg",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      549,
+                      765,
+                      580,
+                      765,
+                      579,
+                      781,
+                      549,
+                      781
+                    ],
+                    "text": "deles",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      583,
+                      765,
+                      663,
+                      765,
+                      662,
+                      781,
+                      583,
+                      781
+                    ],
+                    "text": "erklæringene",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      666,
+                      765,
+                      692,
+                      765,
+                      691,
+                      781,
+                      666,
+                      781
+                    ],
+                    "text": "med",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      695,
+                      765,
+                      766,
+                      766,
+                      765,
+                      781,
+                      694,
+                      781
+                    ],
+                    "text": "salgslagene",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  104,
+                  782,
+                  467,
+                  783,
+                  467,
+                  800,
+                  104,
+                  800
+                ],
+                "text": "for bruk på deres påloggbare nettportaler, f. eks ved auksjon.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      105,
+                      783,
+                      120,
+                      783,
+                      120,
+                      801,
+                      104,
+                      801
+                    ],
+                    "text": "for",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      124,
+                      783,
+                      151,
+                      783,
+                      151,
+                      801,
+                      123,
+                      801
+                    ],
+                    "text": "bruk",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      155,
+                      783,
+                      168,
+                      783,
+                      168,
+                      801,
+                      154,
+                      801
+                    ],
+                    "text": "på",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      171,
+                      783,
+                      205,
+                      783,
+                      204,
+                      801,
+                      171,
+                      801
+                    ],
+                    "text": "deres",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      208,
+                      783,
+                      274,
+                      784,
+                      273,
+                      800,
+                      208,
+                      800
+                    ],
+                    "text": "påloggbare",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      277,
+                      784,
+                      353,
+                      784,
+                      352,
+                      800,
+                      277,
+                      800
+                    ],
+                    "text": "nettportaler,",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      356,
+                      784,
+                      363,
+                      784,
+                      362,
+                      800,
+                      356,
+                      800
+                    ],
+                    "text": "f.",
+                    "confidence": 0.982
+                  },
+                  {
+                    "boundingBox": [
+                      366,
+                      784,
+                      385,
+                      784,
+                      385,
+                      800,
+                      366,
+                      800
+                    ],
+                    "text": "eks",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      388,
+                      784,
+                      409,
+                      784,
+                      409,
+                      800,
+                      388,
+                      800
+                    ],
+                    "text": "ved",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      413,
+                      784,
+                      466,
+                      784,
+                      466,
+                      800,
+                      413,
+                      800
+                    ],
+                    "text": "auksjon.",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  102,
+                  809,
+                  278,
+                  809,
+                  278,
+                  826,
+                  102,
+                  826
+                ],
+                "text": "Annen relevant informasjon",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      104,
+                      810,
+                      143,
+                      809,
+                      142,
+                      826,
+                      104,
+                      826
+                    ],
+                    "text": "Annen",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      146,
+                      809,
+                      198,
+                      809,
+                      197,
+                      826,
+                      146,
+                      826
+                    ],
+                    "text": "relevant",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      201,
+                      809,
+                      276,
+                      810,
+                      276,
+                      827,
+                      201,
+                      826
+                    ],
+                    "text": "informasjon",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  104,
+                  831,
+                  256,
+                  831,
+                  256,
+                  850,
+                  104,
+                  850
+                ],
+                "text": "Litt relevant informasjon",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      105,
+                      831,
+                      123,
+                      831,
+                      122,
+                      850,
+                      104,
+                      851
+                    ],
+                    "text": "Litt",
+                    "confidence": 0.979
+                  },
+                  {
+                    "boundingBox": [
+                      127,
+                      831,
+                      176,
+                      832,
+                      175,
+                      849,
+                      126,
+                      850
+                    ],
+                    "text": "relevant",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      179,
+                      832,
+                      254,
+                      833,
+                      254,
+                      849,
+                      179,
+                      849
+                    ],
+                    "text": "informasjon",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  466,
+                  1821,
+                  495,
+                  1822,
+                  494,
+                  1839,
+                  466,
+                  1838
+                ],
+                "text": "2/2",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      466,
+                      1821,
+                      494,
+                      1822,
+                      493,
+                      1839,
+                      466,
+                      1838
+                    ],
+                    "text": "2/2",
+                    "confidence": 0.988
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  247,
+                  1981,
+                  352,
+                  1981,
+                  352,
+                  2012,
+                  246,
+                  2012
+                ],
+                "text": "Decline",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      248,
+                      1983,
+                      349,
+                      1982,
+                      350,
+                      2013,
+                      247,
+                      2011
+                    ],
+                    "text": "Decline",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  495,
+                  1982,
+                  714,
+                  1982,
+                  714,
+                  2017,
+                  495,
+                  2018
+                ],
+                "text": "Approve & Sign",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      497,
+                      1983,
+                      611,
+                      1982,
+                      611,
+                      2018,
+                      495,
+                      2019
+                    ],
+                    "text": "Approve",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      618,
+                      1982,
+                      640,
+                      1982,
+                      639,
+                      2018,
+                      618,
+                      2018
+                    ],
+                    "text": "&",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      647,
+                      1982,
+                      713,
+                      1982,
+                      713,
+                      2018,
+                      646,
+                      2018
+                    ],
+                    "text": "Sign",
+                    "confidence": 0.989
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

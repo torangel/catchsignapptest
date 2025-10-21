@@ -1,0 +1,474 @@
+{
+  "filename": "Screenshot_20251021-145715.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\norwegian\\Screenshot_20251021-145715.png",
+  "relative_path": "2.0.0.b297\\norwegian\\Screenshot_20251021-145715.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:42:59.866362",
+  "ocr_result": {
+    "text": "14:57 ₸\n.Ill ~ 85\nCatchSign\nBrukernavn\nDDMMÅÅEEEFFF\n?\nPassord\nPassord\nFortsett\nGlemt passord?\nv2.0.0",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:42:57Z",
+      "lastUpdatedDateTime": "2025-10-21T13:42:58Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": -0.3255,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  85,
+                  58,
+                  218,
+                  57,
+                  218,
+                  95,
+                  85,
+                  96
+                ],
+                "text": "14:57 ₸",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      86,
+                      61,
+                      168,
+                      58,
+                      168,
+                      94,
+                      85,
+                      94
+                    ],
+                    "text": "14:57",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      187,
+                      58,
+                      208,
+                      58,
+                      207,
+                      96,
+                      187,
+                      95
+                    ],
+                    "text": "₸",
+                    "confidence": 0.112
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  705,
+                  63,
+                  858,
+                  59,
+                  859,
+                  93,
+                  706,
+                  99
+                ],
+                "text": ".Ill ~ 85",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      67,
+                      756,
+                      61,
+                      758,
+                      96,
+                      707,
+                      100
+                    ],
+                    "text": ".Ill",
+                    "confidence": 0.257
+                  },
+                  {
+                    "boundingBox": [
+                      765,
+                      61,
+                      784,
+                      60,
+                      786,
+                      95,
+                      767,
+                      96
+                    ],
+                    "text": "~",
+                    "confidence": 0.015
+                  },
+                  {
+                    "boundingBox": [
+                      822,
+                      60,
+                      856,
+                      62,
+                      857,
+                      92,
+                      823,
+                      93
+                    ],
+                    "text": "85",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  779,
+                  287,
+                  779,
+                  288,
+                  835,
+                  34,
+                  837
+                ],
+                "text": "CatchSign",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      780,
+                      282,
+                      780,
+                      281,
+                      836,
+                      34,
+                      837
+                    ],
+                    "text": "CatchSign",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  922,
+                  225,
+                  924,
+                  225,
+                  959,
+                  32,
+                  957
+                ],
+                "text": "Brukernavn",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      923,
+                      219,
+                      925,
+                      220,
+                      959,
+                      33,
+                      958
+                    ],
+                    "text": "Brukernavn",
+                    "confidence": 0.992
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  69,
+                  1021,
+                  361,
+                  1020,
+                  361,
+                  1060,
+                  69,
+                  1063
+                ],
+                "text": "DDMMÅÅEEEFFF",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      71,
+                      1022,
+                      359,
+                      1021,
+                      360,
+                      1059,
+                      69,
+                      1064
+                    ],
+                    "text": "DDMMÅÅEEEFFF",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  847,
+                  1026,
+                  890,
+                  1026,
+                  890,
+                  1063,
+                  848,
+                  1064
+                ],
+                "text": "?",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      856,
+                      1026,
+                      878,
+                      1026,
+                      879,
+                      1064,
+                      856,
+                      1064
+                    ],
+                    "text": "?",
+                    "confidence": 0.885
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  1151,
+                  172,
+                  1153,
+                  171,
+                  1188,
+                  33,
+                  1186
+                ],
+                "text": "Passord",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      1152,
+                      169,
+                      1153,
+                      169,
+                      1187,
+                      34,
+                      1187
+                    ],
+                    "text": "Passord",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  71,
+                  1258,
+                  213,
+                  1256,
+                  214,
+                  1290,
+                  71,
+                  1292
+                ],
+                "text": "Passord",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      71,
+                      1258,
+                      210,
+                      1257,
+                      210,
+                      1290,
+                      71,
+                      1291
+                    ],
+                    "text": "Passord",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  412,
+                  1736,
+                  546,
+                  1737,
+                  546,
+                  1770,
+                  412,
+                  1770
+                ],
+                "text": "Fortsett",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      414,
+                      1737,
+                      545,
+                      1738,
+                      545,
+                      1771,
+                      412,
+                      1770
+                    ],
+                    "text": "Fortsett",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  349,
+                  1880,
+                  609,
+                  1881,
+                  609,
+                  1918,
+                  349,
+                  1917
+                ],
+                "text": "Glemt passord?",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      349,
+                      1881,
+                      445,
+                      1882,
+                      445,
+                      1919,
+                      350,
+                      1917
+                    ],
+                    "text": "Glemt",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      452,
+                      1882,
+                      609,
+                      1882,
+                      607,
+                      1918,
+                      452,
+                      1919
+                    ],
+                    "text": "passord?",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  436,
+                  2014,
+                  524,
+                  2013,
+                  525,
+                  2044,
+                  436,
+                  2044
+                ],
+                "text": "v2.0.0",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      436,
+                      2016,
+                      520,
+                      2014,
+                      520,
+                      2045,
+                      437,
+                      2044
+                    ],
+                    "text": "v2.0.0",
+                    "confidence": 0.994
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

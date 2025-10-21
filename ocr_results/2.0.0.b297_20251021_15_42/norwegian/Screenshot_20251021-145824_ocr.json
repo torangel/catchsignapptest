@@ -1,0 +1,824 @@
+{
+  "filename": "Screenshot_20251021-145824.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b297\\norwegian\\Screenshot_20251021-145824.png",
+  "relative_path": "2.0.0.b297\\norwegian\\Screenshot_20251021-145824.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b297",
+  "processing_timestamp": "2025-10-21T15:43:11.983603",
+  "ocr_result": {
+    "text": "14:58 ₸\n.1 . 85\n< Tilbake\nSMS-kodebekreftelse\nEn SMS er sendt til 479 82 18810. Vennligst tast inn koden\nFikk du ikke en kode?\nLogg ut\nSend SMS-kodebekreftelse på nytt\nSend meg en ny kode.\nSend ny SMS\nAvbryt",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T13:43:09Z",
+      "lastUpdatedDateTime": "2025-10-21T13:43:10Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  86,
+                  59,
+                  221,
+                  58,
+                  221,
+                  94,
+                  86,
+                  95
+                ],
+                "text": "14:58 ₸",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      87,
+                      62,
+                      166,
+                      60,
+                      166,
+                      94,
+                      87,
+                      93
+                    ],
+                    "text": "14:58",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      189,
+                      59,
+                      209,
+                      59,
+                      209,
+                      95,
+                      189,
+                      95
+                    ],
+                    "text": "₸",
+                    "confidence": 0.574
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  704,
+                  63,
+                  851,
+                  59,
+                  852,
+                  90,
+                  705,
+                  97
+                ],
+                "text": ".1 . 85",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.849
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      66,
+                      742,
+                      63,
+                      742,
+                      96,
+                      705,
+                      98
+                    ],
+                    "text": ".1",
+                    "confidence": 0.063
+                  },
+                  {
+                    "boundingBox": [
+                      771,
+                      61,
+                      791,
+                      60,
+                      791,
+                      93,
+                      771,
+                      94
+                    ],
+                    "text": ".",
+                    "confidence": 0.084
+                  },
+                  {
+                    "boundingBox": [
+                      824,
+                      61,
+                      852,
+                      62,
+                      852,
+                      89,
+                      824,
+                      91
+                    ],
+                    "text": "85",
+                    "confidence": 0.961
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  45,
+                  181,
+                  198,
+                  181,
+                  198,
+                  212,
+                  45,
+                  211
+                ],
+                "text": "< Tilbake",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      45,
+                      184,
+                      62,
+                      183,
+                      62,
+                      211,
+                      45,
+                      211
+                    ],
+                    "text": "<",
+                    "confidence": 0.737
+                  },
+                  {
+                    "boundingBox": [
+                      94,
+                      181,
+                      196,
+                      183,
+                      197,
+                      213,
+                      94,
+                      211
+                    ],
+                    "text": "Tilbake",
+                    "confidence": 1
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  31,
+                  279,
+                  563,
+                  279,
+                  563,
+                  331,
+                  31,
+                  332
+                ],
+                "text": "SMS-kodebekreftelse",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      32,
+                      279,
+                      559,
+                      279,
+                      558,
+                      331,
+                      31,
+                      332
+                    ],
+                    "text": "SMS-kodebekreftelse",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  419,
+                  873,
+                  419,
+                  873,
+                  456,
+                  35,
+                  454
+                ],
+                "text": "En SMS er sendt til 479 82 18810. Vennligst tast inn koden",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      421,
+                      68,
+                      421,
+                      67,
+                      453,
+                      35,
+                      453
+                    ],
+                    "text": "En",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      75,
+                      421,
+                      141,
+                      420,
+                      140,
+                      453,
+                      73,
+                      453
+                    ],
+                    "text": "SMS",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      148,
+                      420,
+                      177,
+                      420,
+                      176,
+                      454,
+                      147,
+                      453
+                    ],
+                    "text": "er",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      184,
+                      420,
+                      264,
+                      420,
+                      263,
+                      454,
+                      183,
+                      454
+                    ],
+                    "text": "sendt",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      271,
+                      420,
+                      301,
+                      420,
+                      300,
+                      454,
+                      270,
+                      454
+                    ],
+                    "text": "til",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      308,
+                      420,
+                      365,
+                      420,
+                      364,
+                      454,
+                      307,
+                      454
+                    ],
+                    "text": "479",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      372,
+                      420,
+                      412,
+                      420,
+                      412,
+                      455,
+                      371,
+                      455
+                    ],
+                    "text": "82",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      419,
+                      420,
+                      520,
+                      420,
+                      520,
+                      455,
+                      419,
+                      455
+                    ],
+                    "text": "18810.",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      527,
+                      420,
+                      659,
+                      420,
+                      660,
+                      456,
+                      527,
+                      455
+                    ],
+                    "text": "Vennligst",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      666,
+                      420,
+                      723,
+                      420,
+                      724,
+                      456,
+                      666,
+                      456
+                    ],
+                    "text": "tast",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      730,
+                      420,
+                      775,
+                      420,
+                      776,
+                      456,
+                      730,
+                      456
+                    ],
+                    "text": "inn",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      782,
+                      420,
+                      871,
+                      420,
+                      872,
+                      457,
+                      783,
+                      456
+                    ],
+                    "text": "koden",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  296,
+                  710,
+                  663,
+                  709,
+                  663,
+                  746,
+                  296,
+                  746
+                ],
+                "text": "Fikk du ikke en kode?",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      297,
+                      711,
+                      363,
+                      712,
+                      363,
+                      746,
+                      297,
+                      746
+                    ],
+                    "text": "Fikk",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      375,
+                      712,
+                      416,
+                      712,
+                      416,
+                      747,
+                      375,
+                      746
+                    ],
+                    "text": "du",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      426,
+                      712,
+                      497,
+                      712,
+                      497,
+                      747,
+                      426,
+                      747
+                    ],
+                    "text": "ikke",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      507,
+                      711,
+                      546,
+                      711,
+                      546,
+                      747,
+                      507,
+                      747
+                    ],
+                    "text": "en",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      558,
+                      711,
+                      663,
+                      710,
+                      663,
+                      747,
+                      558,
+                      747
+                    ],
+                    "text": "kode?",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  416,
+                  848,
+                  543,
+                  847,
+                  544,
+                  884,
+                  416,
+                  885
+                ],
+                "text": "Logg ut",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      417,
+                      849,
+                      495,
+                      849,
+                      495,
+                      885,
+                      417,
+                      885
+                    ],
+                    "text": "Logg",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      502,
+                      848,
+                      544,
+                      848,
+                      544,
+                      884,
+                      502,
+                      885
+                    ],
+                    "text": "ut",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  154,
+                  953,
+                  731,
+                  953,
+                  731,
+                  994,
+                  154,
+                  991
+                ],
+                "text": "Send SMS-kodebekreftelse på nytt",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      155,
+                      954,
+                      235,
+                      954,
+                      235,
+                      989,
+                      154,
+                      988
+                    ],
+                    "text": "Send",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      243,
+                      954,
+                      604,
+                      953,
+                      604,
+                      993,
+                      243,
+                      989
+                    ],
+                    "text": "SMS-kodebekreftelse",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      612,
+                      953,
+                      654,
+                      954,
+                      653,
+                      994,
+                      611,
+                      993
+                    ],
+                    "text": "på",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      661,
+                      954,
+                      731,
+                      954,
+                      731,
+                      995,
+                      661,
+                      994
+                    ],
+                    "text": "nytt",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  154,
+                  1011,
+                  464,
+                  1012,
+                  464,
+                  1049,
+                  154,
+                  1048
+                ],
+                "text": "Send meg en ny kode.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      155,
+                      1012,
+                      222,
+                      1013,
+                      222,
+                      1049,
+                      154,
+                      1049
+                    ],
+                    "text": "Send",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      229,
+                      1013,
+                      293,
+                      1014,
+                      293,
+                      1049,
+                      229,
+                      1049
+                    ],
+                    "text": "meg",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      300,
+                      1014,
+                      333,
+                      1014,
+                      333,
+                      1049,
+                      300,
+                      1049
+                    ],
+                    "text": "en",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      340,
+                      1014,
+                      375,
+                      1014,
+                      376,
+                      1049,
+                      340,
+                      1049
+                    ],
+                    "text": "ny",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      382,
+                      1014,
+                      462,
+                      1013,
+                      464,
+                      1050,
+                      383,
+                      1049
+                    ],
+                    "text": "kode.",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  384,
+                  1143,
+                  575,
+                  1143,
+                  575,
+                  1179,
+                  384,
+                  1179
+                ],
+                "text": "Send ny SMS",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      385,
+                      1144,
+                      454,
+                      1145,
+                      453,
+                      1179,
+                      384,
+                      1178
+                    ],
+                    "text": "Send",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      461,
+                      1145,
+                      495,
+                      1144,
+                      494,
+                      1180,
+                      460,
+                      1180
+                    ],
+                    "text": "ny",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      502,
+                      1144,
+                      570,
+                      1144,
+                      569,
+                      1180,
+                      501,
+                      1180
+                    ],
+                    "text": "SMS",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  434,
+                  1252,
+                  530,
+                  1253,
+                  529,
+                  1285,
+                  433,
+                  1285
+                ],
+                "text": "Avbryt",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      433,
+                      1252,
+                      530,
+                      1252,
+                      530,
+                      1285,
+                      433,
+                      1284
+                    ],
+                    "text": "Avbryt",
+                    "confidence": 0.994
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
