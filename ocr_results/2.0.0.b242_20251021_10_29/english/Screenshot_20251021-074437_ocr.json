@@ -1,0 +1,222 @@
+{
+  "filename": "Screenshot_20251021-074437.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\english\\Screenshot_20251021-074437.png",
+  "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074437.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:31:48.149525",
+  "ocr_result": {
+    "text": "07:44 & C M\n.Ill ~ 100\nVelkommen tilbake",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:31:46Z",
+      "lastUpdatedDateTime": "2025-10-21T08:31:46Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  83,
+                  59,
+                  340,
+                  60,
+                  340,
+                  95,
+                  82,
+                  94
+                ],
+                "text": "07:44 & C M",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      84,
+                      60,
+                      173,
+                      60,
+                      172,
+                      95,
+                      83,
+                      92
+                    ],
+                    "text": "07:44",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      191,
+                      60,
+                      210,
+                      60,
+                      210,
+                      95,
+                      190,
+                      95
+                    ],
+                    "text": "&",
+                    "confidence": 0.152
+                  },
+                  {
+                    "boundingBox": [
+                      239,
+                      61,
+                      259,
+                      61,
+                      258,
+                      95,
+                      239,
+                      95
+                    ],
+                    "text": "C",
+                    "confidence": 0.006
+                  },
+                  {
+                    "boundingBox": [
+                      288,
+                      61,
+                      307,
+                      61,
+                      307,
+                      94,
+                      287,
+                      94
+                    ],
+                    "text": "M",
+                    "confidence": 0.969
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  704,
+                  63,
+                  874,
+                  59,
+                  876,
+                  92,
+                  706,
+                  99
+                ],
+                "text": ".Ill ~ 100",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      66,
+                      755,
+                      62,
+                      756,
+                      95,
+                      706,
+                      100
+                    ],
+                    "text": ".Ill",
+                    "confidence": 0.044
+                  },
+                  {
+                    "boundingBox": [
+                      766,
+                      61,
+                      785,
+                      60,
+                      786,
+                      93,
+                      767,
+                      95
+                    ],
+                    "text": "~",
+                    "confidence": 0.038
+                  },
+                  {
+                    "boundingBox": [
+                      811,
+                      59,
+                      860,
+                      61,
+                      860,
+                      91,
+                      812,
+                      92
+                    ],
+                    "text": "100",
+                    "confidence": 0.932
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  292,
+                  421,
+                  664,
+                  421,
+                  665,
+                  459,
+                  292,
+                  459
+                ],
+                "text": "Velkommen tilbake",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      294,
+                      421,
+                      517,
+                      421,
+                      516,
+                      459,
+                      293,
+                      460
+                    ],
+                    "text": "Velkommen",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      528,
+                      421,
+                      660,
+                      421,
+                      660,
+                      460,
+                      527,
+                      459
+                    ],
+                    "text": "tilbake",
+                    "confidence": 0.997
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

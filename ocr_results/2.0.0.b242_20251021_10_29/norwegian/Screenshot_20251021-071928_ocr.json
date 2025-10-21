@@ -1,0 +1,523 @@
+{
+  "filename": "Screenshot_20251021-071928.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\norwegian\\Screenshot_20251021-071928.png",
+  "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-071928.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:29:53.563698",
+  "ocr_result": {
+    "text": "07:19\n.\n.Ill ~ 100\nEnable Biometrics\nUse biometrics to log in for faster, easier access to your\naccount\nEnable Biometrics\nNot Now",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:29:51Z",
+      "lastUpdatedDateTime": "2025-10-21T08:29:52Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  87,
+                  59,
+                  175,
+                  59,
+                  175,
+                  93,
+                  85,
+                  93
+                ],
+                "text": "07:19",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      85,
+                      59,
+                      165,
+                      59,
+                      165,
+                      93,
+                      85,
+                      93
+                    ],
+                    "text": "07:19",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  382,
+                  61,
+                  411,
+                  60,
+                  411,
+                  90,
+                  382,
+                  91
+                ],
+                "text": ".",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.815
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      389,
+                      61,
+                      408,
+                      60,
+                      409,
+                      89,
+                      390,
+                      90
+                    ],
+                    "text": ".",
+                    "confidence": 0.823
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  704,
+                  62,
+                  872,
+                  59,
+                  874,
+                  92,
+                  705,
+                  99
+                ],
+                "text": ".Ill ~ 100",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      67,
+                      755,
+                      61,
+                      755,
+                      95,
+                      706,
+                      100
+                    ],
+                    "text": ".Ill",
+                    "confidence": 0.175
+                  },
+                  {
+                    "boundingBox": [
+                      768,
+                      61,
+                      786,
+                      59,
+                      787,
+                      93,
+                      769,
+                      94
+                    ],
+                    "text": "~",
+                    "confidence": 0.075
+                  },
+                  {
+                    "boundingBox": [
+                      813,
+                      59,
+                      861,
+                      61,
+                      862,
+                      91,
+                      813,
+                      92
+                    ],
+                    "text": "100",
+                    "confidence": 0.96
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  251,
+                  901,
+                  709,
+                  901,
+                  709,
+                  951,
+                  251,
+                  951
+                ],
+                "text": "Enable Biometrics",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      251,
+                      901,
+                      417,
+                      903,
+                      417,
+                      950,
+                      252,
+                      952
+                    ],
+                    "text": "Enable",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      431,
+                      903,
+                      705,
+                      902,
+                      703,
+                      952,
+                      430,
+                      950
+                    ],
+                    "text": "Biometrics",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  81,
+                  1000,
+                  882,
+                  1001,
+                  882,
+                  1036,
+                  81,
+                  1034
+                ],
+                "text": "Use biometrics to log in for faster, easier access to your",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      83,
+                      1001,
+                      133,
+                      1001,
+                      132,
+                      1034,
+                      82,
+                      1034
+                    ],
+                    "text": "Use",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      140,
+                      1001,
+                      294,
+                      1000,
+                      293,
+                      1035,
+                      139,
+                      1034
+                    ],
+                    "text": "biometrics",
+                    "confidence": 0.992
+                  },
+                  {
+                    "boundingBox": [
+                      301,
+                      1000,
+                      330,
+                      1000,
+                      328,
+                      1035,
+                      299,
+                      1035
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      336,
+                      1000,
+                      383,
+                      1000,
+                      382,
+                      1036,
+                      335,
+                      1035
+                    ],
+                    "text": "log",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      390,
+                      1000,
+                      418,
+                      1000,
+                      417,
+                      1036,
+                      389,
+                      1036
+                    ],
+                    "text": "in",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      425,
+                      1000,
+                      470,
+                      1000,
+                      469,
+                      1036,
+                      424,
+                      1036
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      477,
+                      1000,
+                      566,
+                      1001,
+                      564,
+                      1036,
+                      475,
+                      1036
+                    ],
+                    "text": "faster,",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      573,
+                      1001,
+                      662,
+                      1002,
+                      660,
+                      1036,
+                      571,
+                      1036
+                    ],
+                    "text": "easier",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      668,
+                      1002,
+                      769,
+                      1003,
+                      767,
+                      1036,
+                      667,
+                      1036
+                    ],
+                    "text": "access",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      775,
+                      1003,
+                      804,
+                      1003,
+                      803,
+                      1036,
+                      774,
+                      1036
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      811,
+                      1003,
+                      883,
+                      1005,
+                      881,
+                      1036,
+                      809,
+                      1036
+                    ],
+                    "text": "your",
+                    "confidence": 0.99
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  422,
+                  1050,
+                  540,
+                  1048,
+                  541,
+                  1075,
+                  422,
+                  1078
+                ],
+                "text": "account",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      424,
+                      1052,
+                      540,
+                      1048,
+                      540,
+                      1076,
+                      423,
+                      1077
+                    ],
+                    "text": "account",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  331,
+                  1835,
+                  627,
+                  1835,
+                  627,
+                  1870,
+                  331,
+                  1870
+                ],
+                "text": "Enable Biometrics",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      332,
+                      1836,
+                      439,
+                      1837,
+                      439,
+                      1870,
+                      331,
+                      1871
+                    ],
+                    "text": "Enable",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      446,
+                      1837,
+                      626,
+                      1836,
+                      627,
+                      1871,
+                      446,
+                      1870
+                    ],
+                    "text": "Biometrics",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  407,
+                  1953,
+                  553,
+                  1955,
+                  552,
+                  1987,
+                  407,
+                  1986
+                ],
+                "text": "Not Now",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      408,
+                      1954,
+                      468,
+                      1954,
+                      468,
+                      1987,
+                      408,
+                      1986
+                    ],
+                    "text": "Not",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      475,
+                      1955,
+                      540,
+                      1956,
+                      539,
+                      1987,
+                      475,
+                      1987
+                    ],
+                    "text": "Now",
+                    "confidence": 0.998
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

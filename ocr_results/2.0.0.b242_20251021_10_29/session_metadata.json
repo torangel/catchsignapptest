@@ -1,0 +1,323 @@
+{
+  "session_id": "2.0.0.b242_20251021_10_29",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:29:32.040809",
+  "base_path": "C:\\kode\\cc\\CatchSignAppV2Analysis",
+  "version_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242",
+  "folders": {
+    "norwegian": {
+      "Screenshot_20251021-071709.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-071709_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-071709.png",
+        "text": "07:17 & T N .\n.Ill ~ 100\nCatchSign\nBrukernavn\nPDMMÅÅEEEFFF\n?\nPassord\nPassord\nFortsett\nGlemt passord?\nv2.0.0",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-071718.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-071718_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-071718.png",
+        "text": "07:17 & 6 TN\n.\n.Ill ~ 100\nTilbake\nNullstill ditt\npassord\nFor å nullstille ditt passord, vennligst skriv inn ditt brukernavn\ni feltet under. Trykk gjerne på linken nederst på denne siden\nom du er usikker på ditt brukernavn.\nBrukernavn\nDDMMÅÅEEEFFF\nNullstill passord",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-071754.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-071754_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-071754.png",
+        "text": "07:17 $ 6TN\n.\n.Ill ~ 100\nTilbake\nBrukervilkår\nVed å bruke CatchSign aksepterer du følgende:\nVi håndterer personopplysninger på en trygg måte. Du må\noppgi nødvendige personalia for å kunne signere dokumenter.\nVi oppbevarer fødselsdato (gjelder ikke Catch Certificate),\nnavn, adresse, mobilnummer og epostadresse på deg i vår\ninterne database. Dette er personopplysninger du har oppgitt\ntil oss, og som er nødvendige for at vi skal kunne gjennomføre\nvåre forpliktelser ovenfor deg som signatar. Vi deler ingen av\ndine opplysninger med tredjepart.\nVi ser også når du bruker CatchSign, hvilket operativsystem\ndin håndholdte enhet benytter, IP-adresse og hvilket geografisk\nområde du oppholder deg ved signeringstidspunkt.\nAlle dokumenter som signeres blir lagret i vår interne\ndatabase. De er kun tilgjengelig for kjernesystemet du\nopprettet dokumentene gjennom og via din tilgang på din\nenhet.\nEt dokument som er signert vil inneholde ditt navn, dato/\nklokkeslett for når du signerte og din geografiske posisjon.\nFortsett",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-071817.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-071817_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-071817.png",
+        "text": "07:18\n.\n.Ill ~ 100\n< Tilbake\nSMS code verification\nEn SMS har blitt sendt til 479 82 18810. Vennligst tast inn\nkoden\nDidn't receive a code?\nLogg ut",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-071848.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-071848_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-071848.png",
+        "text": "07:18\n& OT N\n.\n.111 - 100\n< Tilbake\nTilgang pinkode\nVennligst tast inn en 4-sifret kode for bruk til tilgang og\nsignering.\nO\nVis PIN\nLogg ut\nNeste",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-071907.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-071907_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-071907.png",
+        "text": "07:19 $ 6TN\n.\n.111 - 100\n< Tilbake\nTilgang pinkode\nVennligst tast inn en 4-sifret kode for bruk til tilgang og\nsignering.\nO\nVis PIN\nLogg ut\nNeste",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-071928.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-071928_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-071928.png",
+        "text": "07:19\n.\n.Ill ~ 100\nEnable Biometrics\nUse biometrics to log in for faster, easier access to your\naccount\nEnable Biometrics\nNot Now",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-071945.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-071945_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-071945.png",
+        "text": "07:19\n.\n.1 = 100\nGod morgen, Tor Christian1!\nTirsdag 21 Oktober 2025\nNO-751-251015-297491\nReady to Sign\n297491\nFangstsertifikat\n2025-10-15\n20\nReady to Sign\n0\nTil signering\n3\nAvvist\n111\nSignert\nHome\nDocuments\nProfile",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-072018.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-072018_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072018.png",
+        "text": "07:20\n.\nDokumenter\nVelg\n1\nQ Søk\nY\nC\nNO-751-251015-297491\nReady to Sign\n297491\nFangstsertifikat\n₲ 0\n2025-10-15\nNO-852-251007-017775\nReady to Sign\n017775\nConsignment\n2025-10-07\nNO-451-251003-297238\nReady to Sign\n297238\nFangstsertifikat\n₲ 0\n2025-10-03\nNO-451-251003-297238\nReady to Sign\n297238\n0\nFangstsertifikat\n2025-10-03\nNO-453-250930-157188\nReady to Sign\n157188\n0\nLagererklæring\n2025-10-01\nNO-453-250930-157188\nReady to Sign\n157188\n0\nLagererklæring\nHome\nDocuments\nProfile",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-072040.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-072040_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072040.png",
+        "text": "07:20\n.\nDokumenter\nVelg\n1\nQ Søk\nY\nC\nNO-451-251003-297044\nAvvist\n297044\nFangstsertifikat\n2025-10-03\nemptydok92\nAvvist\nydok92\n0\nTest 92 sign\n2024-11-11\nemptydok93\nAvvist\nydok93\nTest 93 sign\n₲0\n2024-11-08\nHome\nDocuments\nProfile",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-072052.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-072052_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072052.png",
+        "text": "07:20 $ 6TN\n.\n.Ill ~ 100\nX\nFilter\nReset\nOrganization\nCatch Certificate\nNorges Sildesalgslag\nVest-Norges Fiskesalslag\nFiskehav\nDocument status\nVelg alle\nReady to Sign\nTil signering\nAvvist\nSignert\nDate\nDato fra\nDato til\nSelect date\nSelect date\nUse filters",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-072131.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-072131_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072131.png",
+        "text": "07:21 & TS\n.\n.Ill ~ 100\nProfile\nMin informasjon\nO\nEndre informasjon om deg selv.\nSikkerhet\nEndre sikkerhetsinnstillinger for appen\nSpråk\nA\nVelg ønsket språk\nLog out\n>\nLog out of the app\nDelete user\nDelete account and access to the app\nv2.0.0\nv2:username:110978ANGTORculture:nb-NO\n=\nHome\nDocuments\nProfile",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-072142.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-072142_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072142.png",
+        "text": "07:21 $ 6 TN\n.\n.Ill ~ 100\n< Tilbake\nSpråk\nO\nNorsk\nEngelsk",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-072154.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-072154_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072154.png",
+        "text": "07:21 & TS\n.\n.111 - 1001\n< Tilbake\nMin informasjon\nAccount\nUsername\n110978ANGTOR\nEmail\ntor@sildelaget.no\nPhone Number\n479 82 18810\nPersonal information\nFirst Name\nTor Christian1\nLast Name\nAngeltveit\nBirth date\n11/09/1978\nSave changes",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-072221.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-072221_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072221.png",
+        "text": "07:22\n.\n.Ill ~ 100\nTilbake\nNO-751-251015-297491\nO\nNORWAY\nCatch Certificate\nNORWAY\nCatch certification scheme for fishery products exported from Norway to the United Kingdom under Article 12 (4A) of Council\nRegulation (EC) No 1005/2008, as it forms part of United Kingdom domestic law, as retained EU law by virtue of the European\nUnion (Withdrawal) Act 2018.\n1. Document No\nNO-751-251015-297491\nIssued and validated electronically by\nNorges Råfisklag\nPostboks 6162,NO-9291 Tromsø,Norway\nAddress\nTelephone number\nTelefax number\n+4777660100\n+4777686989\n10. Transport details\nCountry of exportation\nNORWAY\nPort / airport / other place of departure\nNORGE -> PADBORG\nVessel name and flag\nFlight number/airway bill number\nTruck nationality and reg.number\nN/A\nRailway bill number\nOther transport documents\n3. Description of exported product(s)\nSpecies\nProduct code\nProduct CN Code*\nProduct weight **\nHAD\n03025200\n030252\n6\nTotal product weight ***\n6\nExporter references ****\nInvoice 10009535\n8. Name and address of exporter\nSignature\nDate\nCatchcertificate SA\nSlottsgaten 3, NO-5003 Bergen, Norway\n2025-10-15\n9. Flag State Authority Validation\nThis certificate is issued and validated electronically in accordance with the catch certification scheme for fishery products\nexported from Norway to the United Kingdom under Article 12 (4A) of Council Regulation (EC) No 1005/2008, as it\nforms part of United Kingdom domestic law, as retained EU law by virtue of the European Union (Withdrawal) Act\n2018.\nRef: www.catchcertificate.no where the original electronic version may be accessed. Document security code: 9105\n*) If provided by exporter ** ) Net weight kg (estimated if direct landing) 0 *) Weight of any part of the consignment\nstemming from catches made by non-Norwegian vessels is not included, cf. Council Regulation (EC) No 1005/2008,\nArticle 14, as it forms part of United Kingdom domestic law, as retained EU law by virtue of the European Union\n(Withdrawal) Act 2018. **** ) If provided by exporter(e.g. invoice number or other info to importer)\nPage: 1\nCatch certification scheme for fishery products exported from Norway to the United Kingdom under Article 12 (4A) of Council Regulation (EC) No 1005/2008, as it forms\npart of United Kingdom domestic law, as retained EU law by virtue of the European Union (Withdrawal) Act 2018.\n1. Document No: NO-751-251015-297491\nFishing vessel and catch details\nFishing vessel name\nRegistration number\nCatch area / Fishing gear\nLanding date\nSales note number\nSELMA\nTF0041NK\nFAO-27.1.B,NO-0324/ Undefined lines\n2025-10-10\nNO-70-11883124\nRONJA\nF 0066NK\nFAO-27.1.B.NO-0324 / Undefined lines\n2025-10-11\nNO-70-11883198\nAvvis\nGodkjenn & Signèr",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-072232.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-072232_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072232.png",
+        "text": "07:22\n.\n0 .ill ~ 100\nTilbake\nNO-751-251015-297491\nO\nNordre N\nNesvegen\nNesvegen\nHavnen\nNese\nNessjøen\nHestes\nRaunholmane\n+\n+\n-\nGoogle\nAvvis\nGodkjenn & Signèr",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-072248.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-072248_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072248.png",
+        "text": "07:22\n& OTS\n.\n.Ill ~ 100\nTilbake\nNO-751-251015-297491\nO\nNO-751-251015-297491\nAvsender Catch Certificate\nSertifikat 297491\nSkip Fangstsertifikat\nOpprettet 15-10-2025\nAvvis\nGodkjenn & Signèr",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-072327.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-072327_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072327.png",
+        "text": "07:23 & MOT .\n.Ill ~ 100\nSign this document?\nAre you ready to sign NO-751-251015-297491?\nAvbryt\nSignèr",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-072338.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-072338_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072338.png",
+        "text": "07:23 & MOT .\n.Ill ~ 100\nDocument is signed\nYour signature has been validated and the\ndocuments have been moved to the \"Pending\" queue\nFortsett",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-073255.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\norwegian\\Screenshot_20251021-073255_ocr.json",
+        "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-073255.png",
+        "text": "07:32\n6 .\n.11 - 1001\nVelkommen tilbake",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      }
+    },
+    "english": {
+      "Screenshot_20251021-073854.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-073854_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-073854.png",
+        "text": "07:38\n.\n.Ill ~ 100\nCatchSign\nUsername\n110978angtor\n?\nPassword\n........\nContinue\nForgot your password?\nv2.0.0",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-073902.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-073902_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-073902.png",
+        "text": "07:39\n.Ill ~ 100\n< Back\nTerms & Conditions\nBy using the CatchSign app, you accept the following terms\nand conditions:\nWe handle your personal information in a secure manner. You\nmust provide the necessary personal details to be able to sign\ndocuments. We store your date of birth, name, address, mobile\nnumber and email address in our internal database. This is\npersonal information you have provided to us, which is\nnecessary to be able to carry out our obligations to you as a\nsignatory. We do not share any of your information with third\nparties.\nWhen you use CatchSign we will log which operating system\nyour device uses, your IP address and which geographical area\nyou are in at the time of signing. All signed documents are\nstored in our internal database. These documents are only\navailable for the core system and via your access on your\ndevice.\nNorwegian Exporters needs this app to sign the Norwegian\nCatch Certificates.\nFishermen (skippers)/customers connected to one of the five\nNorwegian sales organisations needs this app to sign sales-\nand landings- notes.\nA signed document will consist of your full name, the date and\ntime and your position (GPS) when you digitally signed your\ndocument.\nContinue",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-073916.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-073916_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-073916.png",
+        "text": "07:39\n.111 - 1001\n< Back\nSMS code verification\nEn SMS har blitt sendt til 479 82 18810. Vennligst tast inn\nkoden\nDidn't receive a code?\nLog out / Close session",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-073951.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-073951_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-073951.png",
+        "text": "07:39\n.\nall . 100\n< Back\nSMS code verification\nEn SMS har blitt sendt til 479 82 18810. Vennligst tast inn\nkoden\nDidn't receive a code?\non AAnniAn\nResend SMS code verification\nSend me a new code.\nSend new SMS\nCancel",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074019.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074019_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074019.png",
+        "text": "07:40 $ MA ·\n.Ill ~ 100\n< Back\nAccess Pincode\nPlease register a 4-digit pin code to use for access and\nsigning.\nO\nShow PIN\nLog out / Close session\nNext",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074112.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074112_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074112.png",
+        "text": "07:41\n.\n.1 . 1001\nGood morning, Tor Christian1!\nTuesday 21 October 2025\nC\nNO-852-251007-017775\nReady to Sign\n017775\nConsignment\n2025-10-07\n19\nReady to Sign\n0\nPending\n3\nDeclined\n112\nCompleted\nHome\nDocuments\nProfile",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074121.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074121_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074121.png",
+        "text": "07:41\n.11 - 1001\nDocuments\nSelect\n1\nQ Search\nC\nNO-852-251007-017775\nReady to Sign\n017775\nConsignment\n2025-10-07\nNO-451-251003-297238\nReady to Sign\n297238\nFangstsertifikat\n2025-10-03\nNO-451-251003-297238\nReady to Sign\n297238\nFangstsertifikat\n2025-10-03\nNO-453-250930-157188\nReady to Sign\n157188\n0\nLagererklæring\n2025-10-01\nNO-453-250930-157188\nReady to Sign\n157188\nLagererklæring\n₲ 0\n2025-09-30\nemptydokRTBOR\nReady to Sign\nthe description for RTBOR\n0\nTest RTBOR sign\nHome\nDocuments\nProfile",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074139.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074139_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074139.png",
+        "text": "07:41\n.11 - 1001\nDocuments\nSelect\n1\nQ Search\nY\nC\nNO-451-251003-297044\nDeclined\n297044\nFangstsertifikat\n2025-10-03\nemptydok92\nDeclined\nydok92\nTest 92 sign\nGO\n2024-11-11\nemptydok93\nDeclined\nydok93\nTest 93 sign\n₲ 0\n2024-11-08\nHome\nDocuments\nProfile",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074151.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074151_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074151.png",
+        "text": "07:41 & OMA ·\nX\nFilter\nReset\nOrganization\nCatch Certificate\nNorges Sildesalgslag\nVest-Norges Fiskesalslag\nFiskehav\nDocument status\nSelect all\nReady to Sign\nPending\nDeclined\nCompleted\nDate\nDate from\nDate to\nSelect date\nSelect date\nUse filters",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074207.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074207_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074207.png",
+        "text": "07:42\n.Ill ~ 1001\nProfile\nMy information\nO\n>\nChange your personal information.\nSecurity\nChange your app security settings\nLanguage\nSet your preferred language\n>\nLog out\nLog out of the app\nDelete user\nDelete account and access to the app\nv2.0.0\nv2:username:110978ANGTORculture:en-US\n=\nHome\nDocuments\nProfile",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074236.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074236_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074236.png",
+        "text": "07:42\n.Ill ~ 100\n< Back\nLanguage\nNorwegian\nO\nEnglish",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074251.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074251_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074251.png",
+        "text": "07:42\n.Ill ~ 100\n< Back\nMy information\nAccount\nUsername\n110978ANGTOR\nEmail\ntor@sildelaget.no\nPhone Number\n479 82 18810\nPersonal information\nFirst Name\nTor Christian1\nLast Name\nAngeltveit\nBirth date\n11/09/1978\nSave changes",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074313.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074313_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074313.png",
+        "text": "07:43\n.\n.11 . 1001\nBack\nNO-852-251007-017775\nO\nConsignment Document\nCatch certification scheme for fishery products exported from Norway to the European Community under Articles 12 (4), 20 (4),\n14 (1) and 14 (2) of Council Regulation (EC) No 1005/2008 and Commission Regulation (EC) No 1010/2009 laying down the\ndetailed rules for the implementation of the same Regulation to replace the European Community catch certificate.\nDocument No\nIssued and validated electronically by\nNO-852-251007-017775\nNorges Sildesalgslag SA\nAddress\nTelephone number\nTelefax number\nPostboks 7065, NO-5020 BERGEN, Norway\n+47-55549500\n+47-\nConsignment document for producer declaration NO-854-251007-273660\nFrom producer Catchcertificate SA\nName and address of exporter\nSignature\nDate\nGrøntvedt Pelagic AS\nPostboks 158, NO-7142 UTHAUG, Norway\nThe original certificate, issued and validated electronically in accordance with the catch certification scheme for fishery products exported from Norway to the\nEuropean Community under Articles 12 (4) and 20 (4) of Council Regulation (EC) No 1005/2008 and Commission Regulation (EC) No 1010/2009 laying down the\ndetailed rules for the implementation of the same Regulation, is attached in the following the pages.\nRef: www.catchcertificate.no where the original electronic version may be accessed.\nDecline\nApprove & Sign",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074322.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074322_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074322.png",
+        "text": "07:43\n.\n0 .ill ~ 100\nBack\nNO-852-251007-017775\nO\n.-\nNordre N\nNesvegen\nNesvegen\nHavnen\nNeseO\nNessjøen\nHestes\nRaunholmane\n+\n+\n-\nGoogle\nDecline\nApprove & Sign",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074339.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074339_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074339.png",
+        "text": "07:43\n.\n.Ill ~ 100\nBack\nNO-852-251007-017775\nF\nO\nNO-852-251007-017775\nAvsender Catch Certificate\nSertifikat 017775\nSkip Consignment\nOpprettet 07-10-2025\nDecline\nApprove & Sign",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074404.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074404_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074404.png",
+        "text": "07:44 & MA ·\n.111 - 1001\nSign this document?\nAre you ready to sign NO-852-251007-017775?\nCancel\nSign",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074415.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074415_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074415.png",
+        "text": "07:44 & MA ·\n.111 - 1001\nDocument is signed\nYour signature has been validated and the\ndocuments have been moved to the \"Pending\" queue\nContinue",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      },
+      "Screenshot_20251021-074437.png": {
+        "result_file": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29\\english\\Screenshot_20251021-074437_ocr.json",
+        "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074437.png",
+        "text": "07:44 & C M\n.Ill ~ 100\nVelkommen tilbake",
+        "ocr_confidence": 0.0,
+        "ocr_error": null,
+        "has_error": false
+      }
+    }
+  },
+  "summary": {
+    "norwegian_count": 20,
+    "english_count": 18,
+    "total_screenshots": 38,
+    "session_folder": "C:\\kode\\cc\\CatchSignAppV2Analysis\\ocr_results\\2.0.0.b242_20251021_10_29"
+  }
+}

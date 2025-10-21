@@ -1,0 +1,397 @@
+{
+  "filename": "Screenshot_20251021-072142.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\norwegian\\Screenshot_20251021-072142.png",
+  "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072142.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:30:19.667963",
+  "ocr_result": {
+    "text": "07:21 $ 6 TN\n.\n.Ill ~ 100\n< Tilbake\nSpråk\nO\nNorsk\nEngelsk",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:30:17Z",
+      "lastUpdatedDateTime": "2025-10-21T08:30:17Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  83,
+                  60,
+                  372,
+                  59,
+                  372,
+                  93,
+                  83,
+                  94
+                ],
+                "text": "07:21 $ 6 TN",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      85,
+                      60,
+                      170,
+                      61,
+                      169,
+                      95,
+                      84,
+                      94
+                    ],
+                    "text": "07:21",
+                    "confidence": 0.955
+                  },
+                  {
+                    "boundingBox": [
+                      184,
+                      61,
+                      203,
+                      61,
+                      202,
+                      95,
+                      182,
+                      95
+                    ],
+                    "text": "$",
+                    "confidence": 0.015
+                  },
+                  {
+                    "boundingBox": [
+                      230,
+                      61,
+                      250,
+                      61,
+                      248,
+                      95,
+                      229,
+                      95
+                    ],
+                    "text": "6",
+                    "confidence": 0.227
+                  },
+                  {
+                    "boundingBox": [
+                      288,
+                      60,
+                      354,
+                      59,
+                      352,
+                      93,
+                      286,
+                      94
+                    ],
+                    "text": "TN",
+                    "confidence": 0.428
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  384,
+                  60,
+                  413,
+                  59,
+                  413,
+                  92,
+                  385,
+                  91
+                ],
+                "text": ".",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.859
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      392,
+                      59,
+                      411,
+                      59,
+                      411,
+                      92,
+                      392,
+                      92
+                    ],
+                    "text": ".",
+                    "confidence": 0.663
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  704,
+                  62,
+                  872,
+                  59,
+                  874,
+                  92,
+                  705,
+                  99
+                ],
+                "text": ".Ill ~ 100",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      67,
+                      755,
+                      61,
+                      756,
+                      95,
+                      706,
+                      100
+                    ],
+                    "text": ".Ill",
+                    "confidence": 0.193
+                  },
+                  {
+                    "boundingBox": [
+                      768,
+                      60,
+                      787,
+                      59,
+                      787,
+                      93,
+                      769,
+                      94
+                    ],
+                    "text": "~",
+                    "confidence": 0.061
+                  },
+                  {
+                    "boundingBox": [
+                      813,
+                      59,
+                      861,
+                      61,
+                      862,
+                      91,
+                      814,
+                      92
+                    ],
+                    "text": "100",
+                    "confidence": 0.964
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  43,
+                  180,
+                  199,
+                  180,
+                  199,
+                  213,
+                  42,
+                  212
+                ],
+                "text": "< Tilbake",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      44,
+                      182,
+                      62,
+                      181,
+                      61,
+                      213,
+                      43,
+                      212
+                    ],
+                    "text": "<",
+                    "confidence": 0.658
+                  },
+                  {
+                    "boundingBox": [
+                      92,
+                      181,
+                      197,
+                      182,
+                      197,
+                      213,
+                      91,
+                      213
+                    ],
+                    "text": "Tilbake",
+                    "confidence": 1
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  36,
+                  284,
+                  183,
+                  282,
+                  184,
+                  337,
+                  37,
+                  340
+                ],
+                "text": "Språk",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      284,
+                      175,
+                      282,
+                      176,
+                      338,
+                      36,
+                      340
+                    ],
+                    "text": "Språk",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  59,
+                  461,
+                  107,
+                  461,
+                  107,
+                  499,
+                  59,
+                  496
+                ],
+                "text": "O",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      61,
+                      461,
+                      83,
+                      461,
+                      82,
+                      498,
+                      60,
+                      497
+                    ],
+                    "text": "O",
+                    "confidence": 0.886
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  128,
+                  461,
+                  235,
+                  461,
+                  235,
+                  494,
+                  128,
+                  494
+                ],
+                "text": "Norsk",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      129,
+                      461,
+                      228,
+                      461,
+                      229,
+                      495,
+                      129,
+                      494
+                    ],
+                    "text": "Norsk",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  125,
+                  619,
+                  266,
+                  616,
+                  267,
+                  663,
+                  126,
+                  665
+                ],
+                "text": "Engelsk",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      125,
+                      621,
+                      264,
+                      617,
+                      267,
+                      663,
+                      127,
+                      665
+                    ],
+                    "text": "Engelsk",
+                    "confidence": 0.996
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

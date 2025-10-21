@@ -1,0 +1,663 @@
+{
+  "filename": "Screenshot_20251021-072248.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\norwegian\\Screenshot_20251021-072248.png",
+  "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072248.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:30:38.392633",
+  "ocr_result": {
+    "text": "07:22\n& OTS\n.\n.Ill ~ 100\nTilbake\nNO-751-251015-297491\nO\nNO-751-251015-297491\nAvsender Catch Certificate\nSertifikat 297491\nSkip Fangstsertifikat\nOpprettet 15-10-2025\nAvvis\nGodkjenn & Signèr",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:30:36Z",
+      "lastUpdatedDateTime": "2025-10-21T08:30:36Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": -0.0704,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  84,
+                  59,
+                  176,
+                  59,
+                  176,
+                  94,
+                  82,
+                  92
+                ],
+                "text": "07:22",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      84,
+                      59,
+                      172,
+                      59,
+                      171,
+                      94,
+                      83,
+                      93
+                    ],
+                    "text": "07:22",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  184,
+                  60,
+                  374,
+                  58,
+                  374,
+                  92,
+                  184,
+                  96
+                ],
+                "text": "& OTS",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.849
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      199,
+                      61,
+                      221,
+                      60,
+                      222,
+                      96,
+                      200,
+                      96
+                    ],
+                    "text": "&",
+                    "confidence": 0.484
+                  },
+                  {
+                    "boundingBox": [
+                      254,
+                      59,
+                      374,
+                      58,
+                      373,
+                      92,
+                      255,
+                      95
+                    ],
+                    "text": "OTS",
+                    "confidence": 0.218
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  385,
+                  62,
+                  413,
+                  60,
+                  414,
+                  87,
+                  387,
+                  88
+                ],
+                "text": ".",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      395,
+                      60,
+                      411,
+                      60,
+                      412,
+                      87,
+                      396,
+                      87
+                    ],
+                    "text": ".",
+                    "confidence": 0.674
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  705,
+                  62,
+                  875,
+                  59,
+                  876,
+                  92,
+                  706,
+                  98
+                ],
+                "text": ".Ill ~ 100",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      65,
+                      755,
+                      61,
+                      755,
+                      96,
+                      706,
+                      99
+                    ],
+                    "text": ".Ill",
+                    "confidence": 0.087
+                  },
+                  {
+                    "boundingBox": [
+                      766,
+                      61,
+                      785,
+                      60,
+                      786,
+                      94,
+                      767,
+                      95
+                    ],
+                    "text": "~",
+                    "confidence": 0.067
+                  },
+                  {
+                    "boundingBox": [
+                      812,
+                      60,
+                      860,
+                      60,
+                      861,
+                      92,
+                      813,
+                      93
+                    ],
+                    "text": "100",
+                    "confidence": 0.955
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  84,
+                  207,
+                  201,
+                  208,
+                  201,
+                  241,
+                  84,
+                  240
+                ],
+                "text": "Tilbake",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      91,
+                      208,
+                      197,
+                      209,
+                      197,
+                      242,
+                      91,
+                      241
+                    ],
+                    "text": "Tilbake",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  273,
+                  205,
+                  680,
+                  204,
+                  680,
+                  243,
+                  273,
+                  243
+                ],
+                "text": "NO-751-251015-297491",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      274,
+                      206,
+                      678,
+                      205,
+                      677,
+                      244,
+                      274,
+                      243
+                    ],
+                    "text": "NO-751-251015-297491",
+                    "confidence": 0.962
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  348,
+                  335,
+                  369,
+                  337,
+                  370,
+                  358,
+                  348,
+                  356
+                ],
+                "text": "O",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      350,
+                      335,
+                      363,
+                      336,
+                      361,
+                      357,
+                      348,
+                      356
+                    ],
+                    "text": "O",
+                    "confidence": 0.868
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  447,
+                  501,
+                  446,
+                  501,
+                  485,
+                  33,
+                  486
+                ],
+                "text": "NO-751-251015-297491",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      448,
+                      500,
+                      447,
+                      500,
+                      486,
+                      34,
+                      486
+                    ],
+                    "text": "NO-751-251015-297491",
+                    "confidence": 0.961
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  549,
+                  443,
+                  548,
+                  443,
+                  581,
+                  34,
+                  582
+                ],
+                "text": "Avsender Catch Certificate",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      551,
+                      175,
+                      549,
+                      175,
+                      582,
+                      35,
+                      582
+                    ],
+                    "text": "Avsender",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      184,
+                      549,
+                      271,
+                      549,
+                      272,
+                      582,
+                      184,
+                      582
+                    ],
+                    "text": "Catch",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      281,
+                      549,
+                      440,
+                      549,
+                      441,
+                      582,
+                      281,
+                      582
+                    ],
+                    "text": "Certificate",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  620,
+                  305,
+                  620,
+                  305,
+                  653,
+                  35,
+                  653
+                ],
+                "text": "Sertifikat 297491",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      621,
+                      176,
+                      622,
+                      176,
+                      653,
+                      36,
+                      654
+                    ],
+                    "text": "Sertifikat",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      189,
+                      622,
+                      304,
+                      622,
+                      304,
+                      652,
+                      189,
+                      653
+                    ],
+                    "text": "297491",
+                    "confidence": 0.992
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  692,
+                  356,
+                  692,
+                  356,
+                  728,
+                  32,
+                  730
+                ],
+                "text": "Skip Fangstsertifikat",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      32,
+                      693,
+                      95,
+                      693,
+                      96,
+                      730,
+                      34,
+                      731
+                    ],
+                    "text": "Skip",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      112,
+                      693,
+                      356,
+                      692,
+                      356,
+                      727,
+                      113,
+                      730
+                    ],
+                    "text": "Fangstsertifikat",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  767,
+                  369,
+                  764,
+                  369,
+                  797,
+                  32,
+                  802
+                ],
+                "text": "Opprettet 15-10-2025",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      768,
+                      177,
+                      765,
+                      177,
+                      801,
+                      33,
+                      803
+                    ],
+                    "text": "Opprettet",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      189,
+                      765,
+                      366,
+                      765,
+                      366,
+                      797,
+                      189,
+                      800
+                    ],
+                    "text": "15-10-2025",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  238,
+                  1982,
+                  315,
+                  1984,
+                  315,
+                  2012,
+                  236,
+                  2009
+                ],
+                "text": "Avvis",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      237,
+                      1982,
+                      313,
+                      1984,
+                      313,
+                      2012,
+                      237,
+                      2009
+                    ],
+                    "text": "Avvis",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  458,
+                  1980,
+                  724,
+                  1980,
+                  724,
+                  2016,
+                  458,
+                  2016
+                ],
+                "text": "Godkjenn & Signèr",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      459,
+                      1981,
+                      591,
+                      1981,
+                      590,
+                      2017,
+                      458,
+                      2016
+                    ],
+                    "text": "Godkjenn",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      598,
+                      1981,
+                      617,
+                      1981,
+                      616,
+                      2017,
+                      597,
+                      2017
+                    ],
+                    "text": "&",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      624,
+                      1981,
+                      724,
+                      1981,
+                      723,
+                      2017,
+                      623,
+                      2017
+                    ],
+                    "text": "Signèr",
+                    "confidence": 0.887
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

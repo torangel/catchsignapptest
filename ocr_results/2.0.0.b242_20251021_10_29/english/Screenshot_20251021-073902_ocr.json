@@ -1,0 +1,3498 @@
+{
+  "filename": "Screenshot_20251021-073902.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\english\\Screenshot_20251021-073902.png",
+  "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-073902.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:30:55.037854",
+  "ocr_result": {
+    "text": "07:39\n.Ill ~ 100\n< Back\nTerms & Conditions\nBy using the CatchSign app, you accept the following terms\nand conditions:\nWe handle your personal information in a secure manner. You\nmust provide the necessary personal details to be able to sign\ndocuments. We store your date of birth, name, address, mobile\nnumber and email address in our internal database. This is\npersonal information you have provided to us, which is\nnecessary to be able to carry out our obligations to you as a\nsignatory. We do not share any of your information with third\nparties.\nWhen you use CatchSign we will log which operating system\nyour device uses, your IP address and which geographical area\nyou are in at the time of signing. All signed documents are\nstored in our internal database. These documents are only\navailable for the core system and via your access on your\ndevice.\nNorwegian Exporters needs this app to sign the Norwegian\nCatch Certificates.\nFishermen (skippers)/customers connected to one of the five\nNorwegian sales organisations needs this app to sign sales-\nand landings- notes.\nA signed document will consist of your full name, the date and\ntime and your position (GPS) when you digitally signed your\ndocument.\nContinue",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:30:53Z",
+      "lastUpdatedDateTime": "2025-10-21T08:30:54Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  82,
+                  60,
+                  178,
+                  58,
+                  179,
+                  92,
+                  83,
+                  93
+                ],
+                "text": "07:39",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      86,
+                      61,
+                      171,
+                      59,
+                      170,
+                      93,
+                      85,
+                      93
+                    ],
+                    "text": "07:39",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  704,
+                  63,
+                  872,
+                  59,
+                  874,
+                  91,
+                  705,
+                  99
+                ],
+                "text": ".Ill ~ 100",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      704,
+                      67,
+                      754,
+                      62,
+                      755,
+                      96,
+                      705,
+                      100
+                    ],
+                    "text": ".Ill",
+                    "confidence": 0.082
+                  },
+                  {
+                    "boundingBox": [
+                      768,
+                      61,
+                      786,
+                      60,
+                      787,
+                      94,
+                      768,
+                      95
+                    ],
+                    "text": "~",
+                    "confidence": 0.039
+                  },
+                  {
+                    "boundingBox": [
+                      812,
+                      59,
+                      861,
+                      61,
+                      862,
+                      91,
+                      813,
+                      93
+                    ],
+                    "text": "100",
+                    "confidence": 0.983
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  43,
+                  180,
+                  167,
+                  181,
+                  167,
+                  213,
+                  43,
+                  212
+                ],
+                "text": "< Back",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      44,
+                      180,
+                      62,
+                      181,
+                      62,
+                      213,
+                      44,
+                      213
+                    ],
+                    "text": "<",
+                    "confidence": 0.815
+                  },
+                  {
+                    "boundingBox": [
+                      90,
+                      181,
+                      163,
+                      183,
+                      163,
+                      213,
+                      90,
+                      213
+                    ],
+                    "text": "Back",
+                    "confidence": 1
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  273,
+                  515,
+                  273,
+                  515,
+                  325,
+                  34,
+                  325
+                ],
+                "text": "Terms & Conditions",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      37,
+                      274,
+                      184,
+                      274,
+                      185,
+                      326,
+                      38,
+                      326
+                    ],
+                    "text": "Terms",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      195,
+                      274,
+                      228,
+                      274,
+                      229,
+                      326,
+                      196,
+                      326
+                    ],
+                    "text": "&",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      243,
+                      274,
+                      510,
+                      274,
+                      512,
+                      325,
+                      244,
+                      326
+                    ],
+                    "text": "Conditions",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  388,
+                  879,
+                  388,
+                  879,
+                  426,
+                  33,
+                  426
+                ],
+                "text": "By using the CatchSign app, you accept the following terms",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      391,
+                      65,
+                      390,
+                      65,
+                      427,
+                      33,
+                      426
+                    ],
+                    "text": "By",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      72,
+                      390,
+                      151,
+                      390,
+                      150,
+                      427,
+                      72,
+                      427
+                    ],
+                    "text": "using",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      158,
+                      390,
+                      204,
+                      389,
+                      204,
+                      427,
+                      158,
+                      427
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      212,
+                      389,
+                      359,
+                      389,
+                      359,
+                      427,
+                      212,
+                      427
+                    ],
+                    "text": "CatchSign",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      366,
+                      389,
+                      425,
+                      389,
+                      425,
+                      427,
+                      366,
+                      427
+                    ],
+                    "text": "app,",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      432,
+                      389,
+                      486,
+                      389,
+                      486,
+                      427,
+                      432,
+                      427
+                    ],
+                    "text": "you",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      493,
+                      389,
+                      588,
+                      389,
+                      589,
+                      427,
+                      494,
+                      427
+                    ],
+                    "text": "accept",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      596,
+                      389,
+                      640,
+                      389,
+                      641,
+                      427,
+                      597,
+                      427
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      647,
+                      389,
+                      782,
+                      390,
+                      783,
+                      426,
+                      648,
+                      427
+                    ],
+                    "text": "following",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      789,
+                      390,
+                      876,
+                      390,
+                      878,
+                      426,
+                      790,
+                      426
+                    ],
+                    "text": "terms",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  435,
+                  254,
+                  436,
+                  254,
+                  467,
+                  32,
+                  466
+                ],
+                "text": "and conditions:",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      436,
+                      84,
+                      436,
+                      84,
+                      467,
+                      34,
+                      467
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      93,
+                      436,
+                      254,
+                      437,
+                      254,
+                      467,
+                      93,
+                      467
+                    ],
+                    "text": "conditions:",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  524,
+                  910,
+                  524,
+                  910,
+                  559,
+                  32,
+                  559
+                ],
+                "text": "We handle your personal information in a secure manner. You",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      525,
+                      75,
+                      525,
+                      75,
+                      560,
+                      33,
+                      560
+                    ],
+                    "text": "We",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      82,
+                      525,
+                      180,
+                      525,
+                      180,
+                      560,
+                      82,
+                      560
+                    ],
+                    "text": "handle",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      187,
+                      525,
+                      252,
+                      524,
+                      251,
+                      560,
+                      187,
+                      560
+                    ],
+                    "text": "your",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      259,
+                      524,
+                      384,
+                      525,
+                      383,
+                      560,
+                      258,
+                      560
+                    ],
+                    "text": "personal",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      391,
+                      525,
+                      558,
+                      525,
+                      558,
+                      559,
+                      390,
+                      560
+                    ],
+                    "text": "information",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      565,
+                      525,
+                      594,
+                      525,
+                      593,
+                      559,
+                      564,
+                      559
+                    ],
+                    "text": "in",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      601,
+                      525,
+                      619,
+                      525,
+                      618,
+                      559,
+                      600,
+                      559
+                    ],
+                    "text": "a",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      625,
+                      525,
+                      721,
+                      526,
+                      721,
+                      558,
+                      625,
+                      559
+                    ],
+                    "text": "secure",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      728,
+                      526,
+                      847,
+                      526,
+                      846,
+                      557,
+                      728,
+                      558
+                    ],
+                    "text": "manner.",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      853,
+                      526,
+                      909,
+                      527,
+                      908,
+                      557,
+                      853,
+                      557
+                    ],
+                    "text": "You",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  570,
+                  916,
+                  569,
+                  916,
+                  602,
+                  35,
+                  604
+                ],
+                "text": "must provide the necessary personal details to be able to sign",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      571,
+                      104,
+                      571,
+                      103,
+                      604,
+                      35,
+                      604
+                    ],
+                    "text": "must",
+                    "confidence": 0.987
+                  },
+                  {
+                    "boundingBox": [
+                      111,
+                      571,
+                      217,
+                      571,
+                      216,
+                      604,
+                      110,
+                      604
+                    ],
+                    "text": "provide",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      223,
+                      571,
+                      270,
+                      571,
+                      269,
+                      604,
+                      223,
+                      604
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      276,
+                      571,
+                      424,
+                      570,
+                      424,
+                      604,
+                      276,
+                      604
+                    ],
+                    "text": "necessary",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      431,
+                      570,
+                      556,
+                      570,
+                      556,
+                      604,
+                      430,
+                      604
+                    ],
+                    "text": "personal",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      563,
+                      570,
+                      658,
+                      570,
+                      658,
+                      604,
+                      563,
+                      604
+                    ],
+                    "text": "details",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      665,
+                      570,
+                      696,
+                      570,
+                      696,
+                      604,
+                      665,
+                      604
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      702,
+                      570,
+                      739,
+                      570,
+                      739,
+                      604,
+                      702,
+                      604
+                    ],
+                    "text": "be",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      746,
+                      570,
+                      806,
+                      569,
+                      806,
+                      604,
+                      747,
+                      604
+                    ],
+                    "text": "able",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      813,
+                      569,
+                      843,
+                      569,
+                      844,
+                      603,
+                      813,
+                      604
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      850,
+                      569,
+                      913,
+                      569,
+                      914,
+                      603,
+                      850,
+                      603
+                    ],
+                    "text": "sign",
+                    "confidence": 0.988
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  614,
+                  924,
+                  613,
+                  924,
+                  648,
+                  35,
+                  649
+                ],
+                "text": "documents. We store your date of birth, name, address, mobile",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      37,
+                      616,
+                      200,
+                      615,
+                      199,
+                      649,
+                      36,
+                      648
+                    ],
+                    "text": "documents.",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      207,
+                      615,
+                      252,
+                      615,
+                      251,
+                      649,
+                      206,
+                      649
+                    ],
+                    "text": "We",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      259,
+                      615,
+                      333,
+                      614,
+                      332,
+                      649,
+                      258,
+                      649
+                    ],
+                    "text": "store",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      340,
+                      614,
+                      405,
+                      614,
+                      404,
+                      649,
+                      339,
+                      649
+                    ],
+                    "text": "your",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      411,
+                      614,
+                      474,
+                      614,
+                      474,
+                      649,
+                      411,
+                      649
+                    ],
+                    "text": "date",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      481,
+                      614,
+                      513,
+                      614,
+                      512,
+                      649,
+                      480,
+                      649
+                    ],
+                    "text": "of",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      519,
+                      614,
+                      593,
+                      614,
+                      593,
+                      649,
+                      519,
+                      649
+                    ],
+                    "text": "birth,",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      600,
+                      614,
+                      690,
+                      614,
+                      689,
+                      649,
+                      599,
+                      649
+                    ],
+                    "text": "name,",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      697,
+                      614,
+                      816,
+                      614,
+                      815,
+                      648,
+                      696,
+                      649
+                    ],
+                    "text": "address,",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      823,
+                      614,
+                      924,
+                      614,
+                      924,
+                      647,
+                      822,
+                      648
+                    ],
+                    "text": "mobile",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  36,
+                  659,
+                  870,
+                  658,
+                  870,
+                  692,
+                  36,
+                  693
+                ],
+                "text": "number and email address in our internal database. This is",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      38,
+                      661,
+                      142,
+                      660,
+                      141,
+                      693,
+                      36,
+                      693
+                    ],
+                    "text": "number",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      149,
+                      660,
+                      202,
+                      660,
+                      201,
+                      694,
+                      147,
+                      694
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      209,
+                      660,
+                      291,
+                      659,
+                      290,
+                      694,
+                      207,
+                      694
+                    ],
+                    "text": "email",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      298,
+                      659,
+                      409,
+                      659,
+                      408,
+                      694,
+                      296,
+                      694
+                    ],
+                    "text": "address",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      415,
+                      659,
+                      444,
+                      659,
+                      443,
+                      694,
+                      414,
+                      694
+                    ],
+                    "text": "in",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      451,
+                      659,
+                      500,
+                      659,
+                      499,
+                      694,
+                      450,
+                      694
+                    ],
+                    "text": "our",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      507,
+                      659,
+                      618,
+                      659,
+                      617,
+                      693,
+                      505,
+                      694
+                    ],
+                    "text": "internal",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      625,
+                      659,
+                      767,
+                      659,
+                      766,
+                      693,
+                      623,
+                      693
+                    ],
+                    "text": "database.",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      774,
+                      659,
+                      834,
+                      659,
+                      833,
+                      692,
+                      773,
+                      693
+                    ],
+                    "text": "This",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      840,
+                      659,
+                      870,
+                      659,
+                      869,
+                      692,
+                      839,
+                      692
+                    ],
+                    "text": "is",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  704,
+                  810,
+                  703,
+                  810,
+                  739,
+                  35,
+                  740
+                ],
+                "text": "personal information you have provided to us, which is",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      706,
+                      156,
+                      705,
+                      156,
+                      740,
+                      36,
+                      740
+                    ],
+                    "text": "personal",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      163,
+                      705,
+                      329,
+                      704,
+                      330,
+                      741,
+                      163,
+                      740
+                    ],
+                    "text": "information",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      336,
+                      704,
+                      390,
+                      704,
+                      390,
+                      741,
+                      336,
+                      741
+                    ],
+                    "text": "you",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      397,
+                      704,
+                      466,
+                      704,
+                      466,
+                      741,
+                      397,
+                      741
+                    ],
+                    "text": "have",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      473,
+                      704,
+                      596,
+                      704,
+                      596,
+                      740,
+                      473,
+                      741
+                    ],
+                    "text": "provided",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      603,
+                      704,
+                      633,
+                      704,
+                      633,
+                      740,
+                      603,
+                      740
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      640,
+                      704,
+                      684,
+                      704,
+                      684,
+                      739,
+                      640,
+                      740
+                    ],
+                    "text": "us,",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      691,
+                      704,
+                      774,
+                      704,
+                      774,
+                      739,
+                      691,
+                      739
+                    ],
+                    "text": "which",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      781,
+                      704,
+                      810,
+                      705,
+                      809,
+                      738,
+                      781,
+                      739
+                    ],
+                    "text": "is",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  36,
+                  748,
+                  891,
+                  747,
+                  891,
+                  784,
+                  36,
+                  785
+                ],
+                "text": "necessary to be able to carry out our obligations to you as a",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      37,
+                      753,
+                      176,
+                      751,
+                      175,
+                      785,
+                      36,
+                      784
+                    ],
+                    "text": "necessary",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      183,
+                      751,
+                      213,
+                      750,
+                      213,
+                      785,
+                      182,
+                      785
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      220,
+                      750,
+                      257,
+                      750,
+                      257,
+                      785,
+                      220,
+                      785
+                    ],
+                    "text": "be",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      264,
+                      749,
+                      324,
+                      749,
+                      324,
+                      785,
+                      264,
+                      785
+                    ],
+                    "text": "able",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      331,
+                      749,
+                      362,
+                      749,
+                      362,
+                      785,
+                      331,
+                      785
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      368,
+                      748,
+                      443,
+                      748,
+                      443,
+                      785,
+                      369,
+                      785
+                    ],
+                    "text": "carry",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      450,
+                      748,
+                      496,
+                      748,
+                      497,
+                      785,
+                      450,
+                      785
+                    ],
+                    "text": "out",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      503,
+                      748,
+                      552,
+                      748,
+                      553,
+                      785,
+                      504,
+                      785
+                    ],
+                    "text": "our",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      559,
+                      748,
+                      719,
+                      749,
+                      720,
+                      785,
+                      560,
+                      785
+                    ],
+                    "text": "obligations",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      726,
+                      749,
+                      757,
+                      749,
+                      758,
+                      785,
+                      727,
+                      785
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      763,
+                      749,
+                      817,
+                      750,
+                      818,
+                      785,
+                      765,
+                      785
+                    ],
+                    "text": "you",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      824,
+                      750,
+                      859,
+                      750,
+                      860,
+                      785,
+                      825,
+                      785
+                    ],
+                    "text": "as",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      866,
+                      751,
+                      886,
+                      751,
+                      887,
+                      785,
+                      867,
+                      785
+                    ],
+                    "text": "a",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  795,
+                  902,
+                  793,
+                  902,
+                  828,
+                  35,
+                  831
+                ],
+                "text": "signatory. We do not share any of your information with third",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      796,
+                      171,
+                      795,
+                      171,
+                      831,
+                      35,
+                      831
+                    ],
+                    "text": "signatory.",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      178,
+                      795,
+                      226,
+                      795,
+                      225,
+                      831,
+                      178,
+                      831
+                    ],
+                    "text": "We",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      233,
+                      795,
+                      268,
+                      795,
+                      268,
+                      831,
+                      232,
+                      831
+                    ],
+                    "text": "do",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      275,
+                      795,
+                      324,
+                      794,
+                      324,
+                      831,
+                      275,
+                      831
+                    ],
+                    "text": "not",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      331,
+                      794,
+                      414,
+                      794,
+                      414,
+                      831,
+                      331,
+                      831
+                    ],
+                    "text": "share",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      421,
+                      794,
+                      470,
+                      794,
+                      470,
+                      831,
+                      421,
+                      831
+                    ],
+                    "text": "any",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      477,
+                      794,
+                      508,
+                      794,
+                      508,
+                      831,
+                      477,
+                      831
+                    ],
+                    "text": "of",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      515,
+                      793,
+                      581,
+                      793,
+                      581,
+                      830,
+                      515,
+                      831
+                    ],
+                    "text": "your",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      588,
+                      793,
+                      757,
+                      793,
+                      757,
+                      829,
+                      588,
+                      830
+                    ],
+                    "text": "information",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      764,
+                      793,
+                      823,
+                      793,
+                      824,
+                      828,
+                      765,
+                      828
+                    ],
+                    "text": "with",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      830,
+                      793,
+                      901,
+                      793,
+                      902,
+                      827,
+                      831,
+                      828
+                    ],
+                    "text": "third",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  844,
+                  140,
+                  842,
+                  141,
+                  872,
+                  35,
+                  875
+                ],
+                "text": "parties.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      845,
+                      140,
+                      842,
+                      140,
+                      873,
+                      35,
+                      876
+                    ],
+                    "text": "parties.",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  36,
+                  928,
+                  892,
+                  928,
+                  892,
+                  966,
+                  36,
+                  965
+                ],
+                "text": "When you use CatchSign we will log which operating system",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      37,
+                      932,
+                      110,
+                      931,
+                      109,
+                      965,
+                      36,
+                      965
+                    ],
+                    "text": "When",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      117,
+                      931,
+                      172,
+                      930,
+                      171,
+                      966,
+                      116,
+                      965
+                    ],
+                    "text": "you",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      179,
+                      930,
+                      231,
+                      930,
+                      230,
+                      966,
+                      178,
+                      966
+                    ],
+                    "text": "use",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      238,
+                      930,
+                      383,
+                      929,
+                      382,
+                      967,
+                      237,
+                      966
+                    ],
+                    "text": "CatchSign",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      390,
+                      929,
+                      430,
+                      929,
+                      430,
+                      967,
+                      389,
+                      967
+                    ],
+                    "text": "we",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      437,
+                      929,
+                      487,
+                      929,
+                      487,
+                      967,
+                      437,
+                      967
+                    ],
+                    "text": "will",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      494,
+                      929,
+                      542,
+                      929,
+                      541,
+                      967,
+                      494,
+                      967
+                    ],
+                    "text": "log",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      549,
+                      929,
+                      634,
+                      929,
+                      634,
+                      967,
+                      549,
+                      967
+                    ],
+                    "text": "which",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      641,
+                      929,
+                      776,
+                      930,
+                      777,
+                      966,
+                      641,
+                      967
+                    ],
+                    "text": "operating",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      783,
+                      930,
+                      880,
+                      931,
+                      881,
+                      966,
+                      784,
+                      966
+                    ],
+                    "text": "system",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  31,
+                  974,
+                  926,
+                  973,
+                  926,
+                  1010,
+                  31,
+                  1011
+                ],
+                "text": "your device uses, your IP address and which geographical area",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      977,
+                      94,
+                      976,
+                      93,
+                      1010,
+                      32,
+                      1010
+                    ],
+                    "text": "your",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      101,
+                      976,
+                      193,
+                      975,
+                      192,
+                      1010,
+                      100,
+                      1010
+                    ],
+                    "text": "device",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      200,
+                      975,
+                      276,
+                      975,
+                      275,
+                      1010,
+                      199,
+                      1010
+                    ],
+                    "text": "uses,",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      283,
+                      975,
+                      347,
+                      974,
+                      346,
+                      1011,
+                      282,
+                      1010
+                    ],
+                    "text": "your",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      354,
+                      974,
+                      384,
+                      974,
+                      384,
+                      1011,
+                      353,
+                      1011
+                    ],
+                    "text": "IP",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      392,
+                      974,
+                      505,
+                      974,
+                      505,
+                      1011,
+                      391,
+                      1011
+                    ],
+                    "text": "address",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      513,
+                      974,
+                      567,
+                      974,
+                      567,
+                      1011,
+                      512,
+                      1011
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      574,
+                      974,
+                      659,
+                      974,
+                      659,
+                      1011,
+                      574,
+                      1011
+                    ],
+                    "text": "which",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      666,
+                      974,
+                      851,
+                      974,
+                      851,
+                      1011,
+                      666,
+                      1011
+                    ],
+                    "text": "geographical",
+                    "confidence": 0.992
+                  },
+                  {
+                    "boundingBox": [
+                      858,
+                      974,
+                      924,
+                      974,
+                      924,
+                      1011,
+                      858,
+                      1011
+                    ],
+                    "text": "area",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  31,
+                  1017,
+                  862,
+                  1017,
+                  862,
+                  1055,
+                  31,
+                  1056
+                ],
+                "text": "you are in at the time of signing. All signed documents are",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      32,
+                      1023,
+                      84,
+                      1022,
+                      83,
+                      1055,
+                      32,
+                      1055
+                    ],
+                    "text": "you",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      91,
+                      1022,
+                      136,
+                      1021,
+                      135,
+                      1055,
+                      90,
+                      1055
+                    ],
+                    "text": "are",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      143,
+                      1021,
+                      171,
+                      1020,
+                      171,
+                      1056,
+                      142,
+                      1055
+                    ],
+                    "text": "in",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      178,
+                      1020,
+                      207,
+                      1020,
+                      206,
+                      1056,
+                      178,
+                      1056
+                    ],
+                    "text": "at",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      214,
+                      1019,
+                      259,
+                      1019,
+                      258,
+                      1056,
+                      213,
+                      1056
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      266,
+                      1019,
+                      332,
+                      1018,
+                      332,
+                      1056,
+                      265,
+                      1056
+                    ],
+                    "text": "time",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      339,
+                      1018,
+                      370,
+                      1018,
+                      369,
+                      1056,
+                      339,
+                      1056
+                    ],
+                    "text": "of",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      377,
+                      1018,
+                      490,
+                      1018,
+                      490,
+                      1056,
+                      376,
+                      1056
+                    ],
+                    "text": "signing.",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      498,
+                      1018,
+                      535,
+                      1018,
+                      535,
+                      1056,
+                      497,
+                      1056
+                    ],
+                    "text": "All",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      542,
+                      1018,
+                      639,
+                      1018,
+                      639,
+                      1056,
+                      542,
+                      1056
+                    ],
+                    "text": "signed",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      647,
+                      1018,
+                      805,
+                      1021,
+                      804,
+                      1055,
+                      646,
+                      1056
+                    ],
+                    "text": "documents",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      812,
+                      1021,
+                      862,
+                      1022,
+                      862,
+                      1054,
+                      812,
+                      1055
+                    ],
+                    "text": "are",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  1063,
+                  862,
+                  1063,
+                  862,
+                  1102,
+                  32,
+                  1100
+                ],
+                "text": "stored in our internal database. These documents are only",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      1067,
+                      123,
+                      1066,
+                      123,
+                      1099,
+                      32,
+                      1099
+                    ],
+                    "text": "stored",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      130,
+                      1066,
+                      157,
+                      1065,
+                      156,
+                      1098,
+                      129,
+                      1099
+                    ],
+                    "text": "in",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      164,
+                      1065,
+                      213,
+                      1065,
+                      213,
+                      1098,
+                      163,
+                      1098
+                    ],
+                    "text": "our",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      220,
+                      1065,
+                      329,
+                      1064,
+                      329,
+                      1098,
+                      220,
+                      1098
+                    ],
+                    "text": "internal",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      336,
+                      1064,
+                      478,
+                      1063,
+                      478,
+                      1099,
+                      335,
+                      1098
+                    ],
+                    "text": "database.",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      485,
+                      1063,
+                      571,
+                      1064,
+                      571,
+                      1099,
+                      485,
+                      1099
+                    ],
+                    "text": "These",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      578,
+                      1064,
+                      739,
+                      1065,
+                      739,
+                      1101,
+                      578,
+                      1099
+                    ],
+                    "text": "documents",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      746,
+                      1065,
+                      791,
+                      1066,
+                      791,
+                      1102,
+                      745,
+                      1101
+                    ],
+                    "text": "are",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      798,
+                      1066,
+                      862,
+                      1067,
+                      862,
+                      1103,
+                      798,
+                      1102
+                    ],
+                    "text": "only",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  1109,
+                  852,
+                  1110,
+                  852,
+                  1147,
+                  33,
+                  1143
+                ],
+                "text": "available for the core system and via your access on your",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      1111,
+                      159,
+                      1110,
+                      158,
+                      1144,
+                      35,
+                      1142
+                    ],
+                    "text": "available",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      166,
+                      1110,
+                      209,
+                      1110,
+                      209,
+                      1144,
+                      165,
+                      1144
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      216,
+                      1110,
+                      262,
+                      1109,
+                      261,
+                      1145,
+                      216,
+                      1144
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      269,
+                      1109,
+                      333,
+                      1109,
+                      332,
+                      1145,
+                      268,
+                      1145
+                    ],
+                    "text": "core",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      340,
+                      1109,
+                      435,
+                      1109,
+                      434,
+                      1146,
+                      339,
+                      1145
+                    ],
+                    "text": "system",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      451,
+                      1109,
+                      504,
+                      1110,
+                      503,
+                      1146,
+                      451,
+                      1146
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      511,
+                      1110,
+                      554,
+                      1110,
+                      554,
+                      1146,
+                      510,
+                      1146
+                    ],
+                    "text": "via",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      561,
+                      1110,
+                      627,
+                      1110,
+                      627,
+                      1147,
+                      560,
+                      1146
+                    ],
+                    "text": "your",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      634,
+                      1110,
+                      734,
+                      1112,
+                      734,
+                      1147,
+                      634,
+                      1147
+                    ],
+                    "text": "access",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      741,
+                      1112,
+                      778,
+                      1112,
+                      777,
+                      1147,
+                      741,
+                      1147
+                    ],
+                    "text": "on",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      784,
+                      1112,
+                      851,
+                      1113,
+                      851,
+                      1147,
+                      784,
+                      1147
+                    ],
+                    "text": "your",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  1155,
+                  136,
+                  1156,
+                  135,
+                  1188,
+                  34,
+                  1186
+                ],
+                "text": "device.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      1155,
+                      135,
+                      1157,
+                      136,
+                      1188,
+                      34,
+                      1187
+                    ],
+                    "text": "device.",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  36,
+                  1244,
+                  868,
+                  1245,
+                  868,
+                  1280,
+                  36,
+                  1279
+                ],
+                "text": "Norwegian Exporters needs this app to sign the Norwegian",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      39,
+                      1245,
+                      186,
+                      1245,
+                      184,
+                      1280,
+                      36,
+                      1279
+                    ],
+                    "text": "Norwegian",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      193,
+                      1245,
+                      332,
+                      1245,
+                      330,
+                      1281,
+                      191,
+                      1280
+                    ],
+                    "text": "Exporters",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      339,
+                      1245,
+                      425,
+                      1245,
+                      423,
+                      1281,
+                      337,
+                      1281
+                    ],
+                    "text": "needs",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      432,
+                      1245,
+                      487,
+                      1245,
+                      486,
+                      1281,
+                      430,
+                      1281
+                    ],
+                    "text": "this",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      494,
+                      1245,
+                      545,
+                      1245,
+                      544,
+                      1281,
+                      493,
+                      1281
+                    ],
+                    "text": "app",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      552,
+                      1245,
+                      582,
+                      1245,
+                      581,
+                      1281,
+                      551,
+                      1281
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      589,
+                      1245,
+                      651,
+                      1245,
+                      651,
+                      1281,
+                      588,
+                      1281
+                    ],
+                    "text": "sign",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      658,
+                      1245,
+                      705,
+                      1245,
+                      704,
+                      1281,
+                      658,
+                      1281
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      712,
+                      1245,
+                      866,
+                      1245,
+                      866,
+                      1280,
+                      711,
+                      1281
+                    ],
+                    "text": "Norwegian",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  1289,
+                  297,
+                  1290,
+                  296,
+                  1323,
+                  34,
+                  1322
+                ],
+                "text": "Catch Certificates.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      1290,
+                      115,
+                      1290,
+                      114,
+                      1322,
+                      34,
+                      1323
+                    ],
+                    "text": "Catch",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      124,
+                      1290,
+                      297,
+                      1293,
+                      296,
+                      1323,
+                      123,
+                      1322
+                    ],
+                    "text": "Certificates.",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  37,
+                  1377,
+                  903,
+                  1377,
+                  903,
+                  1414,
+                  37,
+                  1414
+                ],
+                "text": "Fishermen (skippers)/customers connected to one of the five",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      40,
+                      1378,
+                      183,
+                      1379,
+                      181,
+                      1415,
+                      38,
+                      1415
+                    ],
+                    "text": "Fishermen",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      190,
+                      1379,
+                      497,
+                      1380,
+                      496,
+                      1415,
+                      189,
+                      1415
+                    ],
+                    "text": "(skippers)/customers",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      504,
+                      1380,
+                      652,
+                      1380,
+                      652,
+                      1414,
+                      503,
+                      1415
+                    ],
+                    "text": "connected",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      659,
+                      1380,
+                      691,
+                      1380,
+                      691,
+                      1414,
+                      659,
+                      1414
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      698,
+                      1380,
+                      751,
+                      1380,
+                      751,
+                      1413,
+                      698,
+                      1414
+                    ],
+                    "text": "one",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      758,
+                      1380,
+                      790,
+                      1380,
+                      790,
+                      1413,
+                      757,
+                      1413
+                    ],
+                    "text": "of",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      797,
+                      1380,
+                      842,
+                      1379,
+                      842,
+                      1412,
+                      796,
+                      1413
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      849,
+                      1379,
+                      902,
+                      1379,
+                      902,
+                      1412,
+                      849,
+                      1412
+                    ],
+                    "text": "five",
+                    "confidence": 0.988
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  1424,
+                  887,
+                  1424,
+                  887,
+                  1459,
+                  33,
+                  1459
+                ],
+                "text": "Norwegian sales organisations needs this app to sign sales-",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      1426,
+                      186,
+                      1425,
+                      185,
+                      1460,
+                      34,
+                      1459
+                    ],
+                    "text": "Norwegian",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      193,
+                      1425,
+                      271,
+                      1425,
+                      270,
+                      1460,
+                      193,
+                      1460
+                    ],
+                    "text": "sales",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      278,
+                      1425,
+                      473,
+                      1425,
+                      473,
+                      1460,
+                      277,
+                      1460
+                    ],
+                    "text": "organisations",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      480,
+                      1425,
+                      566,
+                      1425,
+                      566,
+                      1460,
+                      480,
+                      1460
+                    ],
+                    "text": "needs",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      573,
+                      1425,
+                      630,
+                      1425,
+                      630,
+                      1460,
+                      573,
+                      1460
+                    ],
+                    "text": "this",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      637,
+                      1425,
+                      689,
+                      1425,
+                      689,
+                      1460,
+                      637,
+                      1460
+                    ],
+                    "text": "app",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      696,
+                      1425,
+                      726,
+                      1425,
+                      726,
+                      1460,
+                      696,
+                      1460
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      732,
+                      1425,
+                      794,
+                      1425,
+                      794,
+                      1460,
+                      733,
+                      1460
+                    ],
+                    "text": "sign",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      801,
+                      1425,
+                      888,
+                      1426,
+                      888,
+                      1460,
+                      801,
+                      1460
+                    ],
+                    "text": "sales-",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  1469,
+                  320,
+                  1470,
+                  320,
+                  1504,
+                  35,
+                  1503
+                ],
+                "text": "and landings- notes.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      1470,
+                      84,
+                      1470,
+                      83,
+                      1504,
+                      35,
+                      1504
+                    ],
+                    "text": "and",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      91,
+                      1470,
+                      225,
+                      1471,
+                      225,
+                      1505,
+                      90,
+                      1504
+                    ],
+                    "text": "landings-",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      232,
+                      1471,
+                      320,
+                      1472,
+                      320,
+                      1505,
+                      231,
+                      1505
+                    ],
+                    "text": "notes.",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  1558,
+                  920,
+                  1558,
+                  920,
+                  1594,
+                  32,
+                  1595
+                ],
+                "text": "A signed document will consist of your full name, the date and",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      1559,
+                      53,
+                      1559,
+                      52,
+                      1594,
+                      32,
+                      1594
+                    ],
+                    "text": "A",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      60,
+                      1559,
+                      154,
+                      1559,
+                      153,
+                      1595,
+                      60,
+                      1594
+                    ],
+                    "text": "signed",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      161,
+                      1559,
+                      306,
+                      1558,
+                      305,
+                      1595,
+                      160,
+                      1595
+                    ],
+                    "text": "document",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      313,
+                      1558,
+                      362,
+                      1558,
+                      362,
+                      1595,
+                      312,
+                      1595
+                    ],
+                    "text": "will",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      369,
+                      1558,
+                      477,
+                      1559,
+                      476,
+                      1595,
+                      369,
+                      1595
+                    ],
+                    "text": "consist",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      484,
+                      1559,
+                      512,
+                      1559,
+                      511,
+                      1595,
+                      483,
+                      1595
+                    ],
+                    "text": "of",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      519,
+                      1559,
+                      585,
+                      1559,
+                      584,
+                      1595,
+                      518,
+                      1595
+                    ],
+                    "text": "your",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      592,
+                      1559,
+                      638,
+                      1559,
+                      638,
+                      1595,
+                      591,
+                      1595
+                    ],
+                    "text": "full",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      646,
+                      1559,
+                      732,
+                      1559,
+                      732,
+                      1594,
+                      645,
+                      1595
+                    ],
+                    "text": "name,",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      739,
+                      1559,
+                      786,
+                      1559,
+                      785,
+                      1594,
+                      739,
+                      1594
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      793,
+                      1559,
+                      856,
+                      1559,
+                      856,
+                      1593,
+                      792,
+                      1594
+                    ],
+                    "text": "date",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      863,
+                      1559,
+                      920,
+                      1560,
+                      919,
+                      1592,
+                      863,
+                      1593
+                    ],
+                    "text": "and",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  1603,
+                  884,
+                  1603,
+                  884,
+                  1641,
+                  32,
+                  1640
+                ],
+                "text": "time and your position (GPS) when you digitally signed your",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      1604,
+                      96,
+                      1604,
+                      96,
+                      1640,
+                      33,
+                      1639
+                    ],
+                    "text": "time",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      103,
+                      1604,
+                      155,
+                      1604,
+                      154,
+                      1640,
+                      103,
+                      1640
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      162,
+                      1604,
+                      225,
+                      1604,
+                      225,
+                      1641,
+                      161,
+                      1640
+                    ],
+                    "text": "your",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      233,
+                      1604,
+                      352,
+                      1604,
+                      351,
+                      1642,
+                      232,
+                      1641
+                    ],
+                    "text": "position",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      360,
+                      1604,
+                      443,
+                      1604,
+                      442,
+                      1642,
+                      359,
+                      1642
+                    ],
+                    "text": "(GPS)",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      450,
+                      1604,
+                      525,
+                      1604,
+                      524,
+                      1642,
+                      449,
+                      1642
+                    ],
+                    "text": "when",
+                    "confidence": 0.99
+                  },
+                  {
+                    "boundingBox": [
+                      533,
+                      1604,
+                      584,
+                      1604,
+                      583,
+                      1642,
+                      532,
+                      1642
+                    ],
+                    "text": "you",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      591,
+                      1604,
+                      706,
+                      1604,
+                      705,
+                      1642,
+                      590,
+                      1642
+                    ],
+                    "text": "digitally",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      713,
+                      1604,
+                      809,
+                      1604,
+                      807,
+                      1641,
+                      712,
+                      1642
+                    ],
+                    "text": "signed",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      816,
+                      1604,
+                      882,
+                      1604,
+                      881,
+                      1641,
+                      814,
+                      1641
+                    ],
+                    "text": "your",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  1650,
+                  186,
+                  1650,
+                  186,
+                  1682,
+                  34,
+                  1682
+                ],
+                "text": "document.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      1651,
+                      186,
+                      1651,
+                      186,
+                      1683,
+                      34,
+                      1683
+                    ],
+                    "text": "document.",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  404,
+                  1971,
+                  555,
+                  1972,
+                  554,
+                  2005,
+                  404,
+                  2004
+                ],
+                "text": "Continue",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      405,
+                      1972,
+                      550,
+                      1973,
+                      550,
+                      2004,
+                      404,
+                      2004
+                    ],
+                    "text": "Continue",
+                    "confidence": 0.994
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

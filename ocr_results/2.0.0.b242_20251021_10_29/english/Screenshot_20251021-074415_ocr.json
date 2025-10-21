@@ -1,0 +1,523 @@
+{
+  "filename": "Screenshot_20251021-074415.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\english\\Screenshot_20251021-074415.png",
+  "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074415.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:31:45.005244",
+  "ocr_result": {
+    "text": "07:44 & MA ·\n.111 - 1001\nDocument is signed\nYour signature has been validated and the\ndocuments have been moved to the \"Pending\" queue\nContinue",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:31:42Z",
+      "lastUpdatedDateTime": "2025-10-21T08:31:43Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  83,
+                  59,
+                  418,
+                  59,
+                  418,
+                  92,
+                  83,
+                  94
+                ],
+                "text": "07:44 & MA ·",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      85,
+                      60,
+                      172,
+                      61,
+                      171,
+                      94,
+                      84,
+                      93
+                    ],
+                    "text": "07:44",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      191,
+                      61,
+                      210,
+                      61,
+                      209,
+                      94,
+                      191,
+                      94
+                    ],
+                    "text": "&",
+                    "confidence": 0.028
+                  },
+                  {
+                    "boundingBox": [
+                      287,
+                      61,
+                      364,
+                      60,
+                      364,
+                      92,
+                      287,
+                      94
+                    ],
+                    "text": "MA",
+                    "confidence": 0.368
+                  },
+                  {
+                    "boundingBox": [
+                      401,
+                      60,
+                      418,
+                      60,
+                      419,
+                      89,
+                      401,
+                      90
+                    ],
+                    "text": "·",
+                    "confidence": 0.162
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  705,
+                  62,
+                  872,
+                  59,
+                  874,
+                  92,
+                  706,
+                  99
+                ],
+                "text": ".111 - 1001",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      67,
+                      756,
+                      61,
+                      757,
+                      95,
+                      707,
+                      100
+                    ],
+                    "text": ".111",
+                    "confidence": 0.124
+                  },
+                  {
+                    "boundingBox": [
+                      769,
+                      61,
+                      790,
+                      59,
+                      791,
+                      93,
+                      770,
+                      94
+                    ],
+                    "text": "-",
+                    "confidence": 0.068
+                  },
+                  {
+                    "boundingBox": [
+                      812,
+                      59,
+                      871,
+                      62,
+                      872,
+                      92,
+                      813,
+                      92
+                    ],
+                    "text": "1001",
+                    "confidence": 0.803
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  229,
+                  1037,
+                  731,
+                  1039,
+                  731,
+                  1093,
+                  229,
+                  1088
+                ],
+                "text": "Document is signed",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      230,
+                      1040,
+                      485,
+                      1038,
+                      484,
+                      1090,
+                      230,
+                      1085
+                    ],
+                    "text": "Document",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      495,
+                      1038,
+                      541,
+                      1038,
+                      540,
+                      1091,
+                      494,
+                      1090
+                    ],
+                    "text": "is",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      555,
+                      1038,
+                      722,
+                      1039,
+                      721,
+                      1094,
+                      554,
+                      1092
+                    ],
+                    "text": "signed",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  166,
+                  1126,
+                  796,
+                  1126,
+                  796,
+                  1163,
+                  166,
+                  1164
+                ],
+                "text": "Your signature has been validated and the",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      167,
+                      1128,
+                      232,
+                      1128,
+                      233,
+                      1162,
+                      167,
+                      1161
+                    ],
+                    "text": "Your",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      240,
+                      1128,
+                      381,
+                      1127,
+                      382,
+                      1164,
+                      240,
+                      1162
+                    ],
+                    "text": "signature",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      388,
+                      1127,
+                      445,
+                      1126,
+                      446,
+                      1164,
+                      389,
+                      1164
+                    ],
+                    "text": "has",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      452,
+                      1126,
+                      527,
+                      1126,
+                      528,
+                      1164,
+                      453,
+                      1164
+                    ],
+                    "text": "been",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      535,
+                      1126,
+                      672,
+                      1126,
+                      673,
+                      1163,
+                      536,
+                      1164
+                    ],
+                    "text": "validated",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      679,
+                      1126,
+                      736,
+                      1126,
+                      737,
+                      1162,
+                      680,
+                      1163
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      743,
+                      1126,
+                      795,
+                      1126,
+                      796,
+                      1161,
+                      744,
+                      1162
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  84,
+                  1180,
+                  878,
+                  1181,
+                  878,
+                  1216,
+                  84,
+                  1216
+                ],
+                "text": "documents have been moved to the \"Pending\" queue",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      85,
+                      1183,
+                      248,
+                      1182,
+                      248,
+                      1215,
+                      85,
+                      1215
+                    ],
+                    "text": "documents",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      255,
+                      1182,
+                      328,
+                      1181,
+                      328,
+                      1216,
+                      255,
+                      1215
+                    ],
+                    "text": "have",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      335,
+                      1181,
+                      409,
+                      1181,
+                      409,
+                      1216,
+                      334,
+                      1216
+                    ],
+                    "text": "been",
+                    "confidence": 0.987
+                  },
+                  {
+                    "boundingBox": [
+                      417,
+                      1181,
+                      519,
+                      1181,
+                      518,
+                      1217,
+                      416,
+                      1216
+                    ],
+                    "text": "moved",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      526,
+                      1181,
+                      558,
+                      1181,
+                      557,
+                      1217,
+                      526,
+                      1217
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      565,
+                      1181,
+                      614,
+                      1181,
+                      614,
+                      1217,
+                      564,
+                      1217
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      622,
+                      1181,
+                      772,
+                      1181,
+                      771,
+                      1217,
+                      621,
+                      1217
+                    ],
+                    "text": "\"Pending\"",
+                    "confidence": 0.96
+                  },
+                  {
+                    "boundingBox": [
+                      779,
+                      1181,
+                      874,
+                      1182,
+                      873,
+                      1217,
+                      778,
+                      1217
+                    ],
+                    "text": "queue",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  414,
+                  1983,
+                  543,
+                  1983,
+                  543,
+                  2012,
+                  414,
+                  2012
+                ],
+                "text": "Continue",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      415,
+                      1984,
+                      541,
+                      1984,
+                      541,
+                      2013,
+                      415,
+                      2012
+                    ],
+                    "text": "Continue",
+                    "confidence": 0.994
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,943 @@
+{
+  "filename": "Screenshot_20251021-072154.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\norwegian\\Screenshot_20251021-072154.png",
+  "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072154.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:30:23.993166",
+  "ocr_result": {
+    "text": "07:21 & TS\n.\n.111 - 1001\n< Tilbake\nMin informasjon\nAccount\nUsername\n110978ANGTOR\nEmail\ntor@sildelaget.no\nPhone Number\n479 82 18810\nPersonal information\nFirst Name\nTor Christian1\nLast Name\nAngeltveit\nBirth date\n11/09/1978\nSave changes",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:30:21Z",
+      "lastUpdatedDateTime": "2025-10-21T08:30:22Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0.2061,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  83,
+                  60,
+                  370,
+                  59,
+                  370,
+                  93,
+                  83,
+                  94
+                ],
+                "text": "07:21 & TS",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      90,
+                      60,
+                      174,
+                      61,
+                      172,
+                      95,
+                      89,
+                      94
+                    ],
+                    "text": "07:21",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      192,
+                      61,
+                      213,
+                      61,
+                      212,
+                      95,
+                      190,
+                      95
+                    ],
+                    "text": "&",
+                    "confidence": 0.668
+                  },
+                  {
+                    "boundingBox": [
+                      294,
+                      60,
+                      364,
+                      59,
+                      362,
+                      93,
+                      292,
+                      94
+                    ],
+                    "text": "TS",
+                    "confidence": 0.105
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  385,
+                  60,
+                  413,
+                  59,
+                  414,
+                  92,
+                  386,
+                  92
+                ],
+                "text": ".",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      390,
+                      59,
+                      410,
+                      59,
+                      410,
+                      92,
+                      391,
+                      92
+                    ],
+                    "text": ".",
+                    "confidence": 0.662
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  705,
+                  62,
+                  872,
+                  59,
+                  874,
+                  92,
+                  706,
+                  100
+                ],
+                "text": ".111 - 1001",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      67,
+                      756,
+                      61,
+                      757,
+                      95,
+                      707,
+                      101
+                    ],
+                    "text": ".111",
+                    "confidence": 0.093
+                  },
+                  {
+                    "boundingBox": [
+                      770,
+                      60,
+                      790,
+                      59,
+                      791,
+                      93,
+                      771,
+                      94
+                    ],
+                    "text": "-",
+                    "confidence": 0.075
+                  },
+                  {
+                    "boundingBox": [
+                      812,
+                      59,
+                      872,
+                      62,
+                      872,
+                      92,
+                      813,
+                      92
+                    ],
+                    "text": "1001",
+                    "confidence": 0.803
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  43,
+                  180,
+                  200,
+                  180,
+                  199,
+                  212,
+                  43,
+                  212
+                ],
+                "text": "< Tilbake",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      45,
+                      182,
+                      63,
+                      182,
+                      61,
+                      212,
+                      44,
+                      212
+                    ],
+                    "text": "<",
+                    "confidence": 0.768
+                  },
+                  {
+                    "boundingBox": [
+                      93,
+                      181,
+                      198,
+                      182,
+                      199,
+                      213,
+                      91,
+                      213
+                    ],
+                    "text": "Tilbake",
+                    "confidence": 1
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  284,
+                  450,
+                  286,
+                  449,
+                  342,
+                  32,
+                  339
+                ],
+                "text": "Min informasjon",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      285,
+                      125,
+                      286,
+                      124,
+                      340,
+                      32,
+                      339
+                    ],
+                    "text": "Min",
+                    "confidence": 0.992
+                  },
+                  {
+                    "boundingBox": [
+                      137,
+                      286,
+                      444,
+                      287,
+                      443,
+                      342,
+                      136,
+                      341
+                    ],
+                    "text": "informasjon",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  426,
+                  181,
+                  425,
+                  181,
+                  459,
+                  34,
+                  460
+                ],
+                "text": "Account",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      427,
+                      179,
+                      426,
+                      179,
+                      459,
+                      34,
+                      460
+                    ],
+                    "text": "Account",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  516,
+                  189,
+                  517,
+                  189,
+                  548,
+                  33,
+                  546
+                ],
+                "text": "Username",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      517,
+                      184,
+                      519,
+                      184,
+                      548,
+                      33,
+                      547
+                    ],
+                    "text": "Username",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  70,
+                  617,
+                  348,
+                  618,
+                  348,
+                  653,
+                  70,
+                  652
+                ],
+                "text": "110978ANGTOR",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      73,
+                      618,
+                      339,
+                      619,
+                      341,
+                      653,
+                      73,
+                      653
+                    ],
+                    "text": "110978ANGTOR",
+                    "confidence": 0.992
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  743,
+                  119,
+                  745,
+                  119,
+                  778,
+                  32,
+                  777
+                ],
+                "text": "Email",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      32,
+                      743,
+                      118,
+                      744,
+                      118,
+                      778,
+                      32,
+                      776
+                    ],
+                    "text": "Email",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  70,
+                  847,
+                  375,
+                  848,
+                  375,
+                  889,
+                  70,
+                  887
+                ],
+                "text": "tor@sildelaget.no",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      71,
+                      848,
+                      371,
+                      850,
+                      372,
+                      888,
+                      70,
+                      888
+                    ],
+                    "text": "tor@sildelaget.no",
+                    "confidence": 0.855
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  974,
+                  258,
+                  975,
+                  257,
+                  1008,
+                  33,
+                  1007
+                ],
+                "text": "Phone Number",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      975,
+                      126,
+                      976,
+                      126,
+                      1009,
+                      34,
+                      1007
+                    ],
+                    "text": "Phone",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      134,
+                      976,
+                      257,
+                      977,
+                      257,
+                      1007,
+                      135,
+                      1009
+                    ],
+                    "text": "Number",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  69,
+                  1078,
+                  303,
+                  1078,
+                  303,
+                  1111,
+                  69,
+                  1112
+                ],
+                "text": "479 82 18810",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      70,
+                      1079,
+                      129,
+                      1079,
+                      128,
+                      1112,
+                      70,
+                      1112
+                    ],
+                    "text": "479",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      142,
+                      1079,
+                      184,
+                      1078,
+                      183,
+                      1113,
+                      142,
+                      1113
+                    ],
+                    "text": "82",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      197,
+                      1078,
+                      298,
+                      1078,
+                      298,
+                      1111,
+                      197,
+                      1112
+                    ],
+                    "text": "18810",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  1204,
+                  395,
+                  1205,
+                  395,
+                  1240,
+                  34,
+                  1240
+                ],
+                "text": "Personal information",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      1205,
+                      184,
+                      1205,
+                      184,
+                      1241,
+                      34,
+                      1241
+                    ],
+                    "text": "Personal",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      191,
+                      1205,
+                      389,
+                      1205,
+                      390,
+                      1241,
+                      191,
+                      1241
+                    ],
+                    "text": "information",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  1296,
+                  202,
+                  1297,
+                  201,
+                  1327,
+                  34,
+                  1325
+                ],
+                "text": "First Name",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      1296,
+                      104,
+                      1297,
+                      103,
+                      1327,
+                      35,
+                      1325
+                    ],
+                    "text": "First",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      110,
+                      1297,
+                      197,
+                      1299,
+                      197,
+                      1327,
+                      109,
+                      1327
+                    ],
+                    "text": "Name",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  70,
+                  1397,
+                  310,
+                  1398,
+                  310,
+                  1434,
+                  70,
+                  1432
+                ],
+                "text": "Tor Christian1",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      73,
+                      1397,
+                      126,
+                      1398,
+                      126,
+                      1433,
+                      72,
+                      1433
+                    ],
+                    "text": "Tor",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      133,
+                      1398,
+                      308,
+                      1399,
+                      310,
+                      1434,
+                      133,
+                      1434
+                    ],
+                    "text": "Christian1",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  1527,
+                  197,
+                  1527,
+                  197,
+                  1558,
+                  33,
+                  1558
+                ],
+                "text": "Last Name",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      1528,
+                      99,
+                      1528,
+                      99,
+                      1559,
+                      33,
+                      1558
+                    ],
+                    "text": "Last",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      105,
+                      1528,
+                      194,
+                      1528,
+                      194,
+                      1558,
+                      105,
+                      1559
+                    ],
+                    "text": "Name",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  70,
+                  1628,
+                  244,
+                  1627,
+                  245,
+                  1666,
+                  70,
+                  1667
+                ],
+                "text": "Angeltveit",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      73,
+                      1629,
+                      244,
+                      1627,
+                      245,
+                      1666,
+                      71,
+                      1666
+                    ],
+                    "text": "Angeltveit",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  1754,
+                  185,
+                  1755,
+                  185,
+                  1788,
+                  35,
+                  1787
+                ],
+                "text": "Birth date",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      1755,
+                      105,
+                      1755,
+                      105,
+                      1788,
+                      36,
+                      1787
+                    ],
+                    "text": "Birth",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      112,
+                      1755,
+                      181,
+                      1756,
+                      181,
+                      1789,
+                      112,
+                      1789
+                    ],
+                    "text": "date",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  72,
+                  1858,
+                  273,
+                  1858,
+                  273,
+                  1892,
+                  72,
+                  1892
+                ],
+                "text": "11/09/1978",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      73,
+                      1859,
+                      268,
+                      1858,
+                      268,
+                      1893,
+                      73,
+                      1893
+                    ],
+                    "text": "11/09/1978",
+                    "confidence": 0.971
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  365,
+                  1989,
+                  595,
+                  1990,
+                  594,
+                  2025,
+                  365,
+                  2023
+                ],
+                "text": "Save changes",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      366,
+                      1989,
+                      443,
+                      1989,
+                      443,
+                      2025,
+                      365,
+                      2024
+                    ],
+                    "text": "Save",
+                    "confidence": 0.985
+                  },
+                  {
+                    "boundingBox": [
+                      451,
+                      1989,
+                      591,
+                      1992,
+                      591,
+                      2026,
+                      450,
+                      2025
+                    ],
+                    "text": "changes",
+                    "confidence": 0.997
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

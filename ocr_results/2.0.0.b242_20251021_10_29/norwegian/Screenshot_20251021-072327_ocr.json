@@ -1,0 +1,411 @@
+{
+  "filename": "Screenshot_20251021-072327.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\norwegian\\Screenshot_20251021-072327.png",
+  "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-072327.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:30:42.030889",
+  "ocr_result": {
+    "text": "07:23 & MOT .\n.Ill ~ 100\nSign this document?\nAre you ready to sign NO-751-251015-297491?\nAvbryt\nSignèr",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:30:39Z",
+      "lastUpdatedDateTime": "2025-10-21T08:30:40Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": -0.2407,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  84,
+                  59,
+                  416,
+                  58,
+                  416,
+                  93,
+                  84,
+                  95
+                ],
+                "text": "07:23 & MOT .",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      90,
+                      59,
+                      174,
+                      60,
+                      174,
+                      95,
+                      90,
+                      93
+                    ],
+                    "text": "07:23",
+                    "confidence": 0.984
+                  },
+                  {
+                    "boundingBox": [
+                      197,
+                      61,
+                      218,
+                      61,
+                      218,
+                      95,
+                      196,
+                      95
+                    ],
+                    "text": "&",
+                    "confidence": 0.915
+                  },
+                  {
+                    "boundingBox": [
+                      250,
+                      61,
+                      373,
+                      59,
+                      374,
+                      92,
+                      250,
+                      95
+                    ],
+                    "text": "MOT",
+                    "confidence": 0.688
+                  },
+                  {
+                    "boundingBox": [
+                      391,
+                      59,
+                      413,
+                      59,
+                      414,
+                      90,
+                      392,
+                      91
+                    ],
+                    "text": ".",
+                    "confidence": 0.945
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  704,
+                  63,
+                  872,
+                  59,
+                  874,
+                  92,
+                  705,
+                  99
+                ],
+                "text": ".Ill ~ 100",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      67,
+                      755,
+                      61,
+                      756,
+                      96,
+                      706,
+                      100
+                    ],
+                    "text": ".Ill",
+                    "confidence": 0.181
+                  },
+                  {
+                    "boundingBox": [
+                      766,
+                      61,
+                      785,
+                      60,
+                      786,
+                      94,
+                      767,
+                      95
+                    ],
+                    "text": "~",
+                    "confidence": 0.023
+                  },
+                  {
+                    "boundingBox": [
+                      813,
+                      59,
+                      860,
+                      61,
+                      861,
+                      91,
+                      814,
+                      93
+                    ],
+                    "text": "100",
+                    "confidence": 0.946
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  220,
+                  1066,
+                  736,
+                  1062,
+                  737,
+                  1114,
+                  220,
+                  1119
+                ],
+                "text": "Sign this document?",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      220,
+                      1068,
+                      325,
+                      1065,
+                      325,
+                      1119,
+                      220,
+                      1119
+                    ],
+                    "text": "Sign",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      339,
+                      1065,
+                      438,
+                      1063,
+                      438,
+                      1119,
+                      340,
+                      1119
+                    ],
+                    "text": "this",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      449,
+                      1063,
+                      734,
+                      1064,
+                      735,
+                      1109,
+                      450,
+                      1119
+                    ],
+                    "text": "document?",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  123,
+                  1154,
+                  837,
+                  1152,
+                  837,
+                  1187,
+                  123,
+                  1191
+                ],
+                "text": "Are you ready to sign NO-751-251015-297491?",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      126,
+                      1155,
+                      172,
+                      1155,
+                      170,
+                      1191,
+                      123,
+                      1191
+                    ],
+                    "text": "Are",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      179,
+                      1155,
+                      235,
+                      1155,
+                      233,
+                      1191,
+                      177,
+                      1191
+                    ],
+                    "text": "you",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      242,
+                      1155,
+                      327,
+                      1154,
+                      325,
+                      1191,
+                      240,
+                      1191
+                    ],
+                    "text": "ready",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      334,
+                      1154,
+                      366,
+                      1154,
+                      365,
+                      1191,
+                      332,
+                      1191
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      373,
+                      1154,
+                      439,
+                      1154,
+                      437,
+                      1190,
+                      372,
+                      1191
+                    ],
+                    "text": "sign",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      446,
+                      1154,
+                      838,
+                      1152,
+                      837,
+                      1186,
+                      445,
+                      1190
+                    ],
+                    "text": "NO-751-251015-297491?",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  205,
+                  1982,
+                  296,
+                  1984,
+                  297,
+                  2016,
+                  203,
+                  2013
+                ],
+                "text": "Avbryt",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      203,
+                      1982,
+                      297,
+                      1984,
+                      296,
+                      2016,
+                      203,
+                      2013
+                    ],
+                    "text": "Avbryt",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  665,
+                  1981,
+                  756,
+                  1982,
+                  756,
+                  2016,
+                  664,
+                  2014
+                ],
+                "text": "Signèr",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      664,
+                      1981,
+                      755,
+                      1982,
+                      754,
+                      2016,
+                      664,
+                      2014
+                    ],
+                    "text": "Signèr",
+                    "confidence": 0.955
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

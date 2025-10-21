@@ -1,0 +1,3372 @@
+{
+  "filename": "Screenshot_20251021-074313.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\english\\Screenshot_20251021-074313.png",
+  "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074313.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:31:31.975467",
+  "ocr_result": {
+    "text": "07:43\n.\n.11 . 1001\nBack\nNO-852-251007-017775\nO\nConsignment Document\nCatch certification scheme for fishery products exported from Norway to the European Community under Articles 12 (4), 20 (4),\n14 (1) and 14 (2) of Council Regulation (EC) No 1005/2008 and Commission Regulation (EC) No 1010/2009 laying down the\ndetailed rules for the implementation of the same Regulation to replace the European Community catch certificate.\nDocument No\nIssued and validated electronically by\nNO-852-251007-017775\nNorges Sildesalgslag SA\nAddress\nTelephone number\nTelefax number\nPostboks 7065, NO-5020 BERGEN, Norway\n+47-55549500\n+47-\nConsignment document for producer declaration NO-854-251007-273660\nFrom producer Catchcertificate SA\nName and address of exporter\nSignature\nDate\nGrøntvedt Pelagic AS\nPostboks 158, NO-7142 UTHAUG, Norway\nThe original certificate, issued and validated electronically in accordance with the catch certification scheme for fishery products exported from Norway to the\nEuropean Community under Articles 12 (4) and 20 (4) of Council Regulation (EC) No 1005/2008 and Commission Regulation (EC) No 1010/2009 laying down the\ndetailed rules for the implementation of the same Regulation, is attached in the following the pages.\nRef: www.catchcertificate.no where the original electronic version may be accessed.\nDecline\nApprove & Sign",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:31:29Z",
+      "lastUpdatedDateTime": "2025-10-21T08:31:30Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  83,
+                  59,
+                  181,
+                  59,
+                  181,
+                  94,
+                  83,
+                  93
+                ],
+                "text": "07:43",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      85,
+                      60,
+                      173,
+                      59,
+                      172,
+                      95,
+                      84,
+                      92
+                    ],
+                    "text": "07:43",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  392,
+                  65,
+                  418,
+                  64,
+                  417,
+                  88,
+                  391,
+                  88
+                ],
+                "text": ".",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      401,
+                      64,
+                      415,
+                      64,
+                      416,
+                      88,
+                      402,
+                      88
+                    ],
+                    "text": ".",
+                    "confidence": 0.672
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  705,
+                  62,
+                  873,
+                  58,
+                  874,
+                  92,
+                  706,
+                  98
+                ],
+                "text": ".11 . 1001",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.859
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      65,
+                      740,
+                      62,
+                      741,
+                      97,
+                      706,
+                      99
+                    ],
+                    "text": ".11",
+                    "confidence": 0.083
+                  },
+                  {
+                    "boundingBox": [
+                      772,
+                      60,
+                      793,
+                      60,
+                      794,
+                      94,
+                      773,
+                      95
+                    ],
+                    "text": ".",
+                    "confidence": 0.076
+                  },
+                  {
+                    "boundingBox": [
+                      812,
+                      59,
+                      873,
+                      61,
+                      874,
+                      92,
+                      812,
+                      93
+                    ],
+                    "text": "1001",
+                    "confidence": 0.718
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  95,
+                  201,
+                  170,
+                  202,
+                  169,
+                  250,
+                  93,
+                  249
+                ],
+                "text": "Back",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      93,
+                      201,
+                      170,
+                      202,
+                      169,
+                      250,
+                      93,
+                      249
+                    ],
+                    "text": "Back",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  274,
+                  205,
+                  683,
+                  205,
+                  682,
+                  244,
+                  274,
+                  243
+                ],
+                "text": "NO-852-251007-017775",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      275,
+                      207,
+                      677,
+                      206,
+                      676,
+                      245,
+                      275,
+                      242
+                    ],
+                    "text": "NO-852-251007-017775",
+                    "confidence": 0.962
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  347,
+                  336,
+                  369,
+                  337,
+                  370,
+                  357,
+                  349,
+                  356
+                ],
+                "text": "O",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      349,
+                      336,
+                      361,
+                      337,
+                      360,
+                      356,
+                      348,
+                      356
+                    ],
+                    "text": "O",
+                    "confidence": 0.847
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  361,
+                  462,
+                  574,
+                  463,
+                  574,
+                  485,
+                  361,
+                  484
+                ],
+                "text": "Consignment Document",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      362,
+                      462,
+                      475,
+                      464,
+                      474,
+                      485,
+                      361,
+                      485
+                    ],
+                    "text": "Consignment",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      479,
+                      465,
+                      573,
+                      465,
+                      572,
+                      485,
+                      478,
+                      485
+                    ],
+                    "text": "Document",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  60,
+                  486,
+                  876,
+                  486,
+                  876,
+                  504,
+                  60,
+                  504
+                ],
+                "text": "Catch certification scheme for fishery products exported from Norway to the European Community under Articles 12 (4), 20 (4),",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      61,
+                      487,
+                      96,
+                      487,
+                      96,
+                      504,
+                      61,
+                      503
+                    ],
+                    "text": "Catch",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      100,
+                      487,
+                      177,
+                      487,
+                      177,
+                      504,
+                      99,
+                      504
+                    ],
+                    "text": "certification",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      180,
+                      487,
+                      226,
+                      487,
+                      225,
+                      504,
+                      180,
+                      504
+                    ],
+                    "text": "scheme",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      229,
+                      487,
+                      249,
+                      487,
+                      248,
+                      504,
+                      229,
+                      504
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      252,
+                      487,
+                      297,
+                      487,
+                      296,
+                      504,
+                      252,
+                      504
+                    ],
+                    "text": "fishery",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      300,
+                      487,
+                      357,
+                      487,
+                      356,
+                      504,
+                      299,
+                      504
+                    ],
+                    "text": "products",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      360,
+                      487,
+                      416,
+                      487,
+                      416,
+                      504,
+                      360,
+                      504
+                    ],
+                    "text": "exported",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      420,
+                      487,
+                      449,
+                      487,
+                      448,
+                      504,
+                      419,
+                      504
+                    ],
+                    "text": "from",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      454,
+                      487,
+                      505,
+                      487,
+                      504,
+                      504,
+                      453,
+                      504
+                    ],
+                    "text": "Norway",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      508,
+                      487,
+                      521,
+                      487,
+                      520,
+                      504,
+                      508,
+                      504
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      524,
+                      487,
+                      544,
+                      487,
+                      543,
+                      504,
+                      524,
+                      504
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      547,
+                      487,
+                      611,
+                      487,
+                      610,
+                      504,
+                      547,
+                      504
+                    ],
+                    "text": "European",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      614,
+                      487,
+                      691,
+                      487,
+                      690,
+                      504,
+                      614,
+                      504
+                    ],
+                    "text": "Community",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      694,
+                      487,
+                      733,
+                      487,
+                      732,
+                      504,
+                      694,
+                      504
+                    ],
+                    "text": "under",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      736,
+                      487,
+                      785,
+                      487,
+                      785,
+                      504,
+                      736,
+                      504
+                    ],
+                    "text": "Articles",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      788,
+                      487,
+                      803,
+                      487,
+                      803,
+                      504,
+                      788,
+                      504
+                    ],
+                    "text": "12",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      807,
+                      487,
+                      828,
+                      487,
+                      828,
+                      504,
+                      806,
+                      504
+                    ],
+                    "text": "(4),",
+                    "confidence": 0.979
+                  },
+                  {
+                    "boundingBox": [
+                      832,
+                      487,
+                      847,
+                      487,
+                      846,
+                      504,
+                      831,
+                      504
+                    ],
+                    "text": "20",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      850,
+                      487,
+                      876,
+                      487,
+                      876,
+                      504,
+                      850,
+                      504
+                    ],
+                    "text": "(4),",
+                    "confidence": 0.981
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  78,
+                  503,
+                  858,
+                  503,
+                  858,
+                  520,
+                  78,
+                  520
+                ],
+                "text": "14 (1) and 14 (2) of Council Regulation (EC) No 1005/2008 and Commission Regulation (EC) No 1010/2009 laying down the",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      79,
+                      504,
+                      91,
+                      504,
+                      91,
+                      521,
+                      79,
+                      521
+                    ],
+                    "text": "14",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      94,
+                      504,
+                      112,
+                      504,
+                      112,
+                      521,
+                      94,
+                      521
+                    ],
+                    "text": "(1)",
+                    "confidence": 0.981
+                  },
+                  {
+                    "boundingBox": [
+                      115,
+                      504,
+                      139,
+                      504,
+                      139,
+                      521,
+                      115,
+                      521
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      143,
+                      504,
+                      158,
+                      504,
+                      158,
+                      521,
+                      143,
+                      521
+                    ],
+                    "text": "14",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      161,
+                      504,
+                      179,
+                      504,
+                      179,
+                      521,
+                      161,
+                      521
+                    ],
+                    "text": "(2)",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      182,
+                      504,
+                      196,
+                      504,
+                      196,
+                      521,
+                      182,
+                      521
+                    ],
+                    "text": "of",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      199,
+                      504,
+                      248,
+                      503,
+                      248,
+                      521,
+                      199,
+                      521
+                    ],
+                    "text": "Council",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      251,
+                      503,
+                      322,
+                      503,
+                      322,
+                      521,
+                      251,
+                      521
+                    ],
+                    "text": "Regulation",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      325,
+                      503,
+                      355,
+                      503,
+                      355,
+                      521,
+                      325,
+                      521
+                    ],
+                    "text": "(EC)",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      358,
+                      503,
+                      377,
+                      503,
+                      377,
+                      521,
+                      358,
+                      521
+                    ],
+                    "text": "No",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      381,
+                      503,
+                      445,
+                      503,
+                      445,
+                      521,
+                      380,
+                      521
+                    ],
+                    "text": "1005/2008",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      448,
+                      503,
+                      472,
+                      503,
+                      472,
+                      521,
+                      448,
+                      521
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      476,
+                      503,
+                      554,
+                      503,
+                      554,
+                      521,
+                      475,
+                      521
+                    ],
+                    "text": "Commission",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      558,
+                      503,
+                      627,
+                      503,
+                      627,
+                      521,
+                      557,
+                      521
+                    ],
+                    "text": "Regulation",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      631,
+                      503,
+                      661,
+                      504,
+                      660,
+                      520,
+                      630,
+                      521
+                    ],
+                    "text": "(EC)",
+                    "confidence": 0.987
+                  },
+                  {
+                    "boundingBox": [
+                      664,
+                      504,
+                      683,
+                      504,
+                      682,
+                      520,
+                      663,
+                      520
+                    ],
+                    "text": "No",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      686,
+                      504,
+                      749,
+                      504,
+                      749,
+                      520,
+                      686,
+                      520
+                    ],
+                    "text": "1010/2009",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      752,
+                      504,
+                      792,
+                      504,
+                      792,
+                      520,
+                      752,
+                      520
+                    ],
+                    "text": "laying",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      796,
+                      504,
+                      831,
+                      504,
+                      830,
+                      520,
+                      795,
+                      520
+                    ],
+                    "text": "down",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      834,
+                      504,
+                      857,
+                      505,
+                      857,
+                      520,
+                      834,
+                      520
+                    ],
+                    "text": "the",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  103,
+                  520,
+                  832,
+                  520,
+                  832,
+                  537,
+                  103,
+                  537
+                ],
+                "text": "detailed rules for the implementation of the same Regulation to replace the European Community catch certificate.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      103,
+                      521,
+                      152,
+                      521,
+                      152,
+                      537,
+                      103,
+                      536
+                    ],
+                    "text": "detailed",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      155,
+                      521,
+                      188,
+                      521,
+                      188,
+                      537,
+                      155,
+                      537
+                    ],
+                    "text": "rules",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      191,
+                      521,
+                      210,
+                      521,
+                      210,
+                      537,
+                      191,
+                      537
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      214,
+                      521,
+                      233,
+                      520,
+                      233,
+                      537,
+                      213,
+                      537
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      236,
+                      520,
+                      337,
+                      520,
+                      337,
+                      537,
+                      236,
+                      537
+                    ],
+                    "text": "implementation",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      340,
+                      520,
+                      353,
+                      520,
+                      353,
+                      537,
+                      340,
+                      537
+                    ],
+                    "text": "of",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      356,
+                      520,
+                      376,
+                      520,
+                      375,
+                      538,
+                      356,
+                      538
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      379,
+                      520,
+                      412,
+                      520,
+                      412,
+                      538,
+                      379,
+                      538
+                    ],
+                    "text": "same",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      416,
+                      520,
+                      485,
+                      520,
+                      485,
+                      538,
+                      415,
+                      538
+                    ],
+                    "text": "Regulation",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      489,
+                      520,
+                      501,
+                      520,
+                      500,
+                      538,
+                      488,
+                      538
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      504,
+                      520,
+                      551,
+                      520,
+                      550,
+                      538,
+                      503,
+                      538
+                    ],
+                    "text": "replace",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      554,
+                      520,
+                      575,
+                      520,
+                      574,
+                      538,
+                      554,
+                      538
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      578,
+                      520,
+                      640,
+                      521,
+                      640,
+                      537,
+                      577,
+                      538
+                    ],
+                    "text": "European",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      644,
+                      521,
+                      720,
+                      521,
+                      719,
+                      537,
+                      643,
+                      537
+                    ],
+                    "text": "Community",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      723,
+                      521,
+                      757,
+                      521,
+                      757,
+                      537,
+                      722,
+                      537
+                    ],
+                    "text": "catch",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      761,
+                      521,
+                      832,
+                      522,
+                      831,
+                      536,
+                      760,
+                      537
+                    ],
+                    "text": "certificate.",
+                    "confidence": 0.992
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  52,
+                  555,
+                  129,
+                  555,
+                  129,
+                  568,
+                  52,
+                  568
+                ],
+                "text": "Document No",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      53,
+                      556,
+                      108,
+                      555,
+                      108,
+                      569,
+                      53,
+                      569
+                    ],
+                    "text": "Document",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      111,
+                      555,
+                      128,
+                      555,
+                      128,
+                      569,
+                      110,
+                      569
+                    ],
+                    "text": "No",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  325,
+                  555,
+                  524,
+                  555,
+                  524,
+                  568,
+                  325,
+                  569
+                ],
+                "text": "Issued and validated electronically by",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      326,
+                      555,
+                      362,
+                      555,
+                      362,
+                      569,
+                      325,
+                      569
+                    ],
+                    "text": "Issued",
+                    "confidence": 0.947
+                  },
+                  {
+                    "boundingBox": [
+                      365,
+                      555,
+                      385,
+                      555,
+                      384,
+                      569,
+                      364,
+                      569
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      387,
+                      555,
+                      437,
+                      555,
+                      436,
+                      569,
+                      387,
+                      569
+                    ],
+                    "text": "validated",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      439,
+                      555,
+                      508,
+                      556,
+                      507,
+                      569,
+                      438,
+                      569
+                    ],
+                    "text": "electronically",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      511,
+                      556,
+                      525,
+                      556,
+                      523,
+                      569,
+                      510,
+                      569
+                    ],
+                    "text": "by",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  55,
+                  570,
+                  202,
+                  571,
+                  202,
+                  586,
+                  55,
+                  585
+                ],
+                "text": "NO-852-251007-017775",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      55,
+                      571,
+                      200,
+                      571,
+                      200,
+                      587,
+                      55,
+                      586
+                    ],
+                    "text": "NO-852-251007-017775",
+                    "confidence": 0.955
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  327,
+                  570,
+                  473,
+                  571,
+                  473,
+                  588,
+                  327,
+                  587
+                ],
+                "text": "Norges Sildesalgslag SA",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      328,
+                      571,
+                      369,
+                      572,
+                      369,
+                      588,
+                      327,
+                      587
+                    ],
+                    "text": "Norges",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      373,
+                      572,
+                      452,
+                      572,
+                      451,
+                      588,
+                      372,
+                      588
+                    ],
+                    "text": "Sildesalgslag",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      456,
+                      572,
+                      473,
+                      572,
+                      472,
+                      588,
+                      455,
+                      588
+                    ],
+                    "text": "SA",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  53,
+                  590,
+                  101,
+                  590,
+                  101,
+                  603,
+                  53,
+                  604
+                ],
+                "text": "Address",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      54,
+                      590,
+                      100,
+                      590,
+                      99,
+                      603,
+                      54,
+                      604
+                    ],
+                    "text": "Address",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  474,
+                  590,
+                  576,
+                  590,
+                  576,
+                  602,
+                  474,
+                  603
+                ],
+                "text": "Telephone number",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      476,
+                      591,
+                      531,
+                      591,
+                      530,
+                      603,
+                      475,
+                      603
+                    ],
+                    "text": "Telephone",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      533,
+                      591,
+                      576,
+                      591,
+                      576,
+                      603,
+                      533,
+                      603
+                    ],
+                    "text": "number",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  685,
+                  591,
+                  770,
+                  591,
+                  770,
+                  602,
+                  685,
+                  602
+                ],
+                "text": "Telefax number",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      686,
+                      591,
+                      724,
+                      591,
+                      724,
+                      602,
+                      686,
+                      602
+                    ],
+                    "text": "Telefax",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      727,
+                      591,
+                      769,
+                      591,
+                      769,
+                      603,
+                      726,
+                      602
+                    ],
+                    "text": "number",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  54,
+                  606,
+                  316,
+                  607,
+                  316,
+                  623,
+                  54,
+                  623
+                ],
+                "text": "Postboks 7065, NO-5020 BERGEN, Norway",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      55,
+                      607,
+                      109,
+                      607,
+                      108,
+                      623,
+                      54,
+                      624
+                    ],
+                    "text": "Postboks",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      112,
+                      607,
+                      145,
+                      607,
+                      145,
+                      622,
+                      111,
+                      623
+                    ],
+                    "text": "7065,",
+                    "confidence": 0.992
+                  },
+                  {
+                    "boundingBox": [
+                      149,
+                      607,
+                      204,
+                      607,
+                      203,
+                      622,
+                      148,
+                      622
+                    ],
+                    "text": "NO-5020",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      207,
+                      607,
+                      267,
+                      607,
+                      267,
+                      623,
+                      206,
+                      622
+                    ],
+                    "text": "BERGEN,",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      270,
+                      607,
+                      317,
+                      608,
+                      316,
+                      624,
+                      270,
+                      623
+                    ],
+                    "text": "Norway",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  475,
+                  609,
+                  563,
+                  609,
+                  563,
+                  621,
+                  475,
+                  621
+                ],
+                "text": "+47-55549500",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      477,
+                      610,
+                      561,
+                      609,
+                      561,
+                      621,
+                      476,
+                      621
+                    ],
+                    "text": "+47-55549500",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  687,
+                  610,
+                  713,
+                  609,
+                  713,
+                  620,
+                  686,
+                  620
+                ],
+                "text": "+47-",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      686,
+                      609,
+                      712,
+                      609,
+                      712,
+                      619,
+                      686,
+                      620
+                    ],
+                    "text": "+47-",
+                    "confidence": 0.986
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  54,
+                  661,
+                  527,
+                  661,
+                  527,
+                  677,
+                  54,
+                  678
+                ],
+                "text": "Consignment document for producer declaration NO-854-251007-273660",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      55,
+                      662,
+                      141,
+                      661,
+                      141,
+                      678,
+                      55,
+                      679
+                    ],
+                    "text": "Consignment",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      145,
+                      661,
+                      211,
+                      661,
+                      211,
+                      678,
+                      145,
+                      678
+                    ],
+                    "text": "document",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      214,
+                      661,
+                      232,
+                      661,
+                      232,
+                      678,
+                      214,
+                      678
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      235,
+                      661,
+                      295,
+                      661,
+                      295,
+                      678,
+                      235,
+                      678
+                    ],
+                    "text": "producer",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      298,
+                      661,
+                      372,
+                      661,
+                      372,
+                      678,
+                      298,
+                      678
+                    ],
+                    "text": "declaration",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      379,
+                      661,
+                      525,
+                      662,
+                      525,
+                      678,
+                      378,
+                      678
+                    ],
+                    "text": "NO-854-251007-273660",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  54,
+                  678,
+                  275,
+                  678,
+                  275,
+                  694,
+                  54,
+                  694
+                ],
+                "text": "From producer Catchcertificate SA",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      55,
+                      678,
+                      85,
+                      679,
+                      85,
+                      695,
+                      55,
+                      695
+                    ],
+                    "text": "From",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      92,
+                      679,
+                      154,
+                      679,
+                      154,
+                      694,
+                      92,
+                      695
+                    ],
+                    "text": "producer",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      157,
+                      679,
+                      251,
+                      679,
+                      250,
+                      694,
+                      157,
+                      694
+                    ],
+                    "text": "Catchcertificate",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      254,
+                      679,
+                      273,
+                      679,
+                      272,
+                      694,
+                      253,
+                      694
+                    ],
+                    "text": "SA",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  50,
+                  1419,
+                  213,
+                  1419,
+                  213,
+                  1433,
+                  50,
+                  1433
+                ],
+                "text": "Name and address of exporter",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      51,
+                      1420,
+                      83,
+                      1420,
+                      82,
+                      1433,
+                      51,
+                      1433
+                    ],
+                    "text": "Name",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      85,
+                      1420,
+                      106,
+                      1420,
+                      106,
+                      1433,
+                      85,
+                      1433
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      109,
+                      1420,
+                      152,
+                      1420,
+                      151,
+                      1433,
+                      109,
+                      1433
+                    ],
+                    "text": "address",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      154,
+                      1420,
+                      164,
+                      1420,
+                      164,
+                      1433,
+                      154,
+                      1433
+                    ],
+                    "text": "of",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      167,
+                      1420,
+                      213,
+                      1419,
+                      213,
+                      1434,
+                      167,
+                      1433
+                    ],
+                    "text": "exporter",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  350,
+                  1419,
+                  405,
+                  1419,
+                  405,
+                  1433,
+                  350,
+                  1433
+                ],
+                "text": "Signature",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      351,
+                      1420,
+                      403,
+                      1420,
+                      404,
+                      1434,
+                      351,
+                      1433
+                    ],
+                    "text": "Signature",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  648,
+                  1419,
+                  675,
+                  1419,
+                  675,
+                  1431,
+                  648,
+                  1432
+                ],
+                "text": "Date",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      648,
+                      1419,
+                      675,
+                      1419,
+                      675,
+                      1431,
+                      648,
+                      1432
+                    ],
+                    "text": "Date",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  55,
+                  1440,
+                  182,
+                  1439,
+                  182,
+                  1454,
+                  55,
+                  1455
+                ],
+                "text": "Grøntvedt Pelagic AS",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      56,
+                      1440,
+                      113,
+                      1440,
+                      112,
+                      1456,
+                      56,
+                      1455
+                    ],
+                    "text": "Grøntvedt",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      116,
+                      1440,
+                      161,
+                      1440,
+                      159,
+                      1455,
+                      115,
+                      1455
+                    ],
+                    "text": "Pelagic",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      164,
+                      1440,
+                      182,
+                      1439,
+                      180,
+                      1455,
+                      162,
+                      1455
+                    ],
+                    "text": "AS",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  53,
+                  1457,
+                  312,
+                  1457,
+                  312,
+                  1475,
+                  53,
+                  1474
+                ],
+                "text": "Postboks 158, NO-7142 UTHAUG, Norway",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      54,
+                      1458,
+                      108,
+                      1458,
+                      109,
+                      1474,
+                      54,
+                      1475
+                    ],
+                    "text": "Postboks",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      112,
+                      1458,
+                      137,
+                      1458,
+                      138,
+                      1474,
+                      112,
+                      1474
+                    ],
+                    "text": "158,",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      141,
+                      1458,
+                      195,
+                      1458,
+                      196,
+                      1475,
+                      141,
+                      1474
+                    ],
+                    "text": "NO-7142",
+                    "confidence": 0.992
+                  },
+                  {
+                    "boundingBox": [
+                      199,
+                      1458,
+                      258,
+                      1458,
+                      258,
+                      1475,
+                      199,
+                      1475
+                    ],
+                    "text": "UTHAUG,",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      261,
+                      1458,
+                      310,
+                      1458,
+                      311,
+                      1476,
+                      262,
+                      1475
+                    ],
+                    "text": "Norway",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  55,
+                  1534,
+                  860,
+                  1534,
+                  860,
+                  1546,
+                  55,
+                  1546
+                ],
+                "text": "The original certificate, issued and validated electronically in accordance with the catch certification scheme for fishery products exported from Norway to the",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      57,
+                      1534,
+                      75,
+                      1534,
+                      74,
+                      1547,
+                      56,
+                      1547
+                    ],
+                    "text": "The",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      77,
+                      1534,
+                      117,
+                      1534,
+                      116,
+                      1546,
+                      76,
+                      1547
+                    ],
+                    "text": "original",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      119,
+                      1534,
+                      176,
+                      1534,
+                      175,
+                      1546,
+                      119,
+                      1546
+                    ],
+                    "text": "certificate,",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      179,
+                      1534,
+                      210,
+                      1534,
+                      210,
+                      1546,
+                      178,
+                      1546
+                    ],
+                    "text": "issued",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      213,
+                      1534,
+                      233,
+                      1534,
+                      232,
+                      1546,
+                      212,
+                      1546
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      235,
+                      1534,
+                      282,
+                      1534,
+                      282,
+                      1546,
+                      235,
+                      1546
+                    ],
+                    "text": "validated",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      285,
+                      1534,
+                      353,
+                      1534,
+                      352,
+                      1546,
+                      284,
+                      1546
+                    ],
+                    "text": "electronically",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      355,
+                      1534,
+                      366,
+                      1534,
+                      365,
+                      1546,
+                      355,
+                      1546
+                    ],
+                    "text": "in",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      368,
+                      1534,
+                      427,
+                      1534,
+                      426,
+                      1546,
+                      368,
+                      1546
+                    ],
+                    "text": "accordance",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      429,
+                      1534,
+                      451,
+                      1534,
+                      451,
+                      1546,
+                      429,
+                      1546
+                    ],
+                    "text": "with",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      454,
+                      1534,
+                      470,
+                      1534,
+                      469,
+                      1546,
+                      453,
+                      1546
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      472,
+                      1534,
+                      500,
+                      1534,
+                      499,
+                      1547,
+                      472,
+                      1546
+                    ],
+                    "text": "catch",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      502,
+                      1534,
+                      564,
+                      1534,
+                      564,
+                      1547,
+                      502,
+                      1547
+                    ],
+                    "text": "certification",
+                    "confidence": 0.992
+                  },
+                  {
+                    "boundingBox": [
+                      566,
+                      1534,
+                      604,
+                      1534,
+                      603,
+                      1547,
+                      566,
+                      1547
+                    ],
+                    "text": "scheme",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      606,
+                      1534,
+                      622,
+                      1534,
+                      622,
+                      1547,
+                      606,
+                      1547
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      625,
+                      1534,
+                      660,
+                      1534,
+                      659,
+                      1547,
+                      624,
+                      1547
+                    ],
+                    "text": "fishery",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      662,
+                      1534,
+                      708,
+                      1534,
+                      707,
+                      1547,
+                      662,
+                      1547
+                    ],
+                    "text": "products",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      710,
+                      1534,
+                      755,
+                      1534,
+                      755,
+                      1547,
+                      710,
+                      1547
+                    ],
+                    "text": "exported",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      758,
+                      1534,
+                      780,
+                      1534,
+                      779,
+                      1547,
+                      758,
+                      1547
+                    ],
+                    "text": "from",
+                    "confidence": 0.988
+                  },
+                  {
+                    "boundingBox": [
+                      786,
+                      1534,
+                      827,
+                      1534,
+                      827,
+                      1547,
+                      786,
+                      1547
+                    ],
+                    "text": "Norway",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      829,
+                      1534,
+                      839,
+                      1534,
+                      839,
+                      1547,
+                      829,
+                      1547
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      841,
+                      1534,
+                      860,
+                      1534,
+                      860,
+                      1547,
+                      841,
+                      1547
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  54,
+                  1546,
+                  873,
+                  1546,
+                  873,
+                  1561,
+                  54,
+                  1561
+                ],
+                "text": "European Community under Articles 12 (4) and 20 (4) of Council Regulation (EC) No 1005/2008 and Commission Regulation (EC) No 1010/2009 laying down the",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      55,
+                      1547,
+                      104,
+                      1547,
+                      104,
+                      1561,
+                      54,
+                      1561
+                    ],
+                    "text": "European",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      107,
+                      1547,
+                      167,
+                      1546,
+                      167,
+                      1561,
+                      107,
+                      1561
+                    ],
+                    "text": "Community",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      170,
+                      1546,
+                      201,
+                      1546,
+                      201,
+                      1561,
+                      170,
+                      1561
+                    ],
+                    "text": "under",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      204,
+                      1546,
+                      244,
+                      1546,
+                      243,
+                      1561,
+                      203,
+                      1561
+                    ],
+                    "text": "Articles",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      246,
+                      1546,
+                      258,
+                      1546,
+                      258,
+                      1561,
+                      246,
+                      1561
+                    ],
+                    "text": "12",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      261,
+                      1546,
+                      275,
+                      1546,
+                      274,
+                      1561,
+                      261,
+                      1561
+                    ],
+                    "text": "(4)",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      277,
+                      1546,
+                      297,
+                      1546,
+                      297,
+                      1561,
+                      277,
+                      1561
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      300,
+                      1546,
+                      311,
+                      1546,
+                      311,
+                      1561,
+                      299,
+                      1561
+                    ],
+                    "text": "20",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      314,
+                      1546,
+                      328,
+                      1546,
+                      328,
+                      1561,
+                      314,
+                      1561
+                    ],
+                    "text": "(4)",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      331,
+                      1546,
+                      344,
+                      1546,
+                      344,
+                      1561,
+                      330,
+                      1561
+                    ],
+                    "text": "of",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      347,
+                      1546,
+                      387,
+                      1546,
+                      387,
+                      1561,
+                      347,
+                      1561
+                    ],
+                    "text": "Council",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      390,
+                      1546,
+                      445,
+                      1546,
+                      445,
+                      1561,
+                      390,
+                      1561
+                    ],
+                    "text": "Regulation",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      448,
+                      1546,
+                      472,
+                      1546,
+                      472,
+                      1561,
+                      448,
+                      1561
+                    ],
+                    "text": "(EC)",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      475,
+                      1546,
+                      490,
+                      1546,
+                      489,
+                      1561,
+                      475,
+                      1561
+                    ],
+                    "text": "No",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      493,
+                      1546,
+                      543,
+                      1546,
+                      543,
+                      1561,
+                      492,
+                      1561
+                    ],
+                    "text": "1005/2008",
+                    "confidence": 0.984
+                  },
+                  {
+                    "boundingBox": [
+                      546,
+                      1546,
+                      566,
+                      1546,
+                      566,
+                      1561,
+                      546,
+                      1561
+                    ],
+                    "text": "and",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      569,
+                      1546,
+                      631,
+                      1546,
+                      631,
+                      1561,
+                      569,
+                      1561
+                    ],
+                    "text": "Commission",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      634,
+                      1546,
+                      689,
+                      1547,
+                      689,
+                      1561,
+                      634,
+                      1561
+                    ],
+                    "text": "Regulation",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      692,
+                      1547,
+                      716,
+                      1547,
+                      716,
+                      1561,
+                      692,
+                      1561
+                    ],
+                    "text": "(EC)",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      719,
+                      1547,
+                      734,
+                      1547,
+                      734,
+                      1561,
+                      719,
+                      1561
+                    ],
+                    "text": "No",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      737,
+                      1547,
+                      787,
+                      1547,
+                      787,
+                      1561,
+                      737,
+                      1561
+                    ],
+                    "text": "1010/2009",
+                    "confidence": 0.992
+                  },
+                  {
+                    "boundingBox": [
+                      790,
+                      1547,
+                      822,
+                      1547,
+                      822,
+                      1561,
+                      790,
+                      1561
+                    ],
+                    "text": "laying",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      825,
+                      1547,
+                      852,
+                      1547,
+                      852,
+                      1561,
+                      825,
+                      1561
+                    ],
+                    "text": "down",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      855,
+                      1547,
+                      873,
+                      1547,
+                      873,
+                      1561,
+                      855,
+                      1561
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  55,
+                  1560,
+                  556,
+                  1561,
+                  556,
+                  1574,
+                  55,
+                  1573
+                ],
+                "text": "detailed rules for the implementation of the same Regulation, is attached in the following the pages.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      56,
+                      1560,
+                      94,
+                      1560,
+                      94,
+                      1573,
+                      56,
+                      1573
+                    ],
+                    "text": "detailed",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      96,
+                      1560,
+                      122,
+                      1561,
+                      122,
+                      1574,
+                      96,
+                      1573
+                    ],
+                    "text": "rules",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      124,
+                      1561,
+                      141,
+                      1561,
+                      140,
+                      1574,
+                      124,
+                      1574
+                    ],
+                    "text": "for",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      143,
+                      1561,
+                      159,
+                      1561,
+                      159,
+                      1574,
+                      143,
+                      1574
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      162,
+                      1561,
+                      242,
+                      1561,
+                      241,
+                      1574,
+                      162,
+                      1574
+                    ],
+                    "text": "implementation",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      244,
+                      1561,
+                      254,
+                      1561,
+                      254,
+                      1574,
+                      244,
+                      1574
+                    ],
+                    "text": "of",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      257,
+                      1561,
+                      273,
+                      1561,
+                      273,
+                      1574,
+                      257,
+                      1574
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      276,
+                      1561,
+                      302,
+                      1561,
+                      302,
+                      1574,
+                      275,
+                      1574
+                    ],
+                    "text": "same",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      305,
+                      1561,
+                      363,
+                      1561,
+                      363,
+                      1574,
+                      304,
+                      1574
+                    ],
+                    "text": "Regulation,",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      366,
+                      1561,
+                      374,
+                      1561,
+                      374,
+                      1574,
+                      365,
+                      1574
+                    ],
+                    "text": "is",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      377,
+                      1561,
+                      420,
+                      1561,
+                      420,
+                      1574,
+                      377,
+                      1574
+                    ],
+                    "text": "attached",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      423,
+                      1561,
+                      434,
+                      1561,
+                      433,
+                      1574,
+                      422,
+                      1574
+                    ],
+                    "text": "in",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      436,
+                      1561,
+                      452,
+                      1561,
+                      452,
+                      1574,
+                      436,
+                      1574
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      455,
+                      1561,
+                      502,
+                      1561,
+                      501,
+                      1574,
+                      455,
+                      1574
+                    ],
+                    "text": "following",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      504,
+                      1561,
+                      520,
+                      1561,
+                      520,
+                      1574,
+                      504,
+                      1574
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      523,
+                      1561,
+                      556,
+                      1561,
+                      556,
+                      1574,
+                      523,
+                      1574
+                    ],
+                    "text": "pages.",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  457,
+                  1574,
+                  879,
+                  1574,
+                  879,
+                  1587,
+                  457,
+                  1586
+                ],
+                "text": "Ref: www.catchcertificate.no where the original electronic version may be accessed.",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      458,
+                      1575,
+                      479,
+                      1575,
+                      478,
+                      1586,
+                      458,
+                      1586
+                    ],
+                    "text": "Ref:",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      481,
+                      1575,
+                      603,
+                      1575,
+                      603,
+                      1587,
+                      481,
+                      1586
+                    ],
+                    "text": "www.catchcertificate.no",
+                    "confidence": 0.935
+                  },
+                  {
+                    "boundingBox": [
+                      606,
+                      1575,
+                      637,
+                      1575,
+                      637,
+                      1587,
+                      606,
+                      1587
+                    ],
+                    "text": "where",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      639,
+                      1575,
+                      655,
+                      1575,
+                      655,
+                      1587,
+                      639,
+                      1587
+                    ],
+                    "text": "the",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      658,
+                      1575,
+                      698,
+                      1575,
+                      698,
+                      1587,
+                      657,
+                      1587
+                    ],
+                    "text": "original",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      701,
+                      1575,
+                      751,
+                      1575,
+                      751,
+                      1587,
+                      700,
+                      1587
+                    ],
+                    "text": "electronic",
+                    "confidence": 0.986
+                  },
+                  {
+                    "boundingBox": [
+                      753,
+                      1575,
+                      790,
+                      1575,
+                      790,
+                      1587,
+                      753,
+                      1587
+                    ],
+                    "text": "version",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      793,
+                      1575,
+                      815,
+                      1575,
+                      814,
+                      1587,
+                      792,
+                      1587
+                    ],
+                    "text": "may",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      817,
+                      1575,
+                      829,
+                      1575,
+                      829,
+                      1587,
+                      816,
+                      1587
+                    ],
+                    "text": "be",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      832,
+                      1575,
+                      879,
+                      1575,
+                      879,
+                      1587,
+                      831,
+                      1587
+                    ],
+                    "text": "accessed.",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  246,
+                  1982,
+                  352,
+                  1982,
+                  352,
+                  2012,
+                  246,
+                  2012
+                ],
+                "text": "Decline",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      248,
+                      1983,
+                      348,
+                      1982,
+                      349,
+                      2013,
+                      246,
+                      2011
+                    ],
+                    "text": "Decline",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  494,
+                  1982,
+                  713,
+                  1982,
+                  714,
+                  2017,
+                  494,
+                  2019
+                ],
+                "text": "Approve & Sign",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      496,
+                      1983,
+                      611,
+                      1982,
+                      610,
+                      2018,
+                      494,
+                      2020
+                    ],
+                    "text": "Approve",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      618,
+                      1982,
+                      639,
+                      1982,
+                      639,
+                      2018,
+                      618,
+                      2018
+                    ],
+                    "text": "&",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      646,
+                      1982,
+                      713,
+                      1982,
+                      713,
+                      2018,
+                      646,
+                      2018
+                    ],
+                    "text": "Sign",
+                    "confidence": 0.99
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

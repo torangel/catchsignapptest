@@ -1,0 +1,229 @@
+{
+  "filename": "Screenshot_20251021-073255.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\norwegian\\Screenshot_20251021-073255.png",
+  "relative_path": "2.0.0.b242\\norwegian\\Screenshot_20251021-073255.png",
+  "expected_language": "norwegian",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:30:48.729257",
+  "ocr_result": {
+    "text": "07:32\n6 .\n.11 - 1001\nVelkommen tilbake",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:30:46Z",
+      "lastUpdatedDateTime": "2025-10-21T08:30:47Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  85,
+                  60,
+                  177,
+                  59,
+                  177,
+                  94,
+                  84,
+                  92
+                ],
+                "text": "07:32",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      84,
+                      59,
+                      171,
+                      59,
+                      171,
+                      94,
+                      84,
+                      93
+                    ],
+                    "text": "07:32",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  326,
+                  62,
+                  414,
+                  62,
+                  415,
+                  89,
+                  326,
+                  90
+                ],
+                "text": "6 .",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      336,
+                      63,
+                      352,
+                      63,
+                      352,
+                      90,
+                      337,
+                      91
+                    ],
+                    "text": "6",
+                    "confidence": 0.622
+                  },
+                  {
+                    "boundingBox": [
+                      399,
+                      63,
+                      414,
+                      62,
+                      414,
+                      89,
+                      399,
+                      89
+                    ],
+                    "text": ".",
+                    "confidence": 0.882
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  705,
+                  63,
+                  874,
+                  59,
+                  876,
+                  92,
+                  706,
+                  100
+                ],
+                "text": ".11 - 1001",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      67,
+                      744,
+                      63,
+                      745,
+                      97,
+                      707,
+                      101
+                    ],
+                    "text": ".11",
+                    "confidence": 0.094
+                  },
+                  {
+                    "boundingBox": [
+                      770,
+                      61,
+                      791,
+                      60,
+                      792,
+                      93,
+                      771,
+                      95
+                    ],
+                    "text": "-",
+                    "confidence": 0.06
+                  },
+                  {
+                    "boundingBox": [
+                      808,
+                      59,
+                      872,
+                      61,
+                      873,
+                      91,
+                      809,
+                      92
+                    ],
+                    "text": "1001",
+                    "confidence": 0.394
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  292,
+                  421,
+                  664,
+                  421,
+                  665,
+                  459,
+                  292,
+                  459
+                ],
+                "text": "Velkommen tilbake",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      294,
+                      421,
+                      517,
+                      421,
+                      516,
+                      459,
+                      293,
+                      460
+                    ],
+                    "text": "Velkommen",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      528,
+                      421,
+                      660,
+                      421,
+                      660,
+                      460,
+                      527,
+                      459
+                    ],
+                    "text": "tilbake",
+                    "confidence": 0.997
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

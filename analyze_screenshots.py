@@ -345,7 +345,7 @@ Make sure to include ALL pairs, even if no issues found. If errors are found (en
 ### IMPORTANT: Include Image Hyperlinks
 For each screenshot mentioned in the report, include a hyperlink to the actual image file using the relative_path from the OCR results. Format as:
 ```markdown
-**[Screenshot_filename.png](../relative/path/to/image.png)**
+**[Screenshot_filename.png](../../relative/path/to/image.png)**
 ```
 
 This allows reviewers to click directly to see the actual screenshot being analyzed.

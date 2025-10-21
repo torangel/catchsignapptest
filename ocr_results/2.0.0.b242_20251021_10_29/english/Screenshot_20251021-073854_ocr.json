@@ -1,0 +1,509 @@
+{
+  "filename": "Screenshot_20251021-073854.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\english\\Screenshot_20251021-073854.png",
+  "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-073854.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:30:51.836109",
+  "ocr_result": {
+    "text": "07:38\n.\n.Ill ~ 100\nCatchSign\nUsername\n110978angtor\n?\nPassword\n........\nContinue\nForgot your password?\nv2.0.0",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:30:49Z",
+      "lastUpdatedDateTime": "2025-10-21T08:30:50Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  82,
+                  59,
+                  182,
+                  59,
+                  182,
+                  94,
+                  82,
+                  94
+                ],
+                "text": "07:38",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      84,
+                      60,
+                      172,
+                      59,
+                      171,
+                      95,
+                      83,
+                      93
+                    ],
+                    "text": "07:38",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  383,
+                  61,
+                  416,
+                  61,
+                  417,
+                  90,
+                  383,
+                  90
+                ],
+                "text": ".",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      398,
+                      61,
+                      415,
+                      61,
+                      415,
+                      90,
+                      398,
+                      90
+                    ],
+                    "text": ".",
+                    "confidence": 0.788
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  705,
+                  62,
+                  875,
+                  59,
+                  876,
+                  92,
+                  706,
+                  98
+                ],
+                "text": ".Ill ~ 100",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      65,
+                      756,
+                      61,
+                      757,
+                      95,
+                      706,
+                      99
+                    ],
+                    "text": ".Ill",
+                    "confidence": 0.12
+                  },
+                  {
+                    "boundingBox": [
+                      768,
+                      61,
+                      787,
+                      60,
+                      787,
+                      94,
+                      768,
+                      95
+                    ],
+                    "text": "~",
+                    "confidence": 0.013
+                  },
+                  {
+                    "boundingBox": [
+                      811,
+                      59,
+                      860,
+                      60,
+                      861,
+                      92,
+                      812,
+                      93
+                    ],
+                    "text": "100",
+                    "confidence": 0.949
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  779,
+                  287,
+                  779,
+                  288,
+                  835,
+                  34,
+                  837
+                ],
+                "text": "CatchSign",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      780,
+                      283,
+                      780,
+                      282,
+                      837,
+                      34,
+                      838
+                    ],
+                    "text": "CatchSign",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  924,
+                  205,
+                  926,
+                  205,
+                  958,
+                  33,
+                  956
+                ],
+                "text": "Username",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      924,
+                      200,
+                      928,
+                      200,
+                      958,
+                      34,
+                      957
+                    ],
+                    "text": "Username",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  70,
+                  1026,
+                  311,
+                  1029,
+                  311,
+                  1064,
+                  69,
+                  1061
+                ],
+                "text": "110978angtor",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      73,
+                      1026,
+                      310,
+                      1030,
+                      310,
+                      1064,
+                      72,
+                      1062
+                    ],
+                    "text": "110978angtor",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  847,
+                  1025,
+                  890,
+                  1027,
+                  890,
+                  1063,
+                  848,
+                  1064
+                ],
+                "text": "?",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      857,
+                      1025,
+                      879,
+                      1025,
+                      879,
+                      1064,
+                      856,
+                      1064
+                    ],
+                    "text": "?",
+                    "confidence": 0.764
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  35,
+                  1152,
+                  200,
+                  1153,
+                  200,
+                  1188,
+                  34,
+                  1186
+                ],
+                "text": "Password",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      1152,
+                      196,
+                      1155,
+                      198,
+                      1187,
+                      35,
+                      1187
+                    ],
+                    "text": "Password",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  70,
+                  1263,
+                  178,
+                  1263,
+                  178,
+                  1280,
+                  70,
+                  1280
+                ],
+                "text": "........",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      71,
+                      1264,
+                      174,
+                      1265,
+                      174,
+                      1280,
+                      72,
+                      1281
+                    ],
+                    "text": "........",
+                    "confidence": 0.871
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  403,
+                  1736,
+                  555,
+                  1736,
+                  555,
+                  1771,
+                  403,
+                  1771
+                ],
+                "text": "Continue",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      405,
+                      1738,
+                      551,
+                      1737,
+                      552,
+                      1772,
+                      404,
+                      1770
+                    ],
+                    "text": "Continue",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  289,
+                  1880,
+                  669,
+                  1880,
+                  669,
+                  1919,
+                  289,
+                  1920
+                ],
+                "text": "Forgot your password?",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      289,
+                      1881,
+                      393,
+                      1882,
+                      393,
+                      1920,
+                      289,
+                      1920
+                    ],
+                    "text": "Forgot",
+                    "confidence": 0.997
+                  },
+                  {
+                    "boundingBox": [
+                      401,
+                      1882,
+                      478,
+                      1882,
+                      478,
+                      1920,
+                      401,
+                      1920
+                    ],
+                    "text": "your",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      485,
+                      1882,
+                      670,
+                      1882,
+                      670,
+                      1917,
+                      485,
+                      1920
+                    ],
+                    "text": "password?",
+                    "confidence": 0.993
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  435,
+                  2015,
+                  525,
+                  2013,
+                  525,
+                  2044,
+                  435,
+                  2045
+                ],
+                "text": "v2.0.0",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      436,
+                      2015,
+                      520,
+                      2014,
+                      520,
+                      2044,
+                      436,
+                      2045
+                    ],
+                    "text": "v2.0.0",
+                    "confidence": 0.997
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

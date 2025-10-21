@@ -1,0 +1,852 @@
+{
+  "filename": "Screenshot_20251021-074322.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\english\\Screenshot_20251021-074322.png",
+  "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074322.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:31:35.514827",
+  "ocr_result": {
+    "text": "07:43\n.\n0 .ill ~ 100\nBack\nNO-852-251007-017775\nO\n.-\nNordre N\nNesvegen\nNesvegen\nHavnen\nNeseO\nNessjøen\nHestes\nRaunholmane\n+\n+\n-\nGoogle\nDecline\nApprove & Sign",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:31:33Z",
+      "lastUpdatedDateTime": "2025-10-21T08:31:33Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  84,
+                  59,
+                  181,
+                  59,
+                  180,
+                  94,
+                  83,
+                  92
+                ],
+                "text": "07:43",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      85,
+                      59,
+                      173,
+                      59,
+                      172,
+                      94,
+                      84,
+                      93
+                    ],
+                    "text": "07:43",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  392,
+                  65,
+                  418,
+                  64,
+                  417,
+                  87,
+                  391,
+                  88
+                ],
+                "text": ".",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      400,
+                      65,
+                      414,
+                      64,
+                      415,
+                      87,
+                      401,
+                      88
+                    ],
+                    "text": ".",
+                    "confidence": 0.629
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  664,
+                  60,
+                  875,
+                  59,
+                  875,
+                  92,
+                  664,
+                  95
+                ],
+                "text": "0 .ill ~ 100",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      664,
+                      61,
+                      683,
+                      61,
+                      683,
+                      96,
+                      664,
+                      96
+                    ],
+                    "text": "0",
+                    "confidence": 0.439
+                  },
+                  {
+                    "boundingBox": [
+                      703,
+                      60,
+                      755,
+                      60,
+                      755,
+                      94,
+                      703,
+                      96
+                    ],
+                    "text": ".ill",
+                    "confidence": 0.05
+                  },
+                  {
+                    "boundingBox": [
+                      769,
+                      60,
+                      788,
+                      60,
+                      788,
+                      94,
+                      769,
+                      94
+                    ],
+                    "text": "~",
+                    "confidence": 0.007
+                  },
+                  {
+                    "boundingBox": [
+                      813,
+                      60,
+                      861,
+                      60,
+                      861,
+                      91,
+                      813,
+                      93
+                    ],
+                    "text": "100",
+                    "confidence": 0.92
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  95,
+                  201,
+                  171,
+                  203,
+                  170,
+                  251,
+                  93,
+                  249
+                ],
+                "text": "Back",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      94,
+                      201,
+                      171,
+                      203,
+                      170,
+                      251,
+                      93,
+                      249
+                    ],
+                    "text": "Back",
+                    "confidence": 0.988
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  271,
+                  205,
+                  683,
+                  205,
+                  683,
+                  244,
+                  271,
+                  244
+                ],
+                "text": "NO-852-251007-017775",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      273,
+                      207,
+                      680,
+                      205,
+                      679,
+                      245,
+                      271,
+                      243
+                    ],
+                    "text": "NO-852-251007-017775",
+                    "confidence": 0.972
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  348,
+                  336,
+                  369,
+                  338,
+                  369,
+                  358,
+                  349,
+                  356
+                ],
+                "text": "O",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      352,
+                      336,
+                      363,
+                      337,
+                      361,
+                      357,
+                      350,
+                      356
+                    ],
+                    "text": "O",
+                    "confidence": 0.85
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  850,
+                  336,
+                  849,
+                  362,
+                  833,
+                  362,
+                  834,
+                  336
+                ],
+                "text": ".-",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.769
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      850,
+                      338,
+                      849,
+                      362,
+                      833,
+                      361,
+                      834,
+                      338
+                    ],
+                    "text": ".-",
+                    "confidence": 0.738
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  694,
+                  494,
+                  718,
+                  397,
+                  743,
+                  403,
+                  718,
+                  500
+                ],
+                "text": "Nordre N",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      694,
+                      493,
+                      711,
+                      422,
+                      736,
+                      428,
+                      718,
+                      500
+                    ],
+                    "text": "Nordre",
+                    "confidence": 0.993
+                  },
+                  {
+                    "boundingBox": [
+                      713,
+                      417,
+                      716,
+                      404,
+                      741,
+                      409,
+                      738,
+                      423
+                    ],
+                    "text": "N",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  633,
+                  718,
+                  656,
+                  613,
+                  679,
+                  617,
+                  656,
+                  723
+                ],
+                "text": "Nesvegen",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      633,
+                      716,
+                      656,
+                      615,
+                      679,
+                      619,
+                      656,
+                      722
+                    ],
+                    "text": "Nesvegen",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  387,
+                  946,
+                  495,
+                  932,
+                  498,
+                  955,
+                  390,
+                  970
+                ],
+                "text": "Nesvegen",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      388,
+                      950,
+                      490,
+                      933,
+                      492,
+                      957,
+                      393,
+                      970
+                    ],
+                    "text": "Nesvegen",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  490,
+                  1075,
+                  589,
+                  1077,
+                  588,
+                  1102,
+                  490,
+                  1099
+                ],
+                "text": "Havnen",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      490,
+                      1076,
+                      582,
+                      1078,
+                      582,
+                      1102,
+                      490,
+                      1100
+                    ],
+                    "text": "Havnen",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  381,
+                  1142,
+                  494,
+                  1142,
+                  494,
+                  1172,
+                  381,
+                  1174
+                ],
+                "text": "NeseO",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      382,
+                      1143,
+                      480,
+                      1142,
+                      481,
+                      1172,
+                      382,
+                      1174
+                    ],
+                    "text": "NeseO",
+                    "confidence": 0.969
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  133,
+                  1303,
+                  287,
+                  1300,
+                  288,
+                  1345,
+                  133,
+                  1348
+                ],
+                "text": "Nessjøen",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      133,
+                      1304,
+                      284,
+                      1301,
+                      287,
+                      1346,
+                      133,
+                      1349
+                    ],
+                    "text": "Nessjøen",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  865,
+                  1286,
+                  955,
+                  1287,
+                  955,
+                  1314,
+                  864,
+                  1314
+                ],
+                "text": "Hestes",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      866,
+                      1287,
+                      954,
+                      1287,
+                      955,
+                      1315,
+                      865,
+                      1314
+                    ],
+                    "text": "Hestes",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  646,
+                  1412,
+                  864,
+                  1413,
+                  864,
+                  1448,
+                  645,
+                  1447
+                ],
+                "text": "Raunholmane",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      646,
+                      1412,
+                      860,
+                      1414,
+                      860,
+                      1449,
+                      646,
+                      1447
+                    ],
+                    "text": "Raunholmane",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  917,
+                  1713,
+                  917,
+                  1793,
+                  860,
+                  1795,
+                  860,
+                  1715
+                ],
+                "text": "+",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      917,
+                      1716,
+                      917,
+                      1749,
+                      860,
+                      1749,
+                      860,
+                      1716
+                    ],
+                    "text": "+",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  869,
+                  1719,
+                  910,
+                  1718,
+                  909,
+                  1758,
+                  868,
+                  1758
+                ],
+                "text": "+",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      872,
+                      1718,
+                      898,
+                      1718,
+                      899,
+                      1758,
+                      873,
+                      1758
+                    ],
+                    "text": "+",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  866,
+                  1810,
+                  914,
+                  1808,
+                  913,
+                  1838,
+                  866,
+                  1840
+                ],
+                "text": "-",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.915
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      866,
+                      1810,
+                      881,
+                      1809,
+                      882,
+                      1838,
+                      866,
+                      1839
+                    ],
+                    "text": "-",
+                    "confidence": 0.852
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  10,
+                  1845,
+                  140,
+                  1849,
+                  139,
+                  1890,
+                  9,
+                  1885
+                ],
+                "text": "Google",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      12,
+                      1846,
+                      137,
+                      1850,
+                      139,
+                      1890,
+                      9,
+                      1885
+                    ],
+                    "text": "Google",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  246,
+                  1982,
+                  353,
+                  1982,
+                  352,
+                  2013,
+                  246,
+                  2012
+                ],
+                "text": "Decline",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      248,
+                      1983,
+                      349,
+                      1982,
+                      350,
+                      2014,
+                      246,
+                      2010
+                    ],
+                    "text": "Decline",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  493,
+                  1981,
+                  714,
+                  1981,
+                  714,
+                  2017,
+                  493,
+                  2018
+                ],
+                "text": "Approve & Sign",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      496,
+                      1982,
+                      610,
+                      1982,
+                      609,
+                      2018,
+                      494,
+                      2019
+                    ],
+                    "text": "Approve",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      617,
+                      1982,
+                      638,
+                      1982,
+                      637,
+                      2018,
+                      616,
+                      2018
+                    ],
+                    "text": "&",
+                    "confidence": 0.981
+                  },
+                  {
+                    "boundingBox": [
+                      645,
+                      1982,
+                      713,
+                      1982,
+                      713,
+                      2018,
+                      645,
+                      2018
+                    ],
+                    "text": "Sign",
+                    "confidence": 0.991
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

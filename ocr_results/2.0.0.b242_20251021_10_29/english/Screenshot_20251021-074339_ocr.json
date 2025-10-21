@@ -1,0 +1,649 @@
+{
+  "filename": "Screenshot_20251021-074339.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\english\\Screenshot_20251021-074339.png",
+  "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074339.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:31:38.759448",
+  "ocr_result": {
+    "text": "07:43\n.\n.Ill ~ 100\nBack\nNO-852-251007-017775\nF\nO\nNO-852-251007-017775\nAvsender Catch Certificate\nSertifikat 017775\nSkip Consignment\nOpprettet 07-10-2025\nDecline\nApprove & Sign",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:31:36Z",
+      "lastUpdatedDateTime": "2025-10-21T08:31:37Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": -0.1016,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  84,
+                  59,
+                  181,
+                  59,
+                  180,
+                  94,
+                  83,
+                  92
+                ],
+                "text": "07:43",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      85,
+                      59,
+                      173,
+                      59,
+                      172,
+                      94,
+                      84,
+                      93
+                    ],
+                    "text": "07:43",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  392,
+                  65,
+                  418,
+                  64,
+                  417,
+                  88,
+                  391,
+                  88
+                ],
+                "text": ".",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      401,
+                      64,
+                      415,
+                      64,
+                      416,
+                      88,
+                      402,
+                      88
+                    ],
+                    "text": ".",
+                    "confidence": 0.672
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  705,
+                  62,
+                  874,
+                  59,
+                  876,
+                  92,
+                  706,
+                  98
+                ],
+                "text": ".Ill ~ 100",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.901
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      705,
+                      65,
+                      757,
+                      61,
+                      758,
+                      96,
+                      706,
+                      99
+                    ],
+                    "text": ".Ill",
+                    "confidence": 0.053
+                  },
+                  {
+                    "boundingBox": [
+                      766,
+                      61,
+                      785,
+                      60,
+                      786,
+                      94,
+                      767,
+                      95
+                    ],
+                    "text": "~",
+                    "confidence": 0.023
+                  },
+                  {
+                    "boundingBox": [
+                      812,
+                      59,
+                      860,
+                      60,
+                      861,
+                      92,
+                      813,
+                      93
+                    ],
+                    "text": "100",
+                    "confidence": 0.938
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  95,
+                  201,
+                  170,
+                  203,
+                  169,
+                  250,
+                  92,
+                  249
+                ],
+                "text": "Back",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      92,
+                      201,
+                      169,
+                      202,
+                      168,
+                      250,
+                      92,
+                      248
+                    ],
+                    "text": "Back",
+                    "confidence": 0.981
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  271,
+                  205,
+                  683,
+                  205,
+                  683,
+                  243,
+                  271,
+                  243
+                ],
+                "text": "NO-852-251007-017775",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      273,
+                      207,
+                      676,
+                      206,
+                      676,
+                      244,
+                      271,
+                      242
+                    ],
+                    "text": "NO-852-251007-017775",
+                    "confidence": 0.971
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  909,
+                  208,
+                  911,
+                  232,
+                  893,
+                  233,
+                  890,
+                  209
+                ],
+                "text": "F",
+                "appearance": {
+                  "style": {
+                    "name": "handwriting",
+                    "confidence": 0.793
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      909,
+                      210,
+                      911,
+                      222,
+                      892,
+                      224,
+                      890,
+                      212
+                    ],
+                    "text": "F",
+                    "confidence": 0.744
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  348,
+                  334,
+                  370,
+                  337,
+                  370,
+                  358,
+                  348,
+                  355
+                ],
+                "text": "O",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      352,
+                      334,
+                      363,
+                      336,
+                      360,
+                      356,
+                      349,
+                      354
+                    ],
+                    "text": "O",
+                    "confidence": 0.85
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  447,
+                  507,
+                  446,
+                  507,
+                  486,
+                  33,
+                  487
+                ],
+                "text": "NO-852-251007-017775",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      34,
+                      448,
+                      500,
+                      447,
+                      501,
+                      487,
+                      33,
+                      486
+                    ],
+                    "text": "NO-852-251007-017775",
+                    "confidence": 0.956
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  34,
+                  549,
+                  443,
+                  549,
+                  443,
+                  581,
+                  34,
+                  582
+                ],
+                "text": "Avsender Catch Certificate",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      35,
+                      551,
+                      173,
+                      549,
+                      173,
+                      582,
+                      35,
+                      582
+                    ],
+                    "text": "Avsender",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      184,
+                      549,
+                      271,
+                      549,
+                      271,
+                      582,
+                      184,
+                      582
+                    ],
+                    "text": "Catch",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      281,
+                      549,
+                      440,
+                      549,
+                      440,
+                      582,
+                      280,
+                      582
+                    ],
+                    "text": "Certificate",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  621,
+                  305,
+                  621,
+                  305,
+                  653,
+                  32,
+                  654
+                ],
+                "text": "Sertifikat 017775",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      621,
+                      177,
+                      622,
+                      176,
+                      653,
+                      33,
+                      655
+                    ],
+                    "text": "Sertifikat",
+                    "confidence": 0.995
+                  },
+                  {
+                    "boundingBox": [
+                      186,
+                      622,
+                      303,
+                      622,
+                      302,
+                      652,
+                      185,
+                      653
+                    ],
+                    "text": "017775",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  33,
+                  692,
+                  315,
+                  692,
+                  315,
+                  729,
+                  33,
+                  730
+                ],
+                "text": "Skip Consignment",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      36,
+                      693,
+                      98,
+                      693,
+                      96,
+                      731,
+                      33,
+                      731
+                    ],
+                    "text": "Skip",
+                    "confidence": 0.989
+                  },
+                  {
+                    "boundingBox": [
+                      113,
+                      693,
+                      315,
+                      694,
+                      315,
+                      729,
+                      111,
+                      731
+                    ],
+                    "text": "Consignment",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  32,
+                  766,
+                  369,
+                  764,
+                  370,
+                  798,
+                  32,
+                  802
+                ],
+                "text": "Opprettet 07-10-2025",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      33,
+                      767,
+                      178,
+                      766,
+                      178,
+                      801,
+                      33,
+                      803
+                    ],
+                    "text": "Opprettet",
+                    "confidence": 0.992
+                  },
+                  {
+                    "boundingBox": [
+                      185,
+                      765,
+                      365,
+                      764,
+                      365,
+                      797,
+                      185,
+                      800
+                    ],
+                    "text": "07-10-2025",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  246,
+                  1981,
+                  352,
+                  1981,
+                  352,
+                  2012,
+                  246,
+                  2012
+                ],
+                "text": "Decline",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      248,
+                      1983,
+                      349,
+                      1982,
+                      350,
+                      2013,
+                      246,
+                      2011
+                    ],
+                    "text": "Decline",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  494,
+                  1982,
+                  713,
+                  1982,
+                  713,
+                  2017,
+                  494,
+                  2019
+                ],
+                "text": "Approve & Sign",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      496,
+                      1982,
+                      611,
+                      1982,
+                      610,
+                      2018,
+                      494,
+                      2020
+                    ],
+                    "text": "Approve",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      618,
+                      1982,
+                      639,
+                      1982,
+                      639,
+                      2018,
+                      617,
+                      2018
+                    ],
+                    "text": "&",
+                    "confidence": 0.991
+                  },
+                  {
+                    "boundingBox": [
+                      646,
+                      1982,
+                      713,
+                      1982,
+                      713,
+                      2018,
+                      646,
+                      2018
+                    ],
+                    "text": "Sign",
+                    "confidence": 0.99
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

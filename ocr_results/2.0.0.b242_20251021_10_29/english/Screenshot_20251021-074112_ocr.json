@@ -1,0 +1,971 @@
+{
+  "filename": "Screenshot_20251021-074112.png",
+  "original_path": "C:\\kode\\cc\\CatchSignAppV2Analysis\\2.0.0.b242\\english\\Screenshot_20251021-074112.png",
+  "relative_path": "2.0.0.b242\\english\\Screenshot_20251021-074112.png",
+  "expected_language": "english",
+  "app_version": "2.0.0.b242",
+  "processing_timestamp": "2025-10-21T10:31:07.538100",
+  "ocr_result": {
+    "text": "07:41\n.\n.1 . 1001\nGood morning, Tor Christian1!\nTuesday 21 October 2025\nC\nNO-852-251007-017775\nReady to Sign\n017775\nConsignment\n2025-10-07\n19\nReady to Sign\n0\nPending\n3\nDeclined\n112\nCompleted\nHome\nDocuments\nProfile",
+    "confidence": 0.0,
+    "error": null,
+    "raw_response": {
+      "status": "succeeded",
+      "createdDateTime": "2025-10-21T08:31:05Z",
+      "lastUpdatedDateTime": "2025-10-21T08:31:06Z",
+      "analyzeResult": {
+        "version": "3.2.0",
+        "modelVersion": "2022-04-30",
+        "readResults": [
+          {
+            "page": 1,
+            "angle": 0,
+            "width": 960,
+            "height": 2142,
+            "unit": "pixel",
+            "lines": [
+              {
+                "boundingBox": [
+                  87,
+                  59,
+                  179,
+                  59,
+                  179,
+                  93,
+                  85,
+                  93
+                ],
+                "text": "07:41",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      85,
+                      59,
+                      172,
+                      59,
+                      172,
+                      93,
+                      85,
+                      93
+                    ],
+                    "text": "07:41",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  387,
+                  64,
+                  412,
+                  64,
+                  410,
+                  88,
+                  386,
+                  88
+                ],
+                "text": ".",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      395,
+                      64,
+                      409,
+                      64,
+                      409,
+                      88,
+                      395,
+                      88
+                    ],
+                    "text": ".",
+                    "confidence": 0.663
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  705,
+                  62,
+                  872,
+                  59,
+                  873,
+                  92,
+                  706,
+                  98
+                ],
+                "text": ".1 . 1001",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.859
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      706,
+                      64,
+                      741,
+                      62,
+                      741,
+                      96,
+                      706,
+                      99
+                    ],
+                    "text": ".1",
+                    "confidence": 0.076
+                  },
+                  {
+                    "boundingBox": [
+                      768,
+                      60,
+                      789,
+                      60,
+                      790,
+                      93,
+                      768,
+                      94
+                    ],
+                    "text": ".",
+                    "confidence": 0.129
+                  },
+                  {
+                    "boundingBox": [
+                      807,
+                      59,
+                      869,
+                      60,
+                      869,
+                      92,
+                      808,
+                      93
+                    ],
+                    "text": "1001",
+                    "confidence": 0.794
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  160,
+                  193,
+                  801,
+                  193,
+                  801,
+                  239,
+                  160,
+                  240
+                ],
+                "text": "Good morning, Tor Christian1!",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      161,
+                      194,
+                      265,
+                      194,
+                      265,
+                      239,
+                      160,
+                      237
+                    ],
+                    "text": "Good",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      278,
+                      194,
+                      474,
+                      194,
+                      474,
+                      240,
+                      277,
+                      240
+                    ],
+                    "text": "morning,",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      483,
+                      194,
+                      553,
+                      194,
+                      553,
+                      240,
+                      483,
+                      240
+                    ],
+                    "text": "Tor",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      562,
+                      194,
+                      800,
+                      193,
+                      801,
+                      235,
+                      562,
+                      240
+                    ],
+                    "text": "Christian1!",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  288,
+                  263,
+                  674,
+                  263,
+                  674,
+                  301,
+                  288,
+                  301
+                ],
+                "text": "Tuesday 21 October 2025",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      289,
+                      264,
+                      412,
+                      265,
+                      411,
+                      302,
+                      288,
+                      302
+                    ],
+                    "text": "Tuesday",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      419,
+                      265,
+                      458,
+                      265,
+                      457,
+                      301,
+                      418,
+                      302
+                    ],
+                    "text": "21",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      465,
+                      265,
+                      586,
+                      265,
+                      586,
+                      301,
+                      465,
+                      301
+                    ],
+                    "text": "October",
+                    "confidence": 0.996
+                  },
+                  {
+                    "boundingBox": [
+                      594,
+                      265,
+                      673,
+                      264,
+                      673,
+                      301,
+                      593,
+                      301
+                    ],
+                    "text": "2025",
+                    "confidence": 0.99
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  86,
+                  407,
+                  141,
+                  408,
+                  141,
+                  480,
+                  86,
+                  480
+                ],
+                "text": "C",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.945
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      90,
+                      407,
+                      132,
+                      407,
+                      132,
+                      480,
+                      89,
+                      480
+                    ],
+                    "text": "C",
+                    "confidence": 0.842
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  185,
+                  408,
+                  598,
+                  408,
+                  598,
+                  444,
+                  185,
+                  444
+                ],
+                "text": "NO-852-251007-017775",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      186,
+                      410,
+                      594,
+                      411,
+                      594,
+                      445,
+                      185,
+                      445
+                    ],
+                    "text": "NO-852-251007-017775",
+                    "confidence": 0.952
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  687,
+                  413,
+                  869,
+                  414,
+                  869,
+                  445,
+                  686,
+                  443
+                ],
+                "text": "Ready to Sign",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      688,
+                      414,
+                      767,
+                      414,
+                      767,
+                      445,
+                      687,
+                      441
+                    ],
+                    "text": "Ready",
+                    "confidence": 0.994
+                  },
+                  {
+                    "boundingBox": [
+                      773,
+                      414,
+                      801,
+                      414,
+                      801,
+                      445,
+                      773,
+                      445
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      807,
+                      414,
+                      867,
+                      414,
+                      867,
+                      446,
+                      807,
+                      445
+                    ],
+                    "text": "Sign",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  188,
+                  461,
+                  295,
+                  461,
+                  294,
+                  492,
+                  188,
+                  492
+                ],
+                "text": "017775",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      190,
+                      462,
+                      291,
+                      462,
+                      290,
+                      493,
+                      189,
+                      492
+                    ],
+                    "text": "017775",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  188,
+                  512,
+                  379,
+                  512,
+                  379,
+                  545,
+                  188,
+                  545
+                ],
+                "text": "Consignment",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      190,
+                      512,
+                      377,
+                      512,
+                      378,
+                      546,
+                      189,
+                      546
+                    ],
+                    "text": "Consignment",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  741,
+                  512,
+                  886,
+                  512,
+                  886,
+                  539,
+                  741,
+                  539
+                ],
+                "text": "2025-10-07",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      742,
+                      513,
+                      886,
+                      514,
+                      884,
+                      539,
+                      741,
+                      540
+                    ],
+                    "text": "2025-10-07",
+                    "confidence": 0.957
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  304,
+                  885,
+                  368,
+                  881,
+                  370,
+                  933,
+                  306,
+                  933
+                ],
+                "text": "19",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      304,
+                      883,
+                      361,
+                      881,
+                      362,
+                      933,
+                      305,
+                      934
+                    ],
+                    "text": "19",
+                    "confidence": 0.991
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  237,
+                  954,
+                  434,
+                  957,
+                  433,
+                  991,
+                  236,
+                  988
+                ],
+                "text": "Ready to Sign",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      239,
+                      955,
+                      321,
+                      956,
+                      320,
+                      991,
+                      237,
+                      989
+                    ],
+                    "text": "Ready",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      328,
+                      956,
+                      359,
+                      957,
+                      358,
+                      991,
+                      327,
+                      991
+                    ],
+                    "text": "to",
+                    "confidence": 0.998
+                  },
+                  {
+                    "boundingBox": [
+                      366,
+                      957,
+                      433,
+                      959,
+                      432,
+                      991,
+                      365,
+                      991
+                    ],
+                    "text": "Sign",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  657,
+                  1126,
+                  687,
+                  1127,
+                  687,
+                  1171,
+                  658,
+                  1170
+                ],
+                "text": "0",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      657,
+                      1126,
+                      682,
+                      1127,
+                      680,
+                      1171,
+                      657,
+                      1170
+                    ],
+                    "text": "0",
+                    "confidence": 0.639
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  614,
+                  1195,
+                  730,
+                  1197,
+                  729,
+                  1230,
+                  613,
+                  1226
+                ],
+                "text": "Pending",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      614,
+                      1195,
+                      726,
+                      1197,
+                      726,
+                      1231,
+                      613,
+                      1227
+                    ],
+                    "text": "Pending",
+                    "confidence": 0.997
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  343,
+                  1264,
+                  376,
+                  1265,
+                  374,
+                  1312,
+                  341,
+                  1311
+                ],
+                "text": "3",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      344,
+                      1264,
+                      372,
+                      1265,
+                      370,
+                      1312,
+                      343,
+                      1311
+                    ],
+                    "text": "3",
+                    "confidence": 0.996
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  299,
+                  1337,
+                  422,
+                  1336,
+                  422,
+                  1366,
+                  299,
+                  1367
+                ],
+                "text": "Declined",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      300,
+                      1337,
+                      419,
+                      1336,
+                      419,
+                      1366,
+                      299,
+                      1367
+                    ],
+                    "text": "Declined",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  563,
+                  1480,
+                  664,
+                  1478,
+                  664,
+                  1528,
+                  562,
+                  1527
+                ],
+                "text": "112",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      562,
+                      1478,
+                      657,
+                      1478,
+                      657,
+                      1528,
+                      562,
+                      1528
+                    ],
+                    "text": "112",
+                    "confidence": 0.998
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  536,
+                  1550,
+                  693,
+                  1550,
+                  693,
+                  1584,
+                  536,
+                  1584
+                ],
+                "text": "Completed",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      537,
+                      1551,
+                      689,
+                      1550,
+                      690,
+                      1585,
+                      537,
+                      1585
+                    ],
+                    "text": "Completed",
+                    "confidence": 0.995
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  115,
+                  2020,
+                  192,
+                  2021,
+                  191,
+                  2048,
+                  114,
+                  2045
+                ],
+                "text": "Home",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      115,
+                      2020,
+                      188,
+                      2022,
+                      188,
+                      2049,
+                      115,
+                      2046
+                    ],
+                    "text": "Home",
+                    "confidence": 0.989
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  405,
+                  2021,
+                  553,
+                  2021,
+                  553,
+                  2047,
+                  405,
+                  2046
+                ],
+                "text": "Documents",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      406,
+                      2022,
+                      551,
+                      2023,
+                      550,
+                      2048,
+                      405,
+                      2047
+                    ],
+                    "text": "Documents",
+                    "confidence": 0.994
+                  }
+                ]
+              },
+              {
+                "boundingBox": [
+                  758,
+                  2018,
+                  850,
+                  2020,
+                  849,
+                  2047,
+                  757,
+                  2045
+                ],
+                "text": "Profile",
+                "appearance": {
+                  "style": {
+                    "name": "other",
+                    "confidence": 0.972
+                  }
+                },
+                "words": [
+                  {
+                    "boundingBox": [
+                      758,
+                      2018,
+                      848,
+                      2021,
+                      846,
+                      2048,
+                      757,
+                      2046
+                    ],
+                    "text": "Profile",
+                    "confidence": 0.997
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
